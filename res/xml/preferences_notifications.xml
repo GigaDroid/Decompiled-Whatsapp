@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f0804fa" android:key="notifications">
+    <com.whatsapp.preference.WaCheckBoxPreference android:title="0x7f0804a5" android:key="conversation_sound" android:summary="0x7f0804a6" android:defaultValue="true" />
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f0804ee" android:key="notification">
+        <com.whatsapp.preference.WaRingtonePreference android:persistent="false" android:title="0x7f0804f5" android:key="notify_ringtone" android:summary="0x7f0804f6" android:defaultValue="content://settings/system/notification_sound" android:ringtoneType="7" android:showDefault="true" android:showSilent="true" />
+        <com.whatsapp.preference.WaCheckBoxPreference android:persistent="false" android:enabled="false" android:title="0x7f0804a7" android:key="custom_ringtone" android:summary="0x7f0804a8" android:defaultValue="false" />
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f0f001b" android:title="0x7f0804f8" android:key="notify_vibrate_length" android:defaultValue="1" android:entryValues="0x7f0f001c" />
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f0f0016" android:title="0x7f0804f1" android:key="notify_popup_mode" android:summary="0x7f0804f2" android:defaultValue="0" android:entryValues="0x7f0f0017" />
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f0f0012" android:title="0x7f0804ef" android:key="notify_light_color" android:summary="0x7f0804f0" android:defaultValue="FFFFFF" android:entryValues="0x7f0f0011" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f0804e1" android:key="group_notification">
+        <com.whatsapp.preference.WaRingtonePreference android:persistent="false" android:title="0x7f0804f5" android:key="group_notify_tone" android:summary="0x7f0804f6" android:defaultValue="content://settings/system/notification_sound" android:ringtoneType="7" android:showDefault="true" android:showSilent="true" />
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f0f001b" android:title="0x7f0804f8" android:key="group_notify_vibrate_length" android:summary="0x7f0804f9" android:defaultValue="1" android:entryValues="0x7f0f001c" />
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f0f0016" android:title="0x7f0804f1" android:key="group_notify_popup_mode" android:summary="0x7f0804f2" android:defaultValue="0" android:entryValues="0x7f0f0017" />
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f0f0012" android:title="0x7f0804ef" android:key="group_notify_light_color" android:summary="0x7f0804f0" android:defaultValue="FFFFFF" android:entryValues="0x7f0f0011" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f08049b" android:key="call_settings">
+        <com.whatsapp.preference.WaRingtonePreference android:persistent="false" android:title="0x7f08049e" android:key="call_ringtone" android:summary="0x7f08049f" android:defaultValue="content://settings/system/ringtone" android:ringtoneType="1" android:showDefault="true" android:showSilent="true" />
+        <com.whatsapp.preference.WaCheckBoxPreference android:persistent="false" android:enabled="false" android:title="0x7f08049c" android:key="call_custom_ringtone" android:summary="0x7f0804a8" android:defaultValue="false" />
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f0f001b" android:title="0x7f0804f8" android:key="call_vibrate_length" android:summary="0x7f0804a0" android:defaultValue="1" android:entryValues="0x7f0f001c" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+</PreferenceScreen>

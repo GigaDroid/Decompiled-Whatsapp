@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton android:textSize="18sp" android:layout_gravity="13" android:paddingLeft="20dp" android:paddingTop="0x7f0b00a4" android:paddingBottom="0x7f0b00a4" android:layout_width="-1" android:layout_height="-2" android:fontFamily="sans-serif" />

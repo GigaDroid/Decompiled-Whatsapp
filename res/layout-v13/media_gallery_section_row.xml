@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2" android:minHeight="40dp">
+    <TextView android:textSize="14sp" android:textStyle="1" android:textColor="?unknown_attr_ref: 1010038" android:layout_gravity="10" android:id="0x7f1002f5" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:textAllCaps="true" />
+</FrameLayout>

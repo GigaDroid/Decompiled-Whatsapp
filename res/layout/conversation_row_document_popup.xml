@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:background="0x7f0200fd" android:padding="8dp" android:layout_width="-2" android:layout_height="-2">
+    <ImageView android:id="@id/icon" android:paddingRight="8dp" android:layout_width="-2" android:layout_height="-2" android:scaleType="3" />
+    <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2">
+        <com.whatsapp.TextEmojiLabel android:textSize="15sp" android:textColor="#000" android:ellipsize="3" android:id="@id/title" android:layout_width="-2" android:layout_height="-2" android:maxLines="1" android:singleLine="true" />
+        <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+            <TextView android:id="@id/info" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c3" />
+            <TextView android:id="0x7f10021c" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c4" />
+            <TextView android:id="0x7f10021d" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c3" />
+            <TextView android:id="0x7f10021e" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c4" />
+            <TextView android:id="0x7f10021f" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c3" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

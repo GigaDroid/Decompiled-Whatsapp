@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:paddingLeft="0dp" android:layout_width="-1" android:layout_height="-2">
+    <View android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="0.5dp" />
+</LinearLayout>

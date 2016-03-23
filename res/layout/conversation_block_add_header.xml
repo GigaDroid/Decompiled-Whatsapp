@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f10012e" android:paddingTop="3dp" android:layout_width="-1" android:layout_height="-2">
+        <Button android:textStyle="1" android:id="0x7f1001eb" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="6dp" android:layout_marginRight="5dp" android:text="0x7f080077" android:layout_weight="1.0" />
+        <Button android:textStyle="1" android:id="0x7f1001ec" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="6dp" android:layout_marginRight="5dp" android:text="0x7f0802c2" android:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

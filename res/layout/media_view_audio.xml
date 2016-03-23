@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout whatsapp:background="0x7f0e0016" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <RelativeLayout whatsapp:orientation="1" whatsapp:paddingTop="64dp" whatsapp:paddingBottom="64dp" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+        <LinearLayout whatsapp:gravity="11" whatsapp:orientation="0" whatsapp:id="0x7f1002f7" whatsapp:paddingBottom="32dp" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:layout_alignParentBottom="true">
+            <ImageButton whatsapp:id="0x7f1002f8" whatsapp:padding="0dp" whatsapp:layout_width="48dp" whatsapp:layout_height="48dp" whatsapp:src="0x7f020826" whatsapp:tint="0x7f0e0097" style="0x7f0c0086" />
+            <com.whatsapp.VoiceNoteSeekBar whatsapp:id="0x7f100207" whatsapp:focusable="true" whatsapp:layout_width="0dp" whatsapp:layout_height="64dp" whatsapp:layout_marginLeft="8dp" whatsapp:layout_marginRight="8dp" whatsapp:layout_weight="1.0" whatsapp:vnsbThumbSize="12dp" whatsapp:vnsbTrackWidth="3dp" whatsapp:vnsbProgressColor="0x7f0e0097" whatsapp:vnsbBackgroundColor="#99ffffff" />
+            <TextView whatsapp:textSize="16sp" whatsapp:textColor="0x7f0e0097" whatsapp:id="0x7f1002f9" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:layout_marginLeft="8dp" whatsapp:layout_marginRight="8dp" whatsapp:text="00:00" />
+        </LinearLayout>
+        <ImageView whatsapp:id="0x7f1002fa" whatsapp:padding="32dp" whatsapp:layout_width="-1" whatsapp:layout_height="-1" whatsapp:src="0x7f02087d" whatsapp:tint="#ff999999" whatsapp:layout_above="0x7f1002f7" />
+    </RelativeLayout>
+    <include layout="0x7f0300b6" />
+</FrameLayout>

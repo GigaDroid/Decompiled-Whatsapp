@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="0x102000a" android:paddingLeft="0x7f0b0017" android:paddingRight="0x7f0b0018" android:layout_width="-1" android:layout_height="0dp" android:cacheColorHint="0x106000d" android:divider="0x7f0200f3" android:dividerHeight="0.5dp" android:choiceMode="1" android:layout_weight="1.0" android:headerDividersEnabled="false" android:footerDividersEnabled="true" />
+    <include android:id="0x7f1001cc" android:visibility="2" android:layout_below="0x7f10030e" layout="0x7f03008c" />
+    <include android:id="0x7f100175" android:visibility="2" android:layout_below="0x7f10030e" layout="0x7f03008b" />
+</LinearLayout>

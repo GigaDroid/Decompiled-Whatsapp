@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f080496" android:key="settings_gdrive">
+    <com.whatsapp.preference.WaPreference android:title="0x7f08064e" android:key="msgstore_backup_now" />
+    <PreferenceCategory android:title="0x7f0804cc" android:key="google_drive_backup">
+        <com.whatsapp.preference.WaListPreference android:entries="0x7f0f000b" android:title="0x7f0804c5" android:key="interface_gdrive_backup_frequency" android:defaultValue="0" android:entryValues="0x7f0f000c" />
+        <com.whatsapp.preference.WaPreference android:title="0x7f0804b2" android:key="gdrive_account_name" />
+        <com.whatsapp.preference.WaListPreference android:entries="0x7f0f000d" android:title="0x7f0804d0" android:key="interface_gdrive_backup_network_setting" android:defaultValue="0" android:entryValues="0x7f0f000f" />
+        <com.whatsapp.preference.WaPreference android:selectable="false" android:key="gdrive_user_notification" />
+    </PreferenceCategory>
+</PreferenceScreen>

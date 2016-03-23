@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="design_navigation_padding_top_default">24.0dip</dimen>
+    <dimen name="mid_avatar_radius">-1.0dip</dimen>
+    <dimen name="registration_profile_photo_radius">-1.0dip</dimen>
+    <dimen name="small_avatar_radius">-1.0dip</dimen>
+</resources>

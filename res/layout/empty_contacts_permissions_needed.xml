@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1">
+    <FrameLayout android:padding="8dp" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:layout_gravity="11" android:orientation="1" android:paddingLeft="0x7f0b00ac" android:paddingTop="110dp" android:paddingRight="0x7f0b00ac" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:layout_gravity="11" android:background="0x7f0208eb" android:padding="60dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020892" />
+            <TextView android:textSize="14sp" android:gravity="11" android:paddingTop="45dp" android:paddingBottom="33dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080383" style="0x7f0c00e0" />
+            <Button android:textSize="16sp" android:textColor="0x106000b" android:layout_gravity="11" android:id="0x7f10028b" android:background="0x7f020093" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="20dp" android:minWidth="88dp" android:minHeight="36dp" android:text="0x7f080392" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

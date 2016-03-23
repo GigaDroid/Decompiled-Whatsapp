@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f10012e" android:background="0x7f0200f1" android:layout_width="-1" android:layout_height="-2">
+        <Button android:textSize="13sp" android:textStyle="1" android:textColor="#ccffffff" android:id="0x7f1001eb" android:background="?unknown_attr_ref: 101039c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f080077" android:layout_weight="1.0" android:textAllCaps="true" />
+        <View android:background="@drawable/abc_list_divider_mtrl_alpha" android:layout_width="1dp" android:layout_height="-1" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" />
+        <Button android:textSize="13sp" android:textStyle="1" android:textColor="#ccffffff" android:id="0x7f1001ec" android:background="?unknown_attr_ref: 101039c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0802c2" android:layout_weight="1.0" android:textAllCaps="true" />
+    </LinearLayout>
+</FrameLayout>

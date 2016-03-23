@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+            <LinearLayout android:orientation="1" android:background="0x7f02088d" android:paddingLeft="0x7f0b00ac" android:paddingTop="6dp" android:paddingRight="0x7f0b00ac" android:layout_width="-1" android:layout_height="-2">
+                <EditText android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbarStyle="2000000" android:textColor="#000000" android:gravity="30" android:id="0x7f100258" android:scrollbars="200" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f080158" android:maxLines="4" android:minLines="4" android:selectAllOnFocus="true" android:capitalize="1" android:autoText="true" android:imeOptions="6" android:scrollbarFadeDuration="300" android:scrollbarDefaultDelayBeforeFade="200" />
+                <Button android:textStyle="1" android:layout_gravity="11" android:id="0x7f100259" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:layout_marginBottom="16dp" android:text="0x7f0801ac" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:background="0x7f020889" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0b005e" android:layout_marginTop="0x7f0b0060" android:layout_marginRight="0x7f0b005e" android:layout_marginBottom="0x7f0b0060">
+                <FrameLayout style="0x7f0c00bb">
+                    <TextView android:id="0x7f10025a" android:text="0x7f08015b" style="0x7f0c00be" />
+                    <View style="0x7f0c00bd" />
+                </FrameLayout>
+                <LinearLayout android:orientation="0" android:id="0x7f10025b" android:layout_width="-1" android:layout_height="-1" android:layout_margin="8dp" /> /> />
+    </ScrollView> />

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-1" android:layout_height="-2">
+    <com.whatsapp.util.ClippingLayout android:layout_gravity="50" android:id="0x7f1001d9" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <TextView android:textSize="18sp" android:textColor="#6b7a81" android:gravity="13" android:id="0x7f1001ed" android:background="0x106000b" android:paddingLeft="16dp" android:paddingTop="8dp" android:paddingRight="16dp" android:paddingBottom="12dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0800aa" />
+        <RelativeLayout android:id="0x7f1001ee" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2">
+            <FrameLayout android:id="0x7f1001ef" android:paddingLeft="7dp" android:paddingTop="4dp" android:paddingRight="0dp" android:paddingBottom="6dp" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f1001f0" android:layout_centerVertical="true">
+                <LinearLayout android:orientation="1" android:id="0x7f1001f1" android:background="0x7f02082c" android:clipChildren="false" android:layout_width="-1" android:layout_height="-2">
+                    <FrameLayout android:id="0x7f1001f2" android:paddingLeft="8dp" android:paddingTop="8dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" />
+                    <LinearLayout android:orientation="0" android:id="0x7f1001f3" android:clipChildren="false" android:layout_width="-1" android:layout_height="-2">
+                        <ImageButton android:layout_gravity="50" android:id="0x7f1001f4" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020834" android:contentDescription="0x7f080178" style="0x7f0c0086" />
+                        <com.whatsapp.ConversationTextEntry android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbarStyle="2000000" android:textColorHint="#cccccc" android:layout_gravity="10" android:id="0x7f1001f5" android:background="@v/m" android:paddingTop="4dp" android:paddingRight="8dp" android:paddingBottom="4dp" android:scrollbars="200" android:layout_width="0dp" android:layout_height="-2" android:maxLines="6" android:capitalize="1" android:autoText="true" android:layout_weight="1.0" android:imeOptions="4" android:contentDescription="0x7f0805a8" android:scrollbarFadeDuration="300" android:scrollbarDefaultDelayBeforeFade="200" />
+                        <ImageButton android:layout_gravity="50" android:id="0x7f1001f6" android:visibility="2" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f02082d" android:scaleType="5" android:contentDescription="0x7f08009b" style="0x7f0c0086" />
+                    </LinearLayout>
+                </LinearLayout>
+            </FrameLayout>
+            <ViewStub android:gravity="10" android:id="0x7f1001f7" android:clipChildren="false" android:clipToPadding="false" android:layout="0x7f0300f9" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f1001f0" android:layout_centerVertical="true" />
+            <FrameLayout android:id="0x7f1001f0" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-2" android:layout_height="57dp" android:layout_marginRight="8dp" android:layout_alignBottom="0x7f1001ef" android:layout_alignParentRight="true"
+                <FrameLayout android:background="0x7f02082e" android:clipChildren="false" android:clipToPadding="false" android:addStatesFromChildren="true" android:layout_width="-2" android:layout_height="-2">
+                    <ImageButton android:layout_gravity="11" android:id="0x7f1001f8" android:background="0x106000d" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f02083a" android:scaleType="5" android:contentDescription="0x7f080476" />
+                    <ImageButton android:layout_gravity="11" android:id="0x7f1001f9" android:background="0x106000d" android:visibility="2" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020838" android:scaleType="5" android:contentDescription="0x7f0805ed" />
+                </FrameLayout>
+            </FrameLayout>
+        </RelativeLayout>
+    </com.whatsapp.util.ClippingLayout>
+    <ImageView android:layout_gravity="53" android:id="0x7f1001fa" android:paddingLeft="10dp" android:paddingBottom="18dp" android:visibility="2" android:layout_width="56dp" android:layout_height="-2" android:src="0x7f0208b8" android:scaleType="5" android:tint="#f15454" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+    <ImageButton android:layout_gravity="55" android:id="0x7f1001fb" android:background="0x7f02082f" android:visibility="1" android:layout_width="96dp" android:layout_height="96dp" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_marginBottom="9dp" android:src="0x7f020839" android:scaleType="5" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    <TextView android:textColor="0x106000b" android:layout_gravity="55" android:id="0x7f1001fc" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_marginBottom="57dp" android:text="0x7f080071" android:layout_above="0x7f1001ee" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    <LinearLayout android:layout_gravity="53" android:orientation="1" android:id="0x7f1001fd" android:paddingLeft="8dp" android:paddingTop="8dp" android:paddingBottom="20dp" android:visibility="2" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+        <ImageView android:id="0x7f1001fe" android:paddingBottom="1dp" android:layout_width="48dp" android:layout_height="-2" android:src="0x7f0208b4" android:scaleType="5" android:tint="#7d8488" />
+        <ImageView android:layout_width="48dp" android:layout_height="-2" android:src="0x7f0208b3" android:scaleType="5" android:tint="#7d8488" />
+    </LinearLayout>
+</merge>

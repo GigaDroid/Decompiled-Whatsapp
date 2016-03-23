@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f1003ba" android:background="?unknown_attr_ref: 7f010102" android:paddingLeft="16dp" android:paddingTop="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="-2" android:animateLayoutChanges="true">
+        <ImageView android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="6dp" android:src="0x7f0200c7" android:contentDescription="0x7f080094" />
+        <TextView android:textSize="14sp" android:textColor="#99ffffff" android:id="0x7f1003bb" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0805f9" />
+        <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1.0" />
+    </LinearLayout>
+    <com.whatsapp.TextEmojiLabel android:textSize="35sp" android:textColor="0x106000b" android:ellipsize="3" android:gravity="3" android:id="0x7f1001ca" android:background="?unknown_attr_ref: 7f010102" android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingBottom="2dp" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" android:layout_below="0x7f1003ba" />
+    <TextView android:textSize="14sp" android:textColor="#99ffffff" android:id="0x7f1003bc" android:background="?unknown_attr_ref: 7f010102" android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingBottom="16dp" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f1001ca" />
+    <Button android:id="0x7f1003bd" android:background="0x106000d" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+    <LinearLayout android:orientation="1" android:id="0x7f1001d9" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <FrameLayout android:id="0x7f1003be" android:background="?unknown_attr_ref: 7f010102" android:layout_width="-1" android:layout_height="78dp">
+            <ImageButton android:layout_gravity="11" android:id="0x7f1003bf" android:background="0x7f0208bd" android:padding="18dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020786" android:contentDescription="0x7f0805f7" />
+        </FrameLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f1003c0" android:background="?unknown_attr_ref: 7f010102" android:visibility="2" android:layout_width="-1" android:layout_height="78dp">
+            <FrameLayout android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                <ImageButton android:layout_gravity="11" android:id="0x7f1003c1" android:background="0x7f02009c" android:padding="18dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020806" android:contentDescription="0x7f0805fc" />
+            </FrameLayout>
+            <FrameLayout android:orientation="1" android:id="0x7f1003c2" android:visibility="2" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                <ImageButton android:layout_gravity="11" android:id="0x7f1003c3" android:background="0x7f02009c" android:padding="18dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0207a7" android:contentDescription="0x7f0805f0" />
+            </FrameLayout>
+            <FrameLayout android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                <ImageButton android:layout_gravity="11" android:id="0x7f1003c4" android:background="0x7f02009c" android:padding="18dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0207b1" android:contentDescription="0x7f0805f7" />
+            </FrameLayout>
+            <FrameLayout android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                <ImageButton android:layout_gravity="11" android:id="0x7f1003c5" android:background="0x7f02009c" android:padding="18dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0207ec" android:contentDescription="0x7f0805fa" />
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:id="0x7f1003c6" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f1001d9" android:layout_below="0x7f1003bc">
+        <ImageView android:id="0x7f10037d" android:layout_width="-1" android:layout_height="-1" android:src="0x7f02006c" android:scaleType="6" android:contentDescription="0x7f0800e2" />
+        <View android:layout_gravity="50" android:background="0x7f0200cb" android:layout_width="-1" android:layout_height="4dp" />
+        <TextView android:textSize="28sp" android:textColor="0x106000b" android:gravity="11" android:layout_gravity="50" android:id="0x7f1003c7" android:paddingLeft="12dp" android:paddingRight="12dp" android:paddingBottom="90dp" android:layout_width="-1" android:layout_height="-2" android:shadowColor="0x106000c" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+    </FrameLayout>
+    <com.whatsapp.AnswerCallView android:id="0x7f1003c8" android:layout_width="-1" android:layout_height="78dp" android:layout_above="0x7f1001d9" />
+    <FrameLayout android:orientation="1" android:id="0x7f1003c9" android:paddingBottom="30dp" android:visibility="2" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:layout_above="0x7f1001d9">
+        <ImageButton android:layout_gravity="11" android:id="0x7f1003ca" android:background="0x7f020764" android:layout_width="70dp" android:layout_height="70dp" android:src="0x7f0207ad" android:contentDescription="0x7f0805f2" />
+    </FrameLayout>
+    <LinearLayout android:textColor="0x7f0e0097" android:id="0x7f1003cb" android:background="0x7f0e0016" android:padding="8dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f1003bc">
+        <TextView android:textSize="14sp" android:id="0x7f1003cc" android:layout_width="-1" android:layout_height="-2" />
+    </LinearLayout>
+</RelativeLayout>

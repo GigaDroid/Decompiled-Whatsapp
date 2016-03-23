@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Đã thanh toán dịch vụ cho %d người.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">Đã gia hạn dịch vụ thêm %1$d năm cho %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Bạn còn hơn %1$d năm sử dụng dịch vụ.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Bạn còn %1$d năm sử dụng dịch vụ.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s đã gia hạn dịch vụ thêm %2$d năm cho bạn.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Một người bạn đã gia hạn dịch vụ thêm %1$d cho bạn.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d người nhận</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, và %2$d nữa</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Phát tin đến %d liên lạc</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Không thể gửi tài liệu tới nhóm “%1$s” do %2$s và %3$d người khác đang dùng phiên bản WhatsApp không hỗ trợ tài liệu.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Gửi %1$d tài liệu tới %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Chia sẻ %1$d mục với %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Hãy tận hưởng
+%d ngày
+ dịch vụ WhatsApp"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"Còn %d ngày
+miễn phí
+dịch vụ"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Xóa %d tin nhắn?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Xóa cuộc trò chuyện với \"%1$s\"?
+Bạn có %2$d tin nhắn chưa gửi đi trong cuộc trò chuyện này."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Ảnh quá nhỏ. Vui lòng chọn ảnh với chiều cao và chiều rộng ít nhất %d pixel.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Rời nhóm \"%1$s\"?
+Bạn có %2$d tin nhắn chưa gửi đi trong cuôc trò chuyện này."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">Đã khôi phục %d tin nhắn. Đa phương tiện sẽ được khôi phục dưới nền.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">Đã khôi phục %d tin nhắn</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Gửi %1$d tài liệu tới nhóm “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Chia sẻ %1$d mục với “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s không còn là quản trị viên</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s hiện là quản trị viên</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d giờ trước</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Chính xác tới %d mét</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d tin nhắn được copy</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d tin nhắn đã xóa</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d cuộc gọi nhỡ</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d tháng</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Hãy tận hưởng
+%d tháng
+ dịch vụ WhatsApp"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"Còn %d tháng
+miễn phí
+dịch vụ"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d liên lạc</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Ít nhất %d liên lạc phải được chọn</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d được chọn</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">đã chọn %d</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s và %2$d người khác</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d byte</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d tin nhắn</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d cuộc gọi</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d tin nhắn mới</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d tin nhắn</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s từ %2$d cuộc trò chuyện</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d trang</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d bảng</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d slide</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">Còn %d</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d tin nhắn được khôi phục. Bạn đã có thể sử dụng.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Gửi lại %1$d tin nhắn từ %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Gửi %1$d tin nhắn từ hôm qua</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Đang gửi %1$d âm thanh tới %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Đang gửi %d âm thanh</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Đang gửi %1$d mục tới %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Gửi %d mục</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Đang gửi %1$d video cho %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Đang gửi %d video</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Dịch vụ WhatsApp của bạn sẽ hết hạn trong %d ngày. Gia hạn ngay bây giờ?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Phiên bản WhatsApp này cần cập nhật trong %d ngày. Cập nhật lên bản mới nhất?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d tin nhắn chưa đọc</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d năm</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Hãy tận hưởng
+%d năm
+ dịch vụ WhatsApp"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"Còn %d năm
+miễn phí
+dịch vụ"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Bạn đã tạo danh sách phát tin “%1$s” với %2$d người nhận</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Bạn đã tạo một danh sách phát tin với %d người nhận</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:id="0x1020000">
+        <shape android:shape="0">
+            <solid android:color="#ff333333" />
+        </shape>
+    </item>
+    <item android:id="0x102000f">
+        <clip>
+            <shape android:shape="0">
+                <solid android:color="#ff33b5e5" />
+            </shape>
+        </clip>
+    </item>
+    <item android:id="0x102000d">
+        <clip>
+            <shape android:shape="0">
+                <solid android:color="#ff33b5e5" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

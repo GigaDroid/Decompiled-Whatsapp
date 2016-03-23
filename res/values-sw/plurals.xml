@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Huduma imenunuliwa kwa wawasiliani %d.</item>
+        <item quantity="one">Huduma imenunuliwa kwa muwasiliani %d.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">Miaka %1$d ya huduma imenunuliwa kwa %2$s.</item>
+        <item quantity="one">Mwaka %1$d wa huduma umenunuliwa kwa %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Una zaidi ya miaka %1$d ya huduma imebakia.</item>
+        <item quantity="one">Una zaidi ya mwaka %1$d wa huduma umebakia.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Una miaka %1$d ya huduma imebakia.</item>
+        <item quantity="one">Una mwaka %1$d wa huduma umebakia.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s amenunua miaka %2$d ya huduma kwaajili yako.</item>
+        <item quantity="one">%1$s amenunua mwaka %2$d wa huduma kwaajli yako.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Rafiki amenunua miaka %1$d ya huduma kwaajili yako.</item>
+        <item quantity="one">Rafiki amenunua mwaka %1$d wa huduma kwaajili yako.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d Waliopokea</item>
+        <item quantity="one">%d Aliyepokea</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, na %2$d zaidi</item>
+        <item quantity="one">%1$s, na %2$d zaidi</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Tangaza kwa anwani %d</item>
+        <item quantity="one">Tangaza kwa anwani %d</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Hawezi kutuma hati kwa “%1$s” kwa sababu %2$s na wengine %3$d wapo kwenye toleo la WhatsApp ambalo haliwezeshi utumaji wa hati.</item>
+        <item quantity="one">Hawezi kutuma hati kwa “%1$s” kwa sababu %2$s na wengine %3$d wapo kwenye toleo la WhatsApp ambalo haliwezeshi utumaji wa hati.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Tuma hati %1$d kwa %2$s?</item>
+        <item quantity="one">Tuma hati %1$d kwa %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Gawa vitu %1$d kwa %2$s?</item>
+        <item quantity="one">Gawa kitu %1$d kwa %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">siku %d</item>
+        <item quantity="one">siku %d</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Furahia
+ siku zako %d
+ za huduma"</item>
+        <item quantity="one">"Furahia
+ siku yako %d
+ ya huduma"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"Siku %d
+za huduma
+zimabaki"</item>
+        <item quantity="one">"Siku %d
+ya huduma
+imebaki"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Ondoa jumbe %d?</item>
+        <item quantity="one">Ondoa ujumbe %d?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Futa soga za “%1$s”?
+Una jumbe %2$d ambazo hazijatumwa kwenye soga hii."</item>
+        <item quantity="one">"Futa soga za “%1$s”?
+Una ujumbe %2$d ambao haujatumwa kwenye soga hii."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Hizi picha ni ndogo sana. Tafadhali chagua picha zenye urefu na upana angalau %d pikseli.</item>
+        <item quantity="one">Hii picha ni ndogo sana. Tafadhali chagua picha yenye urefu na upana angalau %d pikseli</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Unajitoa kwenye kikundi cha “%1$s”?
+ Una jumbe %2$d ambazo hazijatumwa kwenye soga hii."</item>
+        <item quantity="one">"Unajitoa kwenye kikundi cha “%1$s”?
+ Una ujumbe %2$d ambao haujatumwa kwenye soga hii."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">Jumbe %d zimerejeshwa. Media zako zitarejeshwa kwa usuli.</item>
+        <item quantity="one">Ujumbe %d umerejeshwa. Media zako zitarejeshwa kwa usuli.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">Jumbe %d zimerejeshwa</item>
+        <item quantity="one">Ujumbe %d umerejeshwa</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Tuma hati %1$d kwa “%2$s”?</item>
+        <item quantity="one">Tuma hati %1$d kwa “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Gawa vitu %1$d na “%2$s”?</item>
+        <item quantity="one">Gawa kitu %1$d na “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s sio watawala tena</item>
+        <item quantity="one">%s sio mtawala tena</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s sasa ni watawala</item>
+        <item quantity="one">%s sasa ni mtawala</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d saa</item>
+        <item quantity="one">%d saa</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Saa %d zimepita</item>
+        <item quantity="one">Saa %d imepita</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Sahihi mpaka mita %d</item>
+        <item quantity="one">Sahihi mpaka mita %d</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">Jumbe %d zimenakiliwa</item>
+        <item quantity="one">Ujumbe %d umenakiliwa</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">Jumbe %d zimefutwa</item>
+        <item quantity="one">Ujumbe %d umefutwa</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">dakika %d</item>
+        <item quantity="one">dakika %d</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">dakika %d zilizopita</item>
+        <item quantity="one">dakika %d iliyopita</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">Simu ulizozikosa %d</item>
+        <item quantity="one">Simu uliyoikosa %d</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">miezi %d</item>
+        <item quantity="one">mwezi %d</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Furahia
+ miezi yako %d
+ ya huduma"</item>
+        <item quantity="one">"Furahia
+ mwezi wako %d
+ wa huduma"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"miezi%d 
+ya huduma
+ imebaki"</item>
+        <item quantity="one">"mwezi %d 
+wa huduma
+ umebaki"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">Wawasiliani %d</item>
+        <item quantity="one">Muwasiliani %d</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Angalau wawasiliani %d wawe wamechaguliwa</item>
+        <item quantity="one">Angalau muwasiliani %d awe amechaguliwa</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">Zimechaguliwa %d</item>
+        <item quantity="one">Imechaguliwa %d</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">Zimechaguliwa %d</item>
+        <item quantity="one">Imechaguliwa %d</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s na wengine %2$d</item>
+        <item quantity="one">%1$s na mwingine %2$d</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">mimego %1$d</item>
+        <item quantity="one">mego %1$d</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d Ujumbe</item>
+        <item quantity="one">%1$d Ujumbe</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">Miito %1$d</item>
+        <item quantity="one">Mwito %1$d</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">Jumbe mpya %d</item>
+        <item quantity="one">Ujumbe mpya %d</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">jumbe %d</item>
+        <item quantity="one">ujumbe %d</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s kutoka soga %2$d</item>
+        <item quantity="one">%1$s kutoka soga %2$d</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">Kurasa %d</item>
+        <item quantity="one">Ukurasa %d</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">Shiti %d</item>
+        <item quantity="one">Shiti %d</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">Mitelezo %d</item>
+        <item quantity="one">Mtelezo %d</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">Zimebaki %d</item>
+        <item quantity="one">Imebaki %d</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">Jumbe %,d zimerejeshwa. Unaweza kuendelea.</item>
+        <item quantity="one">Ujumbe %,d umerejeshwa. Unaweza kuendelea.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Tuma tena jumbe %1$d za %2$s</item>
+        <item quantity="one">Tuma tena ujumbe %1$d wa %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Tuma tena jumbe %1$d za jana</item>
+        <item quantity="one">Tuma tena ujumbe %1$d wa jana</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">Sekunde %d</item>
+        <item quantity="one">Sekunde %d</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Inatuma sauti %1$d kwa %2$s</item>
+        <item quantity="one">Inatuma sauti %1$d kwa %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Inatuma sauti %d</item>
+        <item quantity="one">Inatuma sauti %d</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Inatuma mafaili %1$d kwa %2$s</item>
+        <item quantity="one">Inatuma faili %1$d kwa %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Inatuma mafaili %d</item>
+        <item quantity="one">Inatuma faili %d</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Inatuma video %1$d kwa %2$s</item>
+        <item quantity="one">Inatuma video %1$d kwa %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Inatuma video %d</item>
+        <item quantity="one">Inatuma video %d</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Huduma yako ya WhatsApp itakwisha ndani ya siku %d. Nunua muendelezo sasa?</item>
+        <item quantity="one">Huduma yako ya WhatsApp itakwisha ndani ya siku %d. Nunua muendelezo sasa?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Toleo hili la WhatsApp linahitaji kusasishwa ndani ya siku %d. Sasisha toleo la mwisho?</item>
+        <item quantity="one">Toleo hili la WhatsApp linahitaji kusasishwa ndani ya siku %d. Sasisha toleo la mwisho?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">Jumbe zisizosomwa %d</item>
+        <item quantity="one">Ujumbe usiosomwa %d</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">Miaka %d</item>
+        <item quantity="one">Mwaka %d</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Furahia
+ miaka yako %d
+ ya huduma"</item>
+        <item quantity="one">"Furahia
+ mwaka wako %d
+ wa huduma"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"Miaka %d 
+ya huduma
+imebaki"</item>
+        <item quantity="one">"Mwaka %d 
+wa huduma
+umebaki"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Umeunda orodha “%1$s” ya matangazo yenye wahusika %2$d</item>
+        <item quantity="one">Umeunda orodha “%1$s” ya matangazo yenye muhusika %2$d</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Umeunda orodha ya tangazo yenye wapokeaji %d</item>
+        <item quantity="one">Umeunda orodha ya tangazo yenye mpokeaji %d</item>
+    </plurals>
+</resources>

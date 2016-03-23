@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet android:transitionOrdering="1">
+    <transition android:duration="120" class="com.whatsapp.RevealTransition">
+        <targets>
+            <target android:targetId="0x7f1001aa" />
+        </targets>
+    </transition>
+    <transitionSet android:duration="300">
+        <changeBounds />
+        <changeTransform />
+        <changeImageTransform />
+    </transitionSet>
+</transitionSet>

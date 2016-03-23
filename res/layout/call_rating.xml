@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:layout_gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="20sp" android:textColor="0x106000b" android:id="0x7f10015d" android:background="0x7f02088c" android:paddingLeft="24dp" android:paddingTop="32dp" android:paddingRight="24dp" android:paddingBottom="24dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080099" />
+        <LinearLayout android:orientation="1" android:background="0x7f02088b" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:id="0x7f10015e" android:paddingTop="24dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2"
+                <LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                    <CheckBox android:id="0x7f10015f" android:layout_width="-2" android:layout_height="-2" />
+                    <TextView android:id="0x7f100160" android:text="Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo " style="0x7f0c013c" />
+                </LinearLayout>
+                <LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                    <CheckBox android:id="0x7f100161" android:layout_width="-2" android:layout_height="-2" />
+                    <TextView android:id="0x7f100162" android:text="Distortion" style="0x7f0c013c" />
+                </LinearLayout>
+                <LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                    <CheckBox android:id="0x7f100163" android:layout_width="-2" android:layout_height="-2" />
+                    <TextView android:id="0x7f100164" android:text="No sound" style="0x7f0c013c" />
+                </LinearLayout>
+                <EditText android:textColorHint="#c3c7ca" android:id="0x7f100165" android:paddingTop="24dp" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f0805c0" android:maxLines="4" android:inputType="4001" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f100166" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="18sp" android:textColor="0x7f0e0080" android:gravity="11" android:id="0x7f100167" android:paddingTop="24dp" android:paddingBottom="4dp" android:visibility="1" android:layout_width="-1" android:layout_height="-2" />
+                <RatingBar android:layout_gravity="1" android:id="0x7f100168" android:layout_width="-2" android:layout_height="-2" android:progressDrawable="0x7f0208b2" android:numStars="5" android:stepSize="1.0" />
+            </LinearLayout>
+            <LinearLayout android:layout_gravity="5" android:orientation="0" android:paddingTop="12dp" android:paddingBottom="8dp" android:layout_width="-2" android:layout_height="-2">
+                <Button android:id="0x7f100169" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080358" style="@style/Widget_AppCompat_Button_Borderless_Colored" />
+                <Button android:id="0x7f10016a" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080557" style="@style/Widget_AppCompat_Button_Borderless_Colored" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

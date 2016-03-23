@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.whatsapp.DividerView android:id="0x7f100200" style="0x7f0c00c9" />
+    <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="40dp" android:layout_below="0x7f100200" android:layout_alignParentRight="true">
+        <FrameLayout android:padding="0x7f0b0080" android:layout_width="-2" android:layout_height="-2">
+            <view android:id="0x7f1001be" android:background="#ff000000" android:layout_width="-1" android:layout_height="-1" android:scaleType="6" class="com.whatsapp.ConversationRowVideo$RowVideoView" />
+            <TextView android:textSize="12.5sp" android:textStyle="1" android:textColor="0x106000b" android:layout_gravity="53" android:id="@id/info" android:paddingLeft="10dp" android:paddingRight="10dp" android:paddingBottom="4dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" android:drawablePadding="4dp" />
+            <LinearLayout android:gravity="10" android:layout_gravity="55" android:orientation="0" android:id="0x7f100209" android:paddingLeft="2dp" android:paddingRight="2dp" android:paddingBottom="2dp" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:textColor="0x7f0e0036" android:layout_gravity="15" android:id="0x7f10020a" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c2" />
+                <ImageView android:layout_gravity="10" android:id="0x7f100158" android:paddingLeft="0dp" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+            <FrameLayout android:layout_gravity="11" android:id="0x7f100221" android:background="0x7f0200ff" android:layout_width="-2" android:layout_height="-2">
+                <com.whatsapp.CircularProgressBar android:layout_gravity="11" android:id="0x7f1000a9" android:visibility="2" android:layout_width="64dp" android:layout_height="64dp" android:indeterminateOnly="false" />
+                <ImageView android:layout_gravity="11" android:id="0x7f1000ee" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020083" />
+                <Button android:textColor="0x7f0e0036" android:layout_gravity="11" android:id="0x7f100205" android:background="@v/m" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="-2" android:layout_height="-2" android:drawableLeft="0x7f0200bb" android:drawablePadding="8dp" />
+            </FrameLayout>
+        </FrameLayout>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b007e" android:textColor="#dd000000" android:id="0x7f100222" android:paddingLeft="8dp" android:paddingRight="8dp" android:paddingBottom="0x7f0b0080" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="-1dp" />
+    </LinearLayout>
+</merge>

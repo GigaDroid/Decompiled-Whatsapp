@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false">
+    <item android:duration="50" android:drawable="0x7f0208aa" />
+    <item android:duration="50" android:drawable="0x7f0208ab" />
+    <item android:duration="50" android:drawable="0x7f0208ac" />
+    <item android:duration="50" android:drawable="0x7f0208ad" />
+    <item android:duration="50" android:drawable="0x7f0208ae" />
+    <item android:duration="50" android:drawable="0x7f0208af" />
+    <item android:duration="50" android:drawable="0x7f0208b0" />
+    <item android:duration="50" android:drawable="0x7f0208b1" />
+</animation-list>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:id="0x7f100193" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="0.5">
+        <LinearLayout android:orientation="1" android:padding="8dp" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:background="0x7f020889" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="6dp">
+                <TextView android:textColor="#727272" android:id="0x7f100194" android:paddingLeft="16dp" android:paddingTop="12dp" android:paddingRight="16dp" android:layout_width="-1" android:text="0x7f0800b4" android:layout_weight="1.0" style="0x7f0c00e2" />
+                <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f100195" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="12dp" android:layout_marginRight="12dp">
+                    <TextView android:textSize="20sp" android:textColor="#b8b8b8" android:layout_width="-2" android:layout_height="-2" android:text="+" />
+                    <EditText android:gravity="11" android:id="0x7f100196" android:layout_width="0x7f0b009c" android:layout_height="-2" android:singleLine="true" android:digits="0123456789" android:inputType="3" />
+                    <EditText android:textColor="#000000" android:textColorHint="#888888" android:ellipsize="3" android:id="0x7f100197" android:layout_width="0dp" android:layout_height="-2" android:hint="0x7f0800ba" android:singleLine="true" android:selectAllOnFocus="true" android:layout_weight="1.0" android:inputType="3" android:imeOptions="6" />
+                </LinearLayout>
+                <TextView android:textColor="#727272" android:id="0x7f100198" android:paddingLeft="16dp" android:paddingTop="32dp" android:paddingRight="16dp" android:layout_width="-1" android:text="0x7f0800b3" android:layout_weight="1.0" style="0x7f0c00e2" />
+                <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f100199" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:layout_marginBottom="16dp">
+                    <TextView android:textSize="20sp" android:textColor="#b8b8b8" android:layout_width="-2" android:layout_height="-2" android:text="+" />
+                    <EditText android:gravity="11" android:id="0x7f10019a" android:layout_width="0x7f0b009c" android:layout_height="-2" android:singleLine="true" android:digits="0123456789" android:inputType="3" />
+                    <EditText android:textColor="#000000" android:textColorHint="#888888" android:ellipsize="3" android:id="0x7f10019b" android:layout_width="0dp" android:layout_height="-2" android:hint="0x7f0800b9" android:singleLine="true" android:selectAllOnFocus="true" android:layout_weight="1.0" android:inputType="3" android:imeOptions="6" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:layout_width="-1" android:layout_height="16dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

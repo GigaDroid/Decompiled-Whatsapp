@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout whatsapp:padding="8dp" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <com.whatsapp.CircularProgressBar whatsapp:layout_gravity="11" whatsapp:id="0x7f1000a9" whatsapp:layout_width="24dp" whatsapp:layout_height="24dp" whatsapp:indeterminateOnly="true" whatsapp:cpbColor="0x106000b" whatsapp:cpbBackground="0x106000d" whatsapp:cpbStrokeWidthFactor="4.0" />
+</FrameLayout>

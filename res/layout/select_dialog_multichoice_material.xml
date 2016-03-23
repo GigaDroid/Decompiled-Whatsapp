@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="?unknown_attr_ref: 7f01010f" android:ellipsize="4" android:gravity="10" android:id="0x1020014" android:paddingLeft="@dimen/abc_select_dialog_padding_start_material" android:paddingRight="?unknown_attr_ref: 7f0100db" android:layout_width="-1" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 7f0100f6" android:drawableLeft="?unknown_attr_ref: 101021a" android:drawablePadding="20dp" />

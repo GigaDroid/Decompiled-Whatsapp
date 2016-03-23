@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Servei comprat per a %d contactes.</item>
+        <item quantity="one">Servei comprat per a %d contacte.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d anys de servei pagat per %2$s.</item>
+        <item quantity="one">%1$d any de servei pagat per %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Et queden més de %1$d anys de servei.</item>
+        <item quantity="one">Et queda més de %1$d any de servei.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Et queden %1$d anys de servei.</item>
+        <item quantity="one">Et queda %1$d any de servei.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">"%1$s t'ha pagat %2$d anys de servei."</item>
+        <item quantity="one">"%1$s t'ha pagat %2$d any de servei."</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">"Un amic t'ha pagat %1$d anys de servei."</item>
+        <item quantity="one">"Un amic t'ha pagat %1$d any de servei."</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d destinataris</item>
+        <item quantity="one">%d destinatari</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, i %2$d més</item>
+        <item quantity="one">%1$s, i %2$d més</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Difondre a %d contactes</item>
+        <item quantity="one">Difondre a %d contacte</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">No pots enviar documents a “%1$s” perquè %2$s i %3$d altres estan en una versió de WhatsApp que no els suporta.</item>
+        <item quantity="one">No pots enviar document a “%1$s” perquè %2$s i %3$d altres estan en una versió de WhatsApp que no els suporta.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Enviar %1$d documents a %2$s?</item>
+        <item quantity="one">Enviar %1$d document a %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Vols compartir %1$d elements amb %2$s?</item>
+        <item quantity="one">Vols compartir %1$d element amb %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Disfruteu del
+vostre %d dia
+de servei"</item>
+        <item quantity="one">"Disfruta del
+teu %d dia
+de servei"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"Queden %d dies
+de servei
+"</item>
+        <item quantity="one">"Queda %d dia
+de servei
+"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Esborrar %d missatges?</item>
+        <item quantity="one">Esborrar %d missatge?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Esborrar xat amb “%1$s”?
+Tens %2$d missatges per enviar en aquesta conversa."</item>
+        <item quantity="one">"Esborrar xat amb “%1$s”?
+Tens %2$d missatge per enviar en aquesta conversa."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">"La imatge és massa petita. Si us plau, seleccioneu una fotografia amb una alçada i una amplada d'almenys %d píxels."</item>
+        <item quantity="one">"La imatge és massa petita. Si us plau, seleccioneu una fotografia amb una alçada i una amplada d'almenys %d píxel."</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Sortir del grup “%1$s”?
+Tens %2$d missatges per enviar en aquesta conversa."</item>
+        <item quantity="one">"Sortir del grup “%1$s”?
+Tens %2$d missatge per enviar en aquesta conversa."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d missatges recuperats. Els mitjans es recuperaran en segon pla.</item>
+        <item quantity="one">%d missatge recuperat. Els mitjans es recuperaran en segon pla.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d missatges recuperats</item>
+        <item quantity="one">%d missatge recuperat</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Enviar documents %1$d a “%2$s”?</item>
+        <item quantity="one">Enviar el document %1$d a “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Vols compartir %1$d elements amb “%2$s”?</item>
+        <item quantity="one">Vols compartir %1$d element amb “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s ja no són administradors</item>
+        <item quantity="one">%s ja no és administrador</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s són ara administradors</item>
+        <item quantity="one">%s és ara administrador</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">fa %d hores</item>
+        <item quantity="one">fa %d hora</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Precisió de %d metres</item>
+        <item quantity="one">Precisió de %d metre</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d missatges copiats</item>
+        <item quantity="one">%d missatge copiat</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d missatges esborrats</item>
+        <item quantity="one">%d missatge esborrat</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa %d minut</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d trucades perdudes</item>
+        <item quantity="one">%d trucada perduda</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d mesos</item>
+        <item quantity="one">%d mes</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Disfruteu del
+%d vostre mes
+de servei"</item>
+        <item quantity="one">"Disfruta del
+%d teu mes
+de servei"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"queden %d mesos
+ de servei
+"</item>
+        <item quantity="one">"queda %d mes
+de servei
+"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">%d contacte</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">"Almenys s'han de seleccionar %d contactes"</item>
+        <item quantity="one">"Almenys s'ha de seleccionar %d contacte"</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d seleccionats</item>
+        <item quantity="one">%d seleccionat</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d seleccionats</item>
+        <item quantity="one">%d seleccionat</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s i %2$d altres</item>
+        <item quantity="one">%1$s i %2$d altre</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bytes</item>
+        <item quantity="one">%1$d byte</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d missatges</item>
+        <item quantity="one">%1$d missatge</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d call trucades</item>
+        <item quantity="one">%1$d trucada</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d nous missatges</item>
+        <item quantity="one">%d nou missatge</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d missatges</item>
+        <item quantity="one">%d missatge</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s de %2$d xats</item>
+        <item quantity="one">"%1$s d'%2$d xat"</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d pàgines</item>
+        <item quantity="one">%d pàgina</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d fulls</item>
+        <item quantity="one">%d full</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d diapositives</item>
+        <item quantity="one">%d diapositiva</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d pendents</item>
+        <item quantity="one">%d pendent</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d missatges recuperats. Ja hi pots anar.</item>
+        <item quantity="one">%,d missatge recuperat. Ja hi pots anar.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Reenviar %1$d missatges de %2$s</item>
+        <item quantity="one">Reenviar %1$d missatge de %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">"Reenviar %1$d missatges d'ahir"</item>
+        <item quantity="one">"Reenviar %1$d missatge d'ahir"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segons</item>
+        <item quantity="one">%d segon</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Enviant %1$d àudios a %2$s</item>
+        <item quantity="one">Enviant %1$d àudio a %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Enviant %d àudios</item>
+        <item quantity="one">Enviant %d àudio</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Enviant %1$d arxius a %2$s</item>
+        <item quantity="one">Enviant %1$d arxiu a %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Enviant %d arxius</item>
+        <item quantity="one">Enviant %d arxiu</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Enviant %1$d vídeos a %2$s</item>
+        <item quantity="one">Enviant %1$d vídeo a %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Enviant %d vídeos</item>
+        <item quantity="one">Enviant %d vídeo</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Falten %d dies perquè caduqui la teva subscripció de WhatsApp. Vols comprar una extensió?</item>
+        <item quantity="one">Falta %d dia perquè caduqui la teva subscripció de WhatsApp. Vols comprar una extensió?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Aquesta versió de WhatsApp necessita actualitzar-se en %d dies. Vols actualitzar a la darrera versió?</item>
+        <item quantity="one">Aquesta versió de WhatsApp necessita actualitzar-se en %d dia. Vols actualitzar a la darrera versió?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d missatges no llegits</item>
+        <item quantity="one">%d missatge no llegit</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d anys</item>
+        <item quantity="one">%d any</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Gaudeixi dels seus
+%d anys
+del servei"</item>
+        <item quantity="one">"Gaudeixi del seu
+%d any
+del servei"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"Queden %d anys
+de servei
+"</item>
+        <item quantity="one">"Queda %d any
+de servei
+"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Has creat la llista de difusió “%1$s” amb %2$d destinataris</item>
+        <item quantity="one">Has creat la llista de difusió “%1$s” amb %2$d destinatari</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Has creat una llista de difusió amb %d destinataris</item>
+        <item quantity="one">Has creat una llista de difusió amb %d destinatari</item>
+    </plurals>
+</resources>

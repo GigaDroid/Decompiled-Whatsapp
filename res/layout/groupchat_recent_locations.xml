@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.whatsapp.GoogleMapView android:enabled="true" android:id="0x7f1002ac" android:clickable="true" android:layout_width="-1" android:layout_height="-1" android:apiKey="0x7f080645" />
+    <LinearLayout android:gravity="10" android:id="0x7f1002ad" android:background="#99000000" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <ImageButton android:id="0x7f1002ae" android:background="0x7f0208d7" android:layout_width="0x7f0b00a8" android:layout_height="0x7f0b00a7" android:src="0x7f0200c1" android:scaleType="5" android:contentDescription="0x7f0802ab" />
+        <ImageView android:layout_gravity="10" android:background="0x7f020857" android:layout_width="-2" android:layout_height="-2" />
+        <TextView android:textSize="16sp" android:textStyle="1" android:textColor="#ffffff" android:gravity="11" android:layout_gravity="10" android:id="0x7f100158" android:layout_width="0dp" android:layout_height="0x7f0b00a7" android:layout_weight="1.0" />
+        <ImageView android:layout_gravity="10" android:background="0x7f020857" android:layout_width="-2" android:layout_height="-2" />
+        <ImageButton android:id="0x7f1002af" android:background="0x7f0208d7" android:layout_width="0x7f0b00a8" android:layout_height="0x7f0b00a7" android:src="0x7f0200c0" android:scaleType="5" />
+        <ImageButton android:id="0x7f1002b0" android:background="0x7f0208d7" android:layout_width="0x7f0b00a8" android:layout_height="0x7f0b00a7" android:src="0x7f0200c2" android:scaleType="5" />
+    </LinearLayout>
+</RelativeLayout>

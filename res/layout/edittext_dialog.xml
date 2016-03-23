@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <TextView android:textSize="22sp" android:textColor="0x7f0e0097" android:id="0x7f10026a" android:paddingLeft="4dp" android:paddingBottom="4dp" android:layout_width="-1" android:layout_height="-2" />
+    <View android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="1px" android:layout_marginBottom="4dp" />
+    <EditText android:id="0x7f10026b" android:layout_width="-1" android:layout_height="-2" android:layout_margin="2dp" android:inputType="1" android:imeOptions="4" />
+    <LinearLayout android:orientation="0" android:background="0x7f02077c" android:paddingLeft="2dp" android:paddingTop="3dp" android:paddingRight="2dp" android:layout_width="-1" android:layout_height="-2">
+        <Button android:id="0x7f10026c" android:layout_width="0dp" android:layout_height="-2" android:text="OK" android:layout_weight="0.5" />
+        <Button android:id="0x7f10026d" android:layout_width="0dp" android:layout_height="-2" android:text="Cancel" android:layout_weight="0.5" />
+    </LinearLayout>
+</LinearLayout>

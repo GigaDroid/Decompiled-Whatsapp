@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout whatsapp:id="0x7f100268" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <com.tonicartos.widget.stickygridheaders.StickyGridHeadersGridView whatsapp:id="0x7f100269" whatsapp:layout_width="-1" whatsapp:layout_height="-1" whatsapp:listSelector="0x7f0208d7" whatsapp:drawSelectorOnTop="true" whatsapp:cacheColorHint="#00000000" whatsapp:horizontalSpacing="0x7f0b00a0" whatsapp:verticalSpacing="0x7f0b00a0" whatsapp:stretchMode="2" whatsapp:columnWidth="0x7f0b00a1" whatsapp:numColumns="-1" />
+    <ScrollView whatsapp:id="0x7f100297" whatsapp:visibility="2" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+        <TextView whatsapp:textSize="18sp" whatsapp:textColor="?unknown_attr_ref: 1010036" whatsapp:layout_gravity="11" whatsapp:paddingBottom="64dp" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:text="0x7f080281" />
+    </ScrollView>
+    <com.whatsapp.CircularProgressBar whatsapp:layout_gravity="11" whatsapp:id="0x7f1000a9" whatsapp:visibility="2" whatsapp:layout_width="64dp" whatsapp:layout_height="64dp" whatsapp:indeterminateOnly="true" whatsapp:cpbColor="0x7f0e0007" whatsapp:cpbBackground="0x106000d" />
+</FrameLayout>

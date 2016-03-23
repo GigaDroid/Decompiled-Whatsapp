@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f1002ec" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="1" android:background="0x7f0e0097" android:layout_width="-1" android:layout_height="-2">
+        <FrameLayout android:paddingLeft="0x7f0b00b0" style="0x7f0c00cb">
+            <TextView android:id="0x7f1002ed" android:text="0x7f0805e6" style="0x7f0c00ce" />
+            <TextView android:id="0x7f1002ee" android:includeFontPadding="false" style="0x7f0c00cc" />
+        </FrameLayout>
+        <RelativeLayout android:layout_width="-1" android:layout_height="-2">
+            <HorizontalScrollView android:gravity="10" android:id="0x7f1002ef" android:paddingTop="12dp" android:paddingBottom="10dp" android:scrollbars="0" android:clipToPadding="false" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true">
+                <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f1002f0" android:paddingLeft="14dp" android:paddingRight="14dp" android:layout_width="-2" android:layout_height="0x7f0b00c2" />
+            </HorizontalScrollView>
+        </RelativeLayout> />
+    <View android:background="0x7f020842" android:layout_width="-1" android:layout_height="0x7f0b00ae" />
+</LinearLayout>

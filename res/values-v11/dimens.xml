@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contact_list_padding_left">0.0dip</dimen>
+    <dimen name="contact_list_padding_right">20.0dip</dimen>
+    <dimen name="conversation_imageview_size">48.0dip</dimen>
+    <dimen name="conversation_text_entry_marginbottom">0.0dip</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:id="0x1020000" android:drawable="0x7f020067" />
+    <item android:id="0x102000f">
+        <scale android:drawable="0x7f020063" android:scaleWidth="100%" />
+    </item>
+    <item android:id="0x102000d">
+        <scale android:drawable="0x7f020061" android:scaleWidth="100%" />
+    </item>
+</layer-list>

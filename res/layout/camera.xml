@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1"
+    <FrameLayout android:id="0x7f10017b" android:layout_width="-1" android:layout_height="-1"
+        <FrameLayout android:id="0x7f10017c" android:layout_width="-1" android:layout_height="-1">
+            <com.whatsapp.camera.CameraView android:layout_gravity="11" android:id="0x7f10017d" android:layout_width="-2" android:layout_height="-2" />
+        </FrameLayout>
+        <ImageView android:layout_gravity="51" android:id="0x7f10017e" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200b5" />
+        <ImageButton android:layout_gravity="55" android:id="0x7f10017f" android:background="@v/m" android:padding="12dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200ba" />
+        <ImageButton android:layout_gravity="53" android:id="0x7f100180" android:background="@v/m" android:padding="12dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02008a" />
+    </FrameLayout>
+    <FrameLayout android:id="0x7f100181" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <com.whatsapp.PhotoView android:id="0x7f100182" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+        <FrameLayout android:id="0x7f100183" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+            <com.whatsapp.VideoView android:layout_gravity="11" android:id="0x7f100184" android:layout_width="-1" android:layout_height="-1" android:scaleType="3" />
+            <ImageView android:layout_gravity="11" android:id="0x7f100185" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02087e" android:scaleType="5" android:contentDescription="0x7f0803d2" />
+            <LinearLayout android:gravity="10" android:layout_gravity="50" android:orientation="0" android:id="0x7f100186" android:paddingLeft="8dp" android:paddingRight="8dp" android:paddingBottom="152dp" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textColor="0x106000b" android:id="0x7f100187" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="0:00" android:shadowColor="0x106000c" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+                <SeekBar android:id="0x7f100188" android:paddingLeft="16dp" android:paddingRight="16dp" android:focusable="true" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:maxHeight="13dp" android:indeterminateOnly="false" android:indeterminateDrawable="0x7f020062" android:progressDrawable="0x7f020062" android:minHeight="13dp" android:thumb="0x7f020064" android:thumbOffset="16dp" android:layout_weight="1.0" />
+                <TextView android:textColor="0x106000b" android:id="0x7f100189" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="0:00" android:shadowColor="0x106000c" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+            </LinearLayout>
+        </FrameLayout>
+        <LinearLayout android:layout_gravity="50" android:orientation="1" android:id="0x7f10018a" android:layout_width="-1" android:layout_height="-2">
+            <include layout="0x7f0300b0" />
+            <View android:id="0x7f10018b" android:layout_width="-1" android:layout_height="96dp" />
+        </LinearLayout>
+        <ImageButton android:layout_gravity="55" android:id="0x7f10018c" android:background="0x7f0200cd" android:padding="16dp" android:layout_width="-2" android:layout_height="-2" android:layout_margin="16dp" android:src="0x7f0207b9" android:contentDescription="0x7f08035c" />
+        <ImageButton android:layout_gravity="53" android:id="0x7f100169" android:background="0x7f0200cd" android:padding="16dp" android:layout_width="-2" android:layout_height="-2" android:layout_margin="16dp" android:src="0x7f0207b7" android:contentDescription="0x7f0800a4" />
+    </FrameLayout>
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <RelativeLayout android:background="#99000000" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f0100c6">
+            <LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+                <com.whatsapp.TextEmojiLabel android:ellipsize="3" android:gravity="13" android:id="@id/title" android:background="@v/m" android:width="0dp" android:singleLine="true" android:layout_weight="1.0" style="0x7f0c00d2" />
+                <ImageView android:id="0x7f10018d" android:visibility="2" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020788" style="0x7f0c0086" />
+                <ImageView android:id="0x7f10018e" android:visibility="2" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020794" style="0x7f0c0086" />
+                <TextView android:textColor="#ffffffff" android:gravity="11" android:id="0x7f10018f" android:paddingLeft="12dp" android:paddingRight="12dp" android:visibility="2" android:layout_width="-2" android:layout_height="-1" android:text="0:00" android:drawableLeft="0x7f0207f2" android:drawablePadding="8dp" />
+            </LinearLayout>
+            <ProgressBar android:id="0x7f100190" android:visibility="2" android:layout_width="-1" android:layout_height="4dp" android:indeterminateOnly="false" android:indeterminateDrawable="0x7f0208a9" android:progressDrawable="0x7f0208f4" android:layout_alignParentTop="true" />
+        </RelativeLayout>
+        <RelativeLayout android:padding="12dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textColor="#ffffffff" android:gravity="11" android:id="0x7f100191" android:background="0x7f0208b6" android:paddingLeft="12dp" android:paddingTop="4dp" android:paddingRight="12dp" android:paddingBottom="4dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0805e0" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="11" android:id="0x7f100192" android:background="0x7f02081a" android:visibility="2" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 101007a" />
+</FrameLayout>

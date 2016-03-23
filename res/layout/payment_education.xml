@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:background="0x7f0e0075" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:layout_width="0dp" android:text="0x7f08019e" android:layout_weight="1.0" style="0x7f0c00d3" />
+        <TextView android:gravity="11" android:id="0x7f10032d" android:paddingLeft="0x7f0b00e4" android:paddingRight="0x7f0b00e4" android:visibility="2" android:minWidth="50dp" android:text="0x7f080648" android:contentDescription="0x7f080406" style="0x7f0c00d0" />
+    </LinearLayout>
+    <RelativeLayout android:gravity="11" android:background="0x7f02074f" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0"
+        <RelativeLayout android:gravity="11" android:id="@id/center" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true">
+            <ImageView android:id="0x7f10032e" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020773" android:scaleType="5" android:layout_centerInParent="true" />
+            <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f10032f" android:paddingBottom="22dp" android:layout_width="200dp" android:layout_height="-2" android:layout_centerInParent="true">
+                <TextView android:textSize="22dp" android:typeface="2" android:textColor="#a1a4a4" android:gravity="11" android:id="0x7f100330" android:paddingLeft="22dp" android:paddingRight="22dp" android:layout_width="-2" android:layout_height="-2" android:shadowColor="#ffffffff" android:shadowDx="0.0" android:shadowDy="1.5" android:shadowRadius="0.8" />
+                <TextView android:textSize="18dp" android:typeface="2" android:textStyle="2" android:textColor="#6ca1a5" android:gravity="11" android:id="0x7f100331" android:layout_width="-1" android:layout_height="-2" android:shadowColor="#ffffffff" android:shadowDx="0.0" android:shadowDy="1.5" android:shadowRadius="0.8" />
+                <TextView android:textSize="22dp" android:typeface="2" android:textColor="#a1a4a4" android:gravity="11" android:id="0x7f100332" android:layout_width="-2" android:layout_height="-2" android:shadowColor="#ffffffff" android:shadowDx="0.0" android:shadowDy="1.5" android:shadowRadius="0.8" />
+            </LinearLayout>
+        </RelativeLayout>
+        <TextView android:textSize="14dp" android:textColor="#94b3b5" android:id="0x7f100333" android:padding="0dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0dp" android:text="0x7f080625" android:layout_below="@id/center" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <View style="0x7f0c00d1" />
+    <LinearLayout android:gravity="11" android:layout_gravity="11" android:id="0x7f100334" android:background="0x7f0e0050" android:layout_width="-1" android:layout_height="76dp">
+        <Button android:gravity="11" android:layout_gravity="11" android:id="0x7f100335" android:paddingLeft="20dp" android:paddingRight="20dp" android:visibility="2" android:layout_width="280dp" android:layout_height="-2" android:layout_margin="5dp" android:text="0x7f08008a" style="0x7f0c0019" />
+        <LinearLayout android:gravity="10" android:layout_gravity="11" android:orientation="0" android:id="0x7f100336" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:paddingLeft="24dp" android:paddingBottom="4dp" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                <TextView android:textSize="22dp" android:textColor="#ffffffff" android:id="0x7f100337" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080446" android:shadowColor="#ff000000" android:shadowDx="0.0" android:shadowDy="-1.5" android:shadowRadius="0.8" />
+                <TextView android:textSize="16dp" android:textColor="#9faebc" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080445" android:shadowColor="#ff000000" android:shadowDx="0.0" android:shadowDy="-1.5" android:shadowRadius="0.8" />
+            </LinearLayout>
+            <ProgressBar android:id="0x7f1001a1" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginRight="20dp" style="?unknown_attr_ref: 1010287" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

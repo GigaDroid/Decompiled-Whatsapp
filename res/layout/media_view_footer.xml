@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-1" android:layout_height="-2">
+    <FrameLayout android:layout_gravity="50" android:id="0x7f1001d9" android:background="0x7f02084f" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp">
+        <LinearLayout android:layout_gravity="50" android:orientation="1" android:paddingLeft="8dp" android:paddingTop="32dp" android:paddingRight="56dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-2">
+            <com.whatsapp.TextEmojiLabel android:textSize="17sp" android:textColor="0x106000b" android:id="0x7f100222" android:paddingBottom="2dp" android:layout_width="-1" android:layout_height="-2" android:shadowColor="0x106000c" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+            <com.whatsapp.TextEmojiLabel android:textSize="13sp" android:textColor="#99ffffff" android:gravity="3" android:id="0x7f1002fb" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" />
+            <com.whatsapp.TextEmojiLabel android:textSize="13sp" android:textColor="#99ffffff" android:gravity="3" android:id="0x7f1002fc" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" />
+        </LinearLayout>
+        <ImageView android:layout_gravity="55" android:id="0x7f100263" android:layout_width="48dp" android:layout_height="48dp" style="0x7f0c0086" />
+    </FrameLayout>
+</merge>

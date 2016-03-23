@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Nanlibre ng serbisyo para kay %d contact.</item>
+        <item quantity="one">Nanlibre ng serbisyo para kay %d contact.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d taong subskripsyon binayaran para kay %2$s.</item>
+        <item quantity="one">%1$d taong subskripsyon binayaran para kay %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">May mahigit %1$d taong serbisyo pang natitira.</item>
+        <item quantity="one">May mahigit %1$d taong serbisyo pang natitira.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">May natitirang %1$d taong serbisyo.</item>
+        <item quantity="one">May natitirang (%1$d) taong serbisyo.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">Si %1$s ay bumili ng %2$d taong serbisyo para sa iyo.</item>
+        <item quantity="one">Si %1$s ay bumili ng %2$d taong serbisyo para sa iyo.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">May kaibigang nanlibre ng %1$d taong subskripsyon para sa iyo.</item>
+        <item quantity="one">May kaibigang nanlibre ng %1$d taong subskripsyon para sa iyo.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d tatanggap</item>
+        <item quantity="one">%d tatanggap</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, at %2$d marami pa</item>
+        <item quantity="one">%1$s, at %2$d marami pa</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">I-broadcast sa %d contact</item>
+        <item quantity="one">I-broadcast sa %d contact</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Hindi makapagpadala ng dokumento sa grupong “%1$s” dahil si %2$s at %3$d pang iba ay may lumang bersyon ng WhatsApp na hindi nagsu-suporta sa mga dokumento.</item>
+        <item quantity="one">Hindi makapagpadala ng dokumento sa grupong “%1$s” dahil si %2$s at %3$d pang iba ay may lumang bersyon ng WhatsApp na hindi nagsu-suporta sa mga dokumento.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Ipadala ang mga dokumentong %1$d kay %2$s?</item>
+        <item quantity="one">Ipadala ang dokumentong %1$d kay %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Ibahagi ang %1$d kay %2$s?</item>
+        <item quantity="one">Ibahagi ang %1$d kay %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d araw</item>
+        <item quantity="one">%d araw</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Magsaya sa iyong
+%d araw
+ng serbisyo"</item>
+        <item quantity="one">"Magsaya sa iyong
+%d araw
+ng serbisyo"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d mga araw
+ng natitirang
+serbisyo"</item>
+        <item quantity="one">"%d araw
+ng natitirang
+serbisyo"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Burahin ang %d mensahe?</item>
+        <item quantity="one">Burahin ang %d mensahe?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Burahin ang chat kay “%1$s”?
+May %2$d di pa naipadalang mensahe sa chat na ito."</item>
+        <item quantity="one">"Burahin ang chat kay “%1$s”?
+May %2$d di pa naipadalang mensahe sa chat na ito."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Ang image ay napakaliit. Pumili ng larawan na may taas at lapad na hindi bababa sa %d pixel.</item>
+        <item quantity="one">Ang image ay napakaliit. Pumili ng larawan na may taas at lapad na hindi bababa sa %d pixel.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Umalis sa grupong “%1$s”?
+May %2$d di pa napadalang mensahe sa chat na 'to."</item>
+        <item quantity="one">"Umalis sa grupong “%1$s”?
+May %2$d di pa napadalang mensahe sa chat na 'to."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d mensahe na-restore. Ang media ay magre-restore nang di nakikita.</item>
+        <item quantity="one">%d mensahe na-restore. Ang media ay magre-restore nang di nakikita.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d mga mensahe na-restore</item>
+        <item quantity="one">%d mensahe na-restore</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Ipadala ang mga dokumentong %1$d kay %2$s?</item>
+        <item quantity="one">Ipadala ang dokumentong %1$d kay %2$s?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Ibahagi ang %1$d kay “%2$s”?</item>
+        <item quantity="one">Ibahagi ang %1$d kay “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s ay hindi na mga admin</item>
+        <item quantity="one">%s ay hindi na admin</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s ay isa na sa mga admin</item>
+        <item quantity="one">%s ay isa ng admin</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d oras</item>
+        <item quantity="one">%d oras</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d oras nakaraaan</item>
+        <item quantity="one">%d oras nakaraaan</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Tumpak sa %d metro</item>
+        <item quantity="one">Tumpak sa %d metro</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d mga mensahe ang nakopya</item>
+        <item quantity="one">%d mensahe ang nakopya</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d mga mensahe ang nabura</item>
+        <item quantity="one">%d mensahe ang nabura</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuto</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d nakaraang minuto</item>
+        <item quantity="one">%d nakaraang minuto</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d mga di nasagot na tawag</item>
+        <item quantity="one">%d di nasagot na tawag</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d buwan</item>
+        <item quantity="one">%d buwan</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Magsaya sa 'yong
+%d buwang
+serbisyo!"</item>
+        <item quantity="one">"Magsaya sa 'yong
+%d buwang
+serbisyo!"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"Nalalabing
+buwan ng
+serbisyo: %d"</item>
+        <item quantity="one">"Nalalabing
+buwan ng
+serbisyo: %d"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d na mga contact</item>
+        <item quantity="one">%d contact</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Mamili ng hindi bababa sa %d mga contact</item>
+        <item quantity="one">Mamili ng hindi bababa sa %d contact</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d ang mga napili</item>
+        <item quantity="one">%d napili</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d napili</item>
+        <item quantity="one">%d napili</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s at %2$d pang iba</item>
+        <item quantity="one">%1$s at %2$d pang iba</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bytes</item>
+        <item quantity="one">%1$d byte</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d mga mensahe</item>
+        <item quantity="one">%1$d mensahe</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d na tawag</item>
+        <item quantity="one">%1$d na tawag</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d bagong mensahe</item>
+        <item quantity="one">%d o walang bagong mensahe</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d na mensahe</item>
+        <item quantity="one">(%d) Walang mensahe</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s mensahe mula sa %2$d chat</item>
+        <item quantity="one">%1$s mensahe mula sa %2$d chat</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d pahina</item>
+        <item quantity="one">%d pahina</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d mga pahina</item>
+        <item quantity="one">%d pahina</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d mga slide</item>
+        <item quantity="one">%d slide</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d natitira pa</item>
+        <item quantity="one">%d natitira pa</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d na mga mensahe ay na-restore. Ayos!</item>
+        <item quantity="one">%,d na-restore na mensahe.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Muling ipadala ang %1$d mensahe noong %2$s</item>
+        <item quantity="one">Muling ipadala ang %1$d mensahe noong %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Muling ipadala ang %1$d mensahe mula kahapon</item>
+        <item quantity="one">Muling ipadala ang %1$d mensahe mula kahapon</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundo</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Ipinapadala ang %1$d audio kay %2$s</item>
+        <item quantity="one">Ipinapadala ang %1$d audio kay %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Ipinapadala ang %d audio</item>
+        <item quantity="one">Ipinapadala ang %d audio</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Ipinapadala ang %1$d file kay %2$s</item>
+        <item quantity="one">Ipinapadala ang %1$d file kay %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Ipinapadala ang %d file</item>
+        <item quantity="one">Ipinapadala ang %d file</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Pinadadala ang %1$d video kay %2$s</item>
+        <item quantity="one">Pinadadala ang %1$d video kay %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Pinapadala %d video</item>
+        <item quantity="one">Pinapadala %d video</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Ang serbisyo ng WhatsApp ay matatapos na sa %d. Dagdagan ang serbisyo?</item>
+        <item quantity="one">Ang serbisyo ng WhatsApp ay matatapos na sa %d. Dagdagan ang serbisyo?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Ang version ng WhatsApp ay kailangang i-update sa loob ng %d araw. I-update sa pinakabagong version?</item>
+        <item quantity="one">Ang version ng WhatsApp ay kailangang i-update sa loob ng %d araw. I-update sa pinakabagong version?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">Hindi pa nabasang mensahe: (%d)</item>
+        <item quantity="one">Hindi pa nabasang mensahe: (%d)</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d taon</item>
+        <item quantity="one">%d taon</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Magsaya at sulitin ang iyong
+%d taong
+serbisyo"</item>
+        <item quantity="one">"Magsaya at sulitin ang iyong
+%d taong
+serbisyo"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d mga taon
+ng natitirang
+serbisyo"</item>
+        <item quantity="one">"%d taon
+ng natitirang
+serbisyo"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Binuo ang broadcast list “%1$s” na may %2$d tatanggap</item>
+        <item quantity="one">Binuo ang broadcast list “%1$s” na may %2$d tatanggap</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Bumuo ka ng broadcast list na may %d tatanggap</item>
+        <item quantity="one">Bumuo ka ng broadcast list na may %d tatanggap</item>
+    </plurals>
+</resources>

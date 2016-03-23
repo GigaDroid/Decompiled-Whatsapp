@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-2" android:layout_height="0x7f0b00b9"
+    <FrameLayout android:layout_gravity="3" android:layout_width="0x7f0b00b9" android:layout_height="0x7f0b00b9">
+        <ImageView android:layout_gravity="11" android:id="0x7f1002d7" android:background="0x7f02089f" android:padding="3dp" android:layout_width="0x7f0b00b6" android:layout_height="0x7f0b00b6" android:tint="0x106000b" />
+    </FrameLayout>
+    <LinearLayout android:gravity="3" android:layout_gravity="10" android:orientation="1" android:paddingLeft="0x7f0b00b9" android:paddingRight="8dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010045" android:textSize="17sp" android:textColor="0x1060003" android:ellipsize="3" android:id="0x7f1002e2" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+        <TextView android:textSize="14sp" android:textColor="#999999" android:ellipsize="3" android:id="0x7f1002e3" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+    </LinearLayout>
+</FrameLayout>

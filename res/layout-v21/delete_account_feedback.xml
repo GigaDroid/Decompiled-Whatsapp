@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:orientation="1" android:background="0x7f0e0097" android:paddingLeft="0x7f0b00ac" android:paddingRight="0x7f0b00ac" android:focusableInTouchMode="true" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:id="0x7f100252" android:paddingLeft="0dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:text="0x7f08013d" style="0x7f0c00be" />
+        <TextView android:textSize="16sp" android:textColor="#888888" android:gravity="3" android:id="0x7f100253" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp" android:layout_marginBottom="3dp" android:text="0x7f080141" android:backgroundTint="0x7f0e0007" style="@style/Base_Widget_AppCompat_Spinner_Underlined" />
+        <EditText android:textSize="16sp" android:textColor="#000000" android:textColorHint="#888888" android:gravity="30" android:id="0x7f100254" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp" android:layout_marginBottom="16dp" android:hint="0x7f08012d" android:maxLines="4" android:maxLength="500" />
+        <Button android:textStyle="1" android:layout_gravity="11" android:id="0x7f100255" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="12dp" android:layout_marginTop="16dp" android:layout_marginRight="12dp" android:text="0x7f0804aa" android:singleLine="false" style="0x7f0c00dd" />
+    </LinearLayout>
+</LinearLayout>

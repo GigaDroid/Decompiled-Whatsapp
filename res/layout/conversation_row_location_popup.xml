@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout whatsapp:gravity="11" whatsapp:orientation="0" whatsapp:padding="8dp" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <com.whatsapp.ThumbnailButton whatsapp:id="0x7f1001be" whatsapp:layout_width="72dp" whatsapp:layout_height="72dp" whatsapp:scaleType="5" />
+    <LinearLayout whatsapp:orientation="1" whatsapp:layout_width="-2" whatsapp:layout_height="-2">
+        <com.whatsapp.TextEmojiLabel whatsapp:textSize="0x7f0b0075" whatsapp:textColor="#000" whatsapp:ellipsize="3" whatsapp:gravity="10" whatsapp:id="0x7f100223" whatsapp:paddingLeft="10dp" whatsapp:paddingTop="4dp" whatsapp:paddingRight="8dp" whatsapp:visibility="2" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:maxLines="1" whatsapp:singleLine="true" />
+        <TextView whatsapp:textSize="0x7f0b0074" whatsapp:textColor="#99000000" whatsapp:ellipsize="3" whatsapp:id="0x7f100224" whatsapp:paddingLeft="10dp" whatsapp:paddingRight="8dp" whatsapp:visibility="2" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:maxLines="2" whatsapp:lines="2" />
+    </LinearLayout>
+</LinearLayout>

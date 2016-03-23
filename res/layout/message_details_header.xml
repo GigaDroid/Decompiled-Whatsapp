@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2">
+    <View android:background="0x7f020859" android:layout_width="-2" android:layout_height="54dp" />
+    <FrameLayout android:gravity="5" android:layout_gravity="5" android:orientation="0" android:id="0x7f100155" android:paddingLeft="8dp" android:paddingTop="54dp" android:paddingRight="8dp" android:paddingBottom="16dp" android:layout_width="-1" android:layout_height="-2" /> />

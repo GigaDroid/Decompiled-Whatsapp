@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout whatsapp:orientation="1" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <com.whatsapp.PagerSlidingTabStrip whatsapp:textSize="14dp" whatsapp:id="0x7f1001c1" whatsapp:background="0x106000d" whatsapp:layout_width="-1" whatsapp:layout_height="48dp" whatsapp:pstsIndicatorColor="#26a69a" whatsapp:pstsDividerColor="0x106000d" whatsapp:pstsIndicatorHeight="4dp" whatsapp:pstsUnderlineHeight="1dp" whatsapp:pstsTabPaddingLeftRight="12dp" whatsapp:pstsShouldExpand="true" />
+    <android.support.v4.view.ViewPager whatsapp:id="0x7f1001c2" whatsapp:layout_width="-1" whatsapp:layout_height="-1" />
+    <GridView whatsapp:id="0x7f100295" whatsapp:padding="0dp" whatsapp:layout_width="-1" whatsapp:layout_height="-1" whatsapp:listSelector="0x7f0208d7" whatsapp:drawSelectorOnTop="true" whatsapp:cacheColorHint="#00000000" whatsapp:horizontalSpacing="4dp" whatsapp:verticalSpacing="4dp" whatsapp:stretchMode="2" whatsapp:columnWidth="0x7f0b009f" whatsapp:numColumns="-1" />
+</LinearLayout>

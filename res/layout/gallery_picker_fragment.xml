@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="1" android:id="0x7f100268" android:layout_width="-1" android:layout_height="-1">
+    <GridView android:id="0x7f100295" android:padding="0dp" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f0208d7" android:drawSelectorOnTop="true" android:cacheColorHint="#00000000" android:horizontalSpacing="0x7f0b009e" android:verticalSpacing="0x7f0b009e" android:stretchMode="2" android:columnWidth="0x7f0b009f" android:numColumns="-1" />
+</FrameLayout>

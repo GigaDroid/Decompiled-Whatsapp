@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:gravity="15" android:layout_gravity="5" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true">
+    <com.whatsapp.DividerView android:id="0x7f100200" style="0x7f0c00c9" />
+    <LinearLayout android:orientation="1" android:id="0x7f10012e" android:layout_width="262dp" android:layout_height="-2" android:layout_marginLeft="40dp" android:layout_below="0x7f100200" android:layout_alignParentRight="true">
+        <FrameLayout android:id="0x7f100225" android:padding="4dp" android:layout_width="-1" android:layout_height="147dp" android:layout_centerVertical="true">
+            <ImageView android:id="0x7f1001be" android:layout_width="-1" android:layout_height="-1" android:scaleType="6" />
+            <FrameLayout android:id="0x7f100228" android:layout_width="-1" android:layout_height="-1" />
+            <Button android:id="0x7f100226" android:background="0x7f0208d7" android:layout_width="-1" android:layout_height="-1" />
+            <View android:background="0x7f020078" android:layout_width="-1" android:layout_height="-1" />
+            <FrameLayout android:layout_gravity="11" android:id="0x7f100221" android:background="0x7f0200ff" android:layout_width="-2" android:layout_height="-2" android:animateLayoutChanges="true">
+                <Button android:textColor="0x7f0e0036" android:layout_gravity="11" android:id="0x7f100205" android:background="@v/m" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="-2" android:layout_height="-2" android:drawableLeft="0x7f0200bb" android:drawablePadding="8dp" />
+                <ProgressBar android:layout_gravity="11" android:id="0x7f100227" android:visibility="2" android:layout_width="48dp" android:layout_height="48dp" />
+            </FrameLayout>
+        </FrameLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f100229" android:paddingTop="2dp" android:layout_width="-1" android:layout_height="-2">
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b0075" android:textColor="#000" android:ellipsize="3" android:id="0x7f100223" android:paddingLeft="8dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:maxLines="1" android:singleLine="true" />
+            <TextView android:textSize="0x7f0b0074" android:textColor="#99000000" android:ellipsize="3" android:gravity="3" android:id="0x7f100224" android:paddingLeft="8dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:maxLines="2" />
+            <LinearLayout android:gravity="10" android:layout_gravity="5" android:orientation="0" android:id="0x7f100209" android:paddingRight="7dp" android:paddingBottom="3dp" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:id="0x7f10020a" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c2" />
+                <ImageView android:id="0x7f100158" android:paddingLeft="4dp" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

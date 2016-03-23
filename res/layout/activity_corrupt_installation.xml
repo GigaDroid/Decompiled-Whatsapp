@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#ebebeb" android:padding="8dp" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="1" android:id="0x7f1000c1" android:background="0x7f020889" android:paddingLeft="0x7f0b005f" android:paddingTop="0x7f0b0061" android:paddingRight="0x7f0b005f" android:paddingBottom="0x7f0b0061" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:layout_gravity="11" android:paddingTop="0x7f0b0061" android:paddingBottom="0x7f0b0062" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0208f2" />
+            <TextView android:textSize="18sp" android:textColor="#ff707070" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:text="0x7f08011f" />
+            <Button android:textColor="0x106000b" android:id="0x7f1000c2" android:background="0x7f020093" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp" android:text="0x7f08008b" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f1000c3" android:background="0x7f020889" android:paddingLeft="0x7f0b005f" android:paddingTop="0x7f0b0061" android:paddingRight="0x7f0b005f" android:paddingBottom="0x7f0b0061" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:layout_gravity="11" android:paddingTop="0x7f0b0061" android:paddingBottom="0x7f0b0062" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0208f2" />
+            <TextView android:textSize="18sp" android:textColor="#ff707070" android:id="0x7f1000c4" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" />
+            <Button android:textColor="0x106000b" android:id="0x7f1000c5" android:background="0x7f020093" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp" android:text="0x7f08008d" />
+        </LinearLayout>
+        <TextView android:textColor="#455a64" android:id="0x7f1000c6" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0b005f" android:layout_marginTop="16dp" android:layout_marginRight="0x7f0b005f" />
+    </LinearLayout>
+</ScrollView>

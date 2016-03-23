@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout whatsapp:orientation="1" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <RelativeLayout whatsapp:id="0x7f1001df" whatsapp:background="0x7f0200c6" whatsapp:paddingLeft="16dp" whatsapp:paddingTop="8dp" whatsapp:paddingRight="16dp" whatsapp:paddingBottom="8dp" whatsapp:layout_width="-1" whatsapp:layout_height="-2">
+        <TextView whatsapp:textSize="17sp" whatsapp:textColor="0x106000b" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:text="0x7f080587" whatsapp:layout_toLeftOf="0x7f1001e0" whatsapp:layout_alignParentLeft="true" />
+        <TextView whatsapp:textSize="16sp" whatsapp:textColor="0x106000b" whatsapp:gravity="10" whatsapp:id="0x7f1001e0" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:layout_alignParentRight="true" whatsapp:textAllCaps="true" />
+    </RelativeLayout>
+    <FrameLayout whatsapp:id="0x7f10012e" whatsapp:layout_width="-1" whatsapp:layout_height="-1"
+        <FrameLayout whatsapp:id="0x7f1002b1" whatsapp:paddingTop="0x7f0b00de" whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+            <view whatsapp:id="0x7f1001c2" whatsapp:layout_width="-1" whatsapp:layout_height="-1" class="com.whatsapp.HomeActivity$TabsPager" />
+        </FrameLayout>
+        <LinearLayout whatsapp:orientation="1" whatsapp:id="0x7f100142" whatsapp:background="?unknown_attr_ref: 7f010102" whatsapp:layout_width="-1" whatsapp:layout_height="-2">
+            <include layout="0x7f0300f0" />
+            <com.whatsapp.PagerSlidingTabStrip whatsapp:id="0x7f1001c1" whatsapp:background="0x7f0e0075" whatsapp:layout_width="-1" whatsapp:layout_height="0x7f0b00de" whatsapp:pstsIndicatorColor="0x7f0e0092" whatsapp:pstsDividerColor="0x106000d" whatsapp:pstsIndicatorHeight="3dp" whatsapp:pstsUnderlineHeight="1dp" whatsapp:pstsTabPaddingLeftRight="12dp" whatsapp:pstsShouldExpand="true" />
+        </LinearLayout>
+        <FrameLayout whatsapp:id="0x7f1002b2" whatsapp:visibility="1" whatsapp:layout_width="-1" whatsapp:layout_height="@dimen/abc_action_bar_default_height_material" /> />
+</LinearLayout>

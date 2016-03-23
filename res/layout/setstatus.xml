@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:padding="8dp" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:orientation="1" android:background="0x7f020889" android:layout_width="-1" android:layout_height="-2">
+        <FrameLayout style="0x7f0c00bb">
+            <TextView android:id="0x7f10036f" android:text="0x7f080123" style="0x7f0c00be" />
+            <TextView android:id="0x7f1001ba" style="0x7f0c00bc" />
+            <View style="0x7f0c00bd" />
+        </FrameLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f100370" android:padding="6dp" android:layout_width="-1" android:layout_height="-2">
+            <com.whatsapp.TextEmojiLabel android:textSize="18sp" android:textColor="0x7f0e0016" android:gravity="10" android:layout_gravity="13" android:id="0x7f100371" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="0dp" android:layout_height="-2" android:maxLines="2" android:layout_weight="1.0" />
+            <FrameLayout android:layout_width="48dp" android:layout_height="48dp">
+                <View android:layout_gravity="13" android:background="0x7f0e004a" android:layout_width="1dp" android:layout_height="32dp" />
+                <ProgressBar android:layout_gravity="11" android:id="0x7f10023c" android:visibility="2" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 1010288" />
+                <ImageView android:layout_gravity="11" android:id="0x7f100372" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020089" style="0x7f0c0086" />
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:background="0x7f020889" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="8dp">
+        <FrameLayout style="0x7f0c00bb">
+            <TextView android:id="0x7f100373" android:text="0x7f080474" style="0x7f0c00be" />
+            <TextView android:id="0x7f100374" style="0x7f0c00bc" />
+            <View style="0x7f0c00bd" />
+        </FrameLayout>
+        <ListView android:id="0x7f100375" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" style="0x7f0c00d5" />
+        <View android:id="0x7f100376" android:layout_width="-1" android:layout_height="48dp" />
+    </LinearLayout>
+</LinearLayout>

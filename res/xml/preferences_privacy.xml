@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f0804fb" android:key="privacy">
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f0803c0" android:key="personal_info_visibility">
+        <com.whatsapp.preference.WaPrivacyPreference android:persistent="false" android:entries="0x7f0f0018" android:title="0x7f0804fc" android:key="privacy_last_seen" android:widgetLayout="0x7f0300d4" android:defaultValue="0" android:entryValues="0x7f0f0019" />
+        <com.whatsapp.preference.WaPrivacyPreference android:persistent="false" android:entries="0x7f0f0018" android:title="0x7f0804fe" android:key="privacy_profile_photo" android:widgetLayout="0x7f0300d4" android:defaultValue="0" android:entryValues="0x7f0f0019" />
+        <com.whatsapp.preference.WaPrivacyPreference android:persistent="false" android:entries="0x7f0f0018" android:title="0x7f080501" android:key="privacy_status" android:widgetLayout="0x7f0300d4" android:defaultValue="0" android:entryValues="0x7f0f0019" />
+        <Preference android:layout="0x7f0300e7" android:selectable="false" android:key="settings_privacy_message" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f0803dc">
+        <com.whatsapp.preference.WaPreference android:title="0x7f080499" android:key="block_list" android:summary="0x7f08049a" />
+        <com.whatsapp.preference.WaCheckBoxPreference android:title="0x7f0804ff" android:key="read_receipts_enabled" android:defaultValue="true" />
+        <Preference android:layout="0x7f0300e8" android:selectable="false" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+</PreferenceScreen>

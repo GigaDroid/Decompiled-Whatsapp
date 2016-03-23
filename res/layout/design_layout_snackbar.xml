@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_gravity="50" android:layout_width="-1" android:layout_height="-2" class="android.support.design.widget.Snackbar$SnackbarLayout" style="@style/Widget_Design_Snackbar" />

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:paddingTop="4dp" android:paddingBottom="4dp" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="32dp">
+    <ImageView android:id="0x7f10037d" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="-30dp" />
+    <LinearLayout android:gravity="10" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+        <com.whatsapp.TextEmojiLabel android:textColor="#455a64" android:ellipsize="3" android:id="0x7f10037e" android:paddingLeft="8dp" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" />
+        <TextView android:textSize="8sp" android:textColor="#455a64" android:ellipsize="3" android:id="0x7f10037f" android:paddingLeft="4sp" android:paddingTop="2sp" android:paddingRight="4sp" android:layout_width="-2" android:layout_height="-2" android:text="▶" android:lines="1" android:singleLine="true" />
+        <com.whatsapp.TextEmojiLabel android:textColor="#455a64" android:ellipsize="3" android:id="0x7f100380" android:paddingRight="8dp" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" />
+    </LinearLayout>
+    <TextView android:textSize="0x7f0b006d" android:textColor="0x7f0e0060" android:id="0x7f100381" android:paddingRight="8dp" android:layout_width="-2" android:layout_height="-2" />
+    <ImageView android:id="0x7f1002cb" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200d1" android:tint="#757368" />
+</LinearLayout>

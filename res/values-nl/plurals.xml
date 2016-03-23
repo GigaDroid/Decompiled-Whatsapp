@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Verlenging gekocht voor %d contacten.</item>
+        <item quantity="one">Verlenging gekocht voor %d contact.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d-jarig abonnement gekocht voor %2$s.</item>
+        <item quantity="one">%1$d-jarig abonnement gekocht voor %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Uw abonnement is meer dan %1$d jaar geldig.</item>
+        <item quantity="one">Uw abonnement is meer dan %1$d jaar geldig.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Uw abonnement is nog %1$d jaar geldig.</item>
+        <item quantity="one">Uw abonnement is nog %1$d jaar geldig.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s heeft een %2$d-jarig abonnement voor u gekocht.</item>
+        <item quantity="one">%1$s heeft een %2$d-jarig abonnement voor u gekocht.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Een vriend heeft een %1$d-jarig abonnement voor u gekocht.</item>
+        <item quantity="one">Een vriend heeft een %1$d-jarig abonnement voor u gekocht.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d ontvangers</item>
+        <item quantity="one">%d ontvanger</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s en %2$d meer</item>
+        <item quantity="one">%1$s en %2$d meer</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Verzendlijst met %d ontv.</item>
+        <item quantity="one">Verzendlijst met %d ontv.</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Kan documenten niet verzenden naar \"%1$s\", omdat %2$s en %3$d andere deelnemers nog geen gebruik maken van een WhatsApp versie die documenten ondersteunt.</item>
+        <item quantity="one">Kan documenten niet verzenden naar \"%1$s\", omdat %2$s en %3$d andere deelnemer nog geen gebruik maken van een WhatsApp versie die documenten ondersteunt.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">%1$d documenten naar %2$s verzenden?</item>
+        <item quantity="one">%1$d document naar %2$s verzenden?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">%1$d items delen met %2$s?</item>
+        <item quantity="one">%1$d item delen met %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Veel plezier met
+%d dagen
+WhatsApp"</item>
+        <item quantity="one">"Veel plezier met
+%d dag
+WhatsApp"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d dagen
+WhatsApp
+resterend"</item>
+        <item quantity="one">"%d dag
+WhatsApp
+resterend"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">%d berichten verwijderen?</item>
+        <item quantity="one">%d bericht verwijderen?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Chat met \"%1$s\" verwijderen?
+U heeft %2$d niet-verstuurde berichten in deze chat."</item>
+        <item quantity="one">"Chat met \"%1$s\" verwijderen?
+U heeft %2$d niet-verstuurd bericht in deze chat."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Deze afbeelding is te klein. Selecteer een afbeelding met een hoogte en breedte van ten minste %d pixels.</item>
+        <item quantity="one">Deze afbeelding is te klein. Selecteer een afbeelding met een hoogte en breedte van ten minste %d pixel.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Groep “%1$s” verlaten?
+U heeft %2$d niet-verstuurde berichten in deze groep."</item>
+        <item quantity="one">"Groep “%1$s” verlaten?
+U heeft %2$d niet-verstuurd bericht in deze groep."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d berichten hersteld. Uw media worden op de achtergrond hersteld.</item>
+        <item quantity="one">%d bericht hersteld. Uw media worden op de achtergrond hersteld.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d berichten hersteld</item>
+        <item quantity="one">%d bericht hersteld</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">%1$d documenten naar “%2$s” verzenden?</item>
+        <item quantity="one">%1$d document naar “%2$s” verzenden?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">%1$d items delen met “%2$s”?</item>
+        <item quantity="one">%1$d item delen met “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s zijn geen beheerder meer</item>
+        <item quantity="one">%s is geen beheerder meer</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s zijn nu beheerder</item>
+        <item quantity="one">%s is nu beheerder</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Nauwkeurig tot op %d meter</item>
+        <item quantity="one">Nauwkeurig tot op %d meter</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d berichten gekopieerd</item>
+        <item quantity="one">%d bericht gekopieerd</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d berichten verwijderd</item>
+        <item quantity="one">%d bericht verwijderd</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">%d minuut geleden</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d oproepen gemist</item>
+        <item quantity="one">%d oproep gemist</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d maanden</item>
+        <item quantity="one">%d maand</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Veel plezier met
+%d maanden
+WhatsApp"</item>
+        <item quantity="one">"Veel plezier met
+%d maand
+WhatsApp"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d maanden
+WhatsApp
+resterend"</item>
+        <item quantity="one">"%d maand
+WhatsApp
+resterend"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d contacten</item>
+        <item quantity="one">%d contact</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Selecteer ten minste %d contacten</item>
+        <item quantity="one">Selecteer ten minste %d contact</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d geselecteerd</item>
+        <item quantity="one">%d geselecteerd</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d geselecteerd</item>
+        <item quantity="one">%d geselecteerd</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s en %2$d anderen</item>
+        <item quantity="one">%1$s en %2$d andere</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bytes</item>
+        <item quantity="one">%1$d byte</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d berichten</item>
+        <item quantity="one">%1$d bericht</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d oproepen</item>
+        <item quantity="one">%1$d oproep</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d nieuwe berichten</item>
+        <item quantity="one">%d nieuw bericht</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d berichten</item>
+        <item quantity="one">%d bericht</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s in %2$d chats</item>
+        <item quantity="one">%1$s in %2$d chat</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">"%d pagina's"</item>
+        <item quantity="one">%d pagina</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d werkbladen</item>
+        <item quantity="one">%d werkblad</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">"%d dia's"</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d resterend</item>
+        <item quantity="one">%d resterend</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d berichten hersteld. U kunt weer verder.</item>
+        <item quantity="one">%,d bericht hersteld. U kunt weer verder.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">%1$d berichten van %2$s opnieuw verzenden</item>
+        <item quantity="one">%1$d bericht van %2$s opnieuw verzenden</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">%1$d berichten van gisteren opnieuw verzenden</item>
+        <item quantity="one">%1$d bericht van gisteren opnieuw verzenden</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">%1$d audio naar %2$s verzenden</item>
+        <item quantity="one">%1$d audio naar %2$s verzenden</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">%d audio verzenden</item>
+        <item quantity="one">%d audio verzenden</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">%1$d bestanden naar %2$s verzenden</item>
+        <item quantity="one">%1$d bestand naar %2$s verzenden</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">%d bestanden verzenden</item>
+        <item quantity="one">%d bestand verzenden</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">"%1$d video's verzenden naar %2$s"</item>
+        <item quantity="one">%1$d video verzenden naar %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">"%d video's verzenden"</item>
+        <item quantity="one">%d video verzenden</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">WhatsApp verloopt over %d dagen. Wilt u nu verlenging kopen?</item>
+        <item quantity="one">WhatsApp verloopt over %d dag. Wilt u nu verlenging kopen?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">WhatsApp moet binnen %d dagen worden bijgewerkt. Nu bijwerken?</item>
+        <item quantity="one">WhatsApp moet binnen %d dag worden bijgewerkt. Nu bijwerken?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d ongelezen berichten</item>
+        <item quantity="one">%d ongelezen bericht</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d jaar</item>
+        <item quantity="one">%d jaar</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Veel plezier met
+%d jaar
+WhatsApp"</item>
+        <item quantity="one">"Veel plezier met
+%d jaar
+WhatsApp"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d jaar
+WhatsApp
+resterend"</item>
+        <item quantity="one">"%d jaar
+WhatsApp
+resterend"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">U hebt de verzendlijst “%1$s” gemaakt met %2$d ontvangers</item>
+        <item quantity="one">U hebt de verzendlijst “%1$s” gemaakt met %2$d ontvanger</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">U hebt een verzendlijst gemaakt met %d ontvangers</item>
+        <item quantity="one">U hebt een verzendlijst gemaakt met %d ontvanger</item>
+    </plurals>
+</resources>

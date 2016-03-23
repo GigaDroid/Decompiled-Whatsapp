@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.whatsapp.util.RtlCheckBox android:id="0x7f10031a" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="12dp" android:layout_marginTop="2dp" android:checked="true" android:text="0x7f080315" />
+</LinearLayout>

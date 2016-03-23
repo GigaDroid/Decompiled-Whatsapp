@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:id="0x7f1000c9" android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f03001e" />
+    </LinearLayout>
+    <ScrollView android:id="0x7f1000ca" android:padding="0dp" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+        <LinearLayout android:orientation="1" android:paddingLeft="0dp" android:paddingTop="20dp" android:paddingRight="0dp" android:paddingBottom="0x7f0b0060" android:clipChildren="false" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0e0073" android:gravity="10" android:id="0x7f1000cb" android:paddingLeft="0x7f0b00a2" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0dp" android:text="0x7f08064b" android:drawableLeft="0x7f0207a2" android:drawablePadding="0x7f0b00a3" />
+            <LinearLayout android:orientation="1" android:clipChildren="false" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0b00a5" android:layout_marginTop="0dp">
+                <TextView android:textSize="13sp" android:textColor="0x7f0e0038" android:id="0x7f1000cc" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="0x7f0b005f" android:layout_marginBottom="16dp" android:lineSpacingMultiplier="1.15" />
+                <TextView android:textColor="0x7f0e0016" android:layout_gravity="10" android:id="0x7f1000cd" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="0x7f0b005f" android:text="0x7f08020d" android:lineSpacingMultiplier="1.25" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f1000ce" android:paddingLeft="0dp" android:paddingTop="20dp" android:paddingRight="0dp" android:paddingBottom="0x7f0b0060" android:visibility="2" android:clipChildren="false" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="14sp" android:textStyle="1" android:textColor="0x7f0e0016" android:id="0x7f1000cf" android:paddingLeft="0x7f0b00a2" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="0dp" android:text="0x7f08020c" android:drawableLeft="0x7f0207fa" android:drawablePadding="0x7f0b00a3" />
+                <TextView android:textSize="14sp" android:textColor="0x106000c" android:id="0x7f1000d0" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0b00a5" android:layout_marginTop="0dp" android:layout_marginRight="0x7f0b005f" android:layout_marginBottom="0dp" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:clipChildren="false" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0b00a5" android:layout_marginTop="0dp" android:layout_marginRight="0x7f0b005f"
+                <LinearLayout android:layout_gravity="3" android:orientation="1" android:id="0x7f1000d1" android:clipChildren="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="24dp">
+                    <Button android:textSize="14sp" android:textColor="0x7f0e00a6" android:id="0x7f1000d2" android:background="0x7f020099" android:paddingLeft="0x7f0b00ac" android:paddingRight="0x7f0b00ac" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="8dp" android:layout_marginBottom="4dp" android:text="0x7f080643" />
+                    <Button android:textSize="14sp" android:textColor="0x7f0e0016" android:id="0x7f1000d3" android:background="0x7f020090" android:paddingLeft="0x7f0b00ac" android:paddingRight="0x7f0b00ac" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0dp" android:layout_marginBottom="4dp" android:minWidth="0x7f0b0059" android:text="0x7f08063e" />
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="3" android:orientation="0" android:id="0x7f1000d4" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp" android:layout_marginRight="0x7f0b005f" android:layout_marginBottom="16dp">
+                    <TextView android:textSize="13sp" android:textColor="0x7f0e0038" android:layout_gravity="10" android:id="0x7f1000d5" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0801d7" android:lineSpacingMultiplier="1.15" />
+                    <ProgressBar android:layout_gravity="13" android:id="0x7f1000d6" android:visibility="0" android:layout_width="-2" android:layout_height="-1" android:indeterminate="true" android:indeterminateOnly="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0b00a5" android:layout_marginTop="0dp" android:layout_marginRight="0x7f0b00a5">
+                <RelativeLayout android:gravity="11" android:id="0x7f1000d7" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+                    <com.whatsapp.gdrive.GoogleDriveRestoreAnimationView android:layout_gravity="11" android:id="0x7f1000d8" android:layout_width="-1" android:layout_height="100dp" />
+                </RelativeLayout>
+                <ProgressBar android:layout_gravity="10" android:id="0x7f1000d9" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="40dp" android:layout_weight="1.0" style="?unknown_attr_ref: 1010078" />
+                <TextView android:textColor="0x7f0e0038" android:layout_gravity="30" android:id="0x7f1000da" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:text="0x7f08003c" />
+                <TextView android:textColor="0x7f0e0038" android:layout_gravity="30" android:id="0x7f1000db" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="20dp" android:text="0x7f08003a" />
+                <TextView android:textSize="14sp" android:textColor="0x7f0e0038" android:gravity="11" android:layout_gravity="11" android:id="0x7f1000dc" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" />
+                <Button android:textSize="14sp" android:textColor="0x7f0e00a6" android:id="0x7f1000dd" android:background="0x7f020099" android:paddingLeft="0x7f0b00ac" android:paddingRight="0x7f0b00ac" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="44dp" android:layout_marginRight="4dp" android:layout_marginBottom="4dp" android:text="0x7f08033c" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

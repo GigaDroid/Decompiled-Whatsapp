@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f080489" android:key="account_info_screen">
+    <com.whatsapp.preference.WaPreference android:title="0x7f0804fb" android:key="privacy" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080504" android:key="security" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f0804a1" android:key="change_number" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f0804aa" android:key="delete_account" />
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:animateLayoutChanges="true">
+        <RelativeLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+            <FrameLayout android:id="0x7f100228" android:layout_width="-1" android:layout_height="-1" />
+            <ImageView android:id="0x7f1002aa" android:paddingTop="10dp" android:paddingRight="10dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200ac" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f1002ab" android:layout_width="-1" android:layout_height="160dp">
+            <ListView android:id="0x102000a" android:paddingTop="1dp" android:layout_width="-1" android:layout_height="-2" android:cacheColorHint="0x106000d" android:divider="0x7f0200fc" android:dividerHeight="0.5dp" android:headerDividersEnabled="true" android:footerDividersEnabled="true" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

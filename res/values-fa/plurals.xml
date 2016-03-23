@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">سرویس برای %d مخاطب خریداری شد.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d سال از سرویس برای %2$s خریداری شد.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">شما بیش از %1$d سال سرویس باقیمانده دارید.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">از سرویس شما مدت %1$d باقی مانده است.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s مدت %2$d سال سرويس برايتان خريدارى نموده است.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">دوستى %1$d سال سرويس براى شما خريدارى كرده است.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d گیرنده</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, و %2$d بیشتر</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">پخش بین %d مخاطب</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">نمی توانیم مدارک را به %1$s ارسال کنیم زیرا نسخه WhatsApp که \"%2$s\" و %3$d مخاطب دیگر استفاده می کنند قابلیت دریافت اسناد ندارد.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">%1$d تعداد سند به %2$s ارسال شود؟</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">آیا %1$d مورد با %2$s به اشتراک گذارده شود؟</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d روز</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"از 
+ %d روز 
+ سرویس خود لذت ببرید."</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d روز 
+ از سرویس 
+ مانده است"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">%d پیام حذف شود؟</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"پاک کردن چت با \"%1$s\"?
+ شما %2$d پیام فرستاده نشده در این چت دارید."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">این عکس بسیار کوچک است.لطفا یک عکس با ارتفاع و عرض %d پیکسلی انتخاب کنید.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"خروج از گروه \"%1$s\"؟
+شما %2$d پیام فرستاده نشده داخل این چت دارید."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d پیام بازیابی شدند. رسانه های شما در پشت زمینه بازیابی خواهند شد.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d پیام بازیابی شد</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">%1$d تعداد سند به %2$s ارسال شود؟</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">آیا %1$d با %2$s به اشتراک گذاشته شود؟</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s دیگر ادمین نیست</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s ادمین شد</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d ساعت</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d ساعت قبل</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">میزانِ دقت %d متر</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d پیام کپی شد</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d پیام حذف شد</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d دقیقه</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d دقیقه قبل</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d تماس از دست رفته</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d ماه</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"از 
+ %d ماه 
+ سرویس خود لذت ببرید."</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d ماه 
+ از سرویس 
+ مانده است"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d مخاطب</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">حداقل %d مخاطب باید انتخاب شود</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d تا انتخاب شد</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d انتخاب شد</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s و %2$d ديگر</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d بایت</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d پیام</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d تماس</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d پیام جدید</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d پيام</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s پیام در %2$d چت</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d صفحه</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d صفحه ها</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d اسلاید</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d باقی مانده</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d پیام بازیابی شد.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">ارسال مجدد %1$d پیام از %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">ارسال مجدد %1$d پیام از دیروز</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d ثانیه</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">فرستادن %1$d صدا به %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">فرستادن %d صدا</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">فرستادن%1$d فایل به %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">فرستادن فایل %d</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">در حال ارسال ویدئوی %1$d به %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">در حال ارسال %d</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">سرویس WhatsApp شما تا %d روز دیگر به پایان میرسد. مایل به خرید اشتراک هستید؟</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">این نسخه ازWhatsApp باید تا %d روز دیگر آپدیت شود. به روز رسانی شود؟</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d پیام ناخوانده</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d سال</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"از 
+%d سال 
+سرویس خود لذت برید"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d سال 
+ از سرویس 
+ مانده است"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">شما لیست انتشار \"%1$s\" را با %2$d گیرنده ایجاد کردید</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">شما لیست انتشاری با %d مخاطب ایجاد کردید</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <ListView whatsapp:id="0x102000a" whatsapp:scrollbars="0" whatsapp:layout_width="-1" whatsapp:layout_height="-1" whatsapp:layout_marginLeft="0x7f0b005e" whatsapp:layout_marginRight="0x7f0b005e" whatsapp:listSelector="0x106000d" whatsapp:cacheColorHint="#00000000" whatsapp:divider="@v/m" whatsapp:dividerHeight="0dp" whatsapp:choiceMode="0" whatsapp:headerDividersEnabled="false" whatsapp:footerDividersEnabled="false" />
+    <RelativeLayout whatsapp:gravity="10" whatsapp:orientation="0" whatsapp:id="0x7f100142" whatsapp:background="0x7f02088d" whatsapp:visibility="2" whatsapp:layout_width="-1" whatsapp:layout_height="0x7f0b00af">
+        <ImageView whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

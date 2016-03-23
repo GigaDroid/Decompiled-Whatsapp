@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="0x102000a" android:background="@v/m" android:layout_width="-1" android:layout_height="-1" android:listSelector="#00000000" android:textFilterEnabled="true" android:cacheColorHint="0x106000d" android:divider="0x7f0200fc" android:dividerHeight="0.5dp" android:fastScrollEnabled="false" />
+    <FrameLayout android:id="0x1020004" android:background="#fafafa" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:gravity="11" android:layout_gravity="11" android:orientation="1" android:id="0x7f100382" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+            <ImageView android:background="0x7f0208eb" android:padding="48dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020882" />
+            <TextView android:textSize="17sp" android:textColor="#565656" android:gravity="11" android:paddingLeft="32dp" android:paddingTop="48dp" android:paddingRight="32dp" android:paddingBottom="48dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f08034e" style="0x7f0c00e0" />
+        </LinearLayout>
+        <TextView android:textSize="18sp" android:textColor="?unknown_attr_ref: 1010036" android:gravity="11" android:id="0x7f100173" android:paddingLeft="12dp" android:paddingTop="96dp" android:paddingRight="12dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" />
+        <ProgressBar android:layout_gravity="11" android:id="0x7f100267" android:visibility="2" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 1010287" />
+    </FrameLayout>
+</FrameLayout>

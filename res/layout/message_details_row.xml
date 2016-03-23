@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="0x7f0b005e" android:paddingRight="0x7f0b005e" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <FrameLayout android:id="0x7f100303" android:background="0x7f02088f" android:layout_marginTop="0x7f0b0060" style="0x7f0c00bb">
+            <TextView android:id="0x7f100304" style="0x7f0c00be" />
+            <TextView android:id="0x7f100305" style="0x7f0c00bc" />
+            <View style="0x7f0c00bd" />
+        </FrameLayout>
+        <RelativeLayout android:id="0x7f10012e" android:background="0x7f0208d7" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textColor="#40000000" android:gravity="3" android:id="0x7f100306" android:paddingLeft="12dp" android:paddingTop="4dp" android:paddingRight="12dp" android:paddingBottom="6dp" android:layout_width="-1" android:layout_height="-2" style="0x7f0c00d6" />
+            <ImageView android:id="0x7f100157" android:layout_width="0x7f0b00da" android:layout_height="0x7f0b00da" android:layout_marginLeft="0x7f0b00d9" android:layout_marginTop="0x7f0b00d9" android:layout_marginRight="0x7f0b00d9" android:layout_marginBottom="0x7f0b00d9" android:scaleType="3" android:layout_alignParentLeft="true" />
+            <ImageView android:id="0x7f100158" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="4dp" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <LinearLayout android:gravity="3" android:orientation="1" android:id="0x7f100307" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f100158" android:layout_toRightOf="0x7f100157" android:layout_centerVertical="true"
+                <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                    <com.whatsapp.TextEmojiLabel android:gravity="3" android:id="0x7f10013f" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" style="0x7f0c00d8" />
+                    <com.whatsapp.TextEmojiLabel android:textColor="0x7f0e0060" android:id="0x7f10029d" android:paddingLeft="8dp" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d8" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:id="0x7f100308" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:gravity="3" android:id="0x7f100309" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0802dd" android:layout_weight="1.0" style="0x7f0c00d6" />
+                    <TextView android:id="0x7f1002fe" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:id="0x7f10030a" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:gravity="3" android:id="0x7f10030b" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0802df" android:layout_weight="1.0" style="0x7f0c00d6" />
+                    <TextView android:id="0x7f100300" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+                </LinearLayout>
+                <LinearLayout android:id="0x7f10030c" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:gravity="3" android:id="0x7f10030d" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0802d8" android:layout_weight="1.0" style="0x7f0c00d6" />
+                    <TextView android:id="0x7f100301" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:id="0x7f100170" android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="0.5dp" android:layout_marginLeft="72dp" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

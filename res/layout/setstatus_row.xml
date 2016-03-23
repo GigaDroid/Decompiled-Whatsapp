@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="10dp" android:paddingTop="0x7f0b00c7" android:paddingBottom="0x7f0b00c7" android:layout_width="-1" android:layout_height="-2">
+    <com.whatsapp.TextEmojiLabel android:textSize="18sp" android:textColor="#000000" android:layout_gravity="3" android:id="0x7f100377" android:paddingTop="7dp" android:paddingBottom="7dp" android:layout_width="-2" android:layout_height="-2" />
+</FrameLayout>

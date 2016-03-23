@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x106000b" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="10" android:id="0x7f100142" android:background="0x7f0e0075" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-1" android:layout_height="48dp">
+        <ImageView android:id="0x7f1000a1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="2dp" android:src="0x7f020046" android:contentDescription="0x7f080632" />
+        <LinearLayout android:gravity="800003" android:orientation="1" android:paddingBottom="3dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:ellipsize="3" android:id="@id/title" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080632" android:singleLine="true" style="0x7f0c0121" />
+            <TextView android:ellipsize="3" android:id="0x7f1003d7" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="-3dp" android:singleLine="true" style="0x7f0c0120" />
+        </LinearLayout>
+    </LinearLayout>
+    <ListView android:id="0x7f1003d8" android:layout_width="-1" android:layout_height="-1" android:divider="0x7f0200fc" android:dividerHeight="0.5dp" />
+    <TextView android:textSize="20sp" android:textColor="?unknown_attr_ref: 1010038" android:gravity="11" android:id="0x7f100382" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:text="0x7f080350" />
+</LinearLayout>

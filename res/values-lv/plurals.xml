@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Pakalpojums ir apmaksāts %d lietotājiem.</item>
+        <item quantity="zero">Pakalpojums ir apmaksāts %d lietotājiem.</item>
+        <item quantity="one">Pakalpojums ir apmaksāts %d lietotājam.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d gadu pakalpojuma termiņš iegādāts %2$s.</item>
+        <item quantity="zero">%1$d gadu pakalpojuma termiņš iegādāts %2$s.</item>
+        <item quantity="one">%1$d gada pakalpojuma termiņš iegādāts %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Atlikuši vairāk kā %1$d pakalpojuma lietošanas gadi.</item>
+        <item quantity="zero">Atlikuši vairāk kā %1$d pakalpojuma lietošanas gadi.</item>
+        <item quantity="one">Atlicis vairāk kā %1$d pakalpojuma lietošanas gads.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Atlikuši %1$d pakalpojuma lietošanas gadi.</item>
+        <item quantity="zero">Atlikuši %1$d pakalpojuma lietošanas gadi.</item>
+        <item quantity="one">Atlicis %1$d pakalpojuma lietošanas gads.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s Jums iegādājās %2$d gadu pakalpojuma termiņu.</item>
+        <item quantity="zero">%1$s Jums iegādājās %2$d gadu pakalpojuma termiņu.</item>
+        <item quantity="one">%1$s Jums iegādājās %2$d gada pakalpojuma termiņu.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Draugs Jums iegādājās %1$d gadu pakalpojuma termiņu.</item>
+        <item quantity="zero">Draugs Jums iegādājās %1$d gadu pakalpojuma termiņu.</item>
+        <item quantity="one">Draugs Jums iegādājās %1$d gadu pakalpojuma termiņu.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d saņēmēji</item>
+        <item quantity="zero">%d saņēmēju</item>
+        <item quantity="one">%d saņēmējs</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, un %2$d vairāk</item>
+        <item quantity="zero">%1$s, un %2$d vairāk</item>
+        <item quantity="one">%1$s, un %2$d vairāk</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Straumēt %d kontaktiem</item>
+        <item quantity="zero">Straumēt %d kontaktiem</item>
+        <item quantity="one">Straumēt %d kontaktam</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Nav iespējams nosūtīt dokumentus uz “%1$s” jo %2$s un %3$d citi izmanto WhatsApp versiju, kas neatbalsta dokumentu sūtīšanu.</item>
+        <item quantity="zero">Nav iespējams nosūtīt dokumentus uz “%1$s” jo %2$s un %3$d citi izmanto WhatsApp versiju, kas neatbalsta dokumentu sūtīšanu.</item>
+        <item quantity="one">Nav iespējams nosūtīt dokumentus uz “%1$s” jo %2$s un %3$d cits izmanto WhatsApp versiju, kas neatbalsta dokumentu sūtīšanu.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Vai nosūtīt %1$d dokumentus %2$s?</item>
+        <item quantity="zero">Vai nosūtīt %1$d dokumentus %2$s?</item>
+        <item quantity="one">Vai nosūtīt %1$d dokumentu %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Dalīties ar %1$d vienumiem ar %2$s?</item>
+        <item quantity="zero">Dalīties ar %1$d vienumu ar %2$s?</item>
+        <item quantity="one">Dalīties ar %1$d vienumu ar %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Baudiet pakalpojuma
+%d dienas
+"</item>
+        <item quantity="zero">"Baudiet pakalpojuma
+%d dienas
+"</item>
+        <item quantity="one">"Baudiet pakalpojuma
+%d dienu
+"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d dienas
+no pakalpojuma
+atlikušas"</item>
+        <item quantity="zero">"%d dienas
+no pakalpojuma
+atlikušas"</item>
+        <item quantity="one">"%d diena
+no pakalpojuma
+atlikusi"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Vai dzēst %d ziņas?</item>
+        <item quantity="zero">Vai dzēst %d ziņas?</item>
+        <item quantity="one">Vai dzēst %d ziņu?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Vai dzēst saraksti ar “%1$s”?
+Jums ir %2$d nelasītas ziņas šajā sarakstē."</item>
+        <item quantity="zero">"Vai dzēst saraksti ar “%1$s”?
+Jums ir %2$d nelasītu ziņu šajā sarakstē."</item>
+        <item quantity="one">"Vai dzēst saraksti ar “%1$s”?
+Jums ir %2$d nelasīta ziņa šajā sarakstē."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Attēls ir pārāk mazs. Lūdzu, izvēlaties attēlu ar augstumu un platumu vismaz %d pikseļi.</item>
+        <item quantity="zero">Attēls ir pārāk mazs. Lūdzu, izvēlieties attēlu ar augstumu un platumu vismaz %d pikseļi.</item>
+        <item quantity="one">Attēls ir pārāk mazs. Lūdzu, izvēlaties attēlu ar augstumu un platumu vismaz %d pikselis.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Vai pamest “%1$s” grupu?
+Jums ir %2$d nenosūtītas ziņas šajā sarakstē."</item>
+        <item quantity="zero">"Vai pamest “%1$s” grupu?
+Jums ir %2$d nenosūtītu ziņu šajā sarakstē."</item>
+        <item quantity="one">"Vai pamest “%1$s” grupu?
+Jums ir %2$d nenosūtīta ziņa šajā sarakstē."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">Atjaunotas %d ziņas. Multivide tiks atjaunota fona režīmā.</item>
+        <item quantity="zero">Atjaunotas %d ziņas. Multivide tiks atjaunota fona režīmā.</item>
+        <item quantity="one">Atjaunota %d ziņa. Multivide tiks atjaunota fona režīmā.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">Atjaunotas %d ziņas.</item>
+        <item quantity="zero">Atjaunotas %d ziņas.</item>
+        <item quantity="one">Atjaunota %d ziņa.</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Vai nosūtīt %1$d dokumentus “%2$s”?</item>
+        <item quantity="zero">Vai nosūtīt %1$d dokumentus “%2$s”?</item>
+        <item quantity="one">Vai nosūtīt %1$d dokumentu “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Dalīties ar %1$d vienumiem ar “%2$s”?</item>
+        <item quantity="zero">Dalīties ar %1$d vienumu ar “%2$s”?</item>
+        <item quantity="one">Dalīties ar %1$d vienumu ar “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s vairs nav administratori</item>
+        <item quantity="zero">%s vairs nav administrators</item>
+        <item quantity="one">%s vairs nav administrators</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s tagad ir administratori</item>
+        <item quantity="zero">%s tagad ir administrators</item>
+        <item quantity="one">%s tagad ir administrators</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">pirms %d stundas</item>
+        <item quantity="zero">pirms %d stundām</item>
+        <item quantity="one">pirms %d stundas</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Precizitāte līdz %d metriem</item>
+        <item quantity="zero">Precizitāte līdz %d metriem</item>
+        <item quantity="one">Precizitāte līdz %d metram</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d ziņas nokopētas</item>
+        <item quantity="zero">%d ziņas nokopētas</item>
+        <item quantity="one">%d ziņa nokopēta</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d ziņas izdzēstas</item>
+        <item quantity="zero">%d ziņas izdzēstas</item>
+        <item quantity="one">%d ziņa izdzēsta</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">pirms %d minūtēm</item>
+        <item quantity="zero">pirms %d minūtēm</item>
+        <item quantity="one">pirms %d minūtes</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d neatbildēti zvani</item>
+        <item quantity="zero">%d neatbildētu zvanu</item>
+        <item quantity="one">%d neatbildēts zvans</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d mēnešu</item>
+        <item quantity="zero">%d mēnešu</item>
+        <item quantity="one">%d mēnesis</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Baudiet pakalpojuma
+%d mēnešus
+"</item>
+        <item quantity="zero">"Baudiet pakalpojuma
+%d mēnešus
+"</item>
+        <item quantity="one">"Baudiet pakalpojuma
+%d mēnesi
+"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d mēneši
+no pakalpojuma
+atlikuši"</item>
+        <item quantity="zero">"%d mēneši
+no pakalpojuma
+atlikuši"</item>
+        <item quantity="one">"%d mēnesis
+no pakalpojuma
+atlicis"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d kontakti</item>
+        <item quantity="zero">%d kontaktu</item>
+        <item quantity="one">%d kontakts</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Jāizvēlas, vismaz, %d kontakti</item>
+        <item quantity="zero">Jāizvēlas, vismaz, %d kontaktu</item>
+        <item quantity="one">Jāizvēlas, vismaz, %d kontakts</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d atlasīti</item>
+        <item quantity="zero">%d atlasīti</item>
+        <item quantity="one">%d atlasīts</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d atlasīti</item>
+        <item quantity="zero">%d atlasīti</item>
+        <item quantity="one">%d atlasīts</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s un %2$d citi</item>
+        <item quantity="zero">%1$s un %2$d citi</item>
+        <item quantity="one">%1$s un %2$d cits</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d baiti</item>
+        <item quantity="zero">%1$d baitu</item>
+        <item quantity="one">%1$d baits</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d ziņas</item>
+        <item quantity="zero">%1$d ziņu</item>
+        <item quantity="one">%1$d ziņa</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d zvani</item>
+        <item quantity="zero">%1$d zvanu</item>
+        <item quantity="one">%1$d zvans</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d jaunas ziņas</item>
+        <item quantity="zero">%d jaunas ziņas</item>
+        <item quantity="one">%d jauna ziņa</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d ziņas</item>
+        <item quantity="zero">%d ziņu</item>
+        <item quantity="one">%d ziņa</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s ziņas %2$d sarakstēs</item>
+        <item quantity="zero">%1$s ziņas %2$d sarakstēs</item>
+        <item quantity="one">%1$s ziņas %2$d sarakstē</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d lapas</item>
+        <item quantity="zero">%d lapu</item>
+        <item quantity="one">%d lapa</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d lapas</item>
+        <item quantity="zero">%d lapas</item>
+        <item quantity="one">%d lapa</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d slaidi</item>
+        <item quantity="zero">%d slaidu</item>
+        <item quantity="one">%d slaids</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d atlikušas</item>
+        <item quantity="zero">%d atlikušas</item>
+        <item quantity="one">%d atlikusi</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d ziņas atjaunotas. Varat turpināt.</item>
+        <item quantity="zero">%,d ziņas atjaunotas. Varat turpināt.</item>
+        <item quantity="one">%,d ziņa atjaunota. Varat turpināt.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Nosūtīt atkārtoti %1$d ziņas no %2$s</item>
+        <item quantity="zero">Nosūtīt atkārtoti %1$d ziņas no %2$s</item>
+        <item quantity="one">Nosūtīt atkārtoti %1$d ziņu no %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Nosūtīt atkārtoti %1$d ziņas no vakardienas.</item>
+        <item quantity="zero">Nosūtīt atkārtoti %1$d ziņas no vakardienas.</item>
+        <item quantity="one">Nosūtīt atkārtoti %1$d ziņas no vakardienas.</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekundes</item>
+        <item quantity="zero">%d sekundes</item>
+        <item quantity="one">%d sekunde</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Sūta %1$d audio uz %2$s</item>
+        <item quantity="zero">Sūta %1$d audio uz %2$s</item>
+        <item quantity="one">Sūta %1$d audio uz %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Sūta %d audio</item>
+        <item quantity="zero">Sūta %d audio</item>
+        <item quantity="one">Sūta %d audio</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Sūta %1$d failus uz %2$s</item>
+        <item quantity="zero">Sūta %1$d failus uz %2$s</item>
+        <item quantity="one">Sūta %1$d failu uz %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Sūta %d failus</item>
+        <item quantity="zero">Sūta %d failus</item>
+        <item quantity="one">Sūta %d failu</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Sūta %1$d video %2$s</item>
+        <item quantity="zero">Sūta %1$d video %2$s</item>
+        <item quantity="one">Sūta %1$d video %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Sūta %d video</item>
+        <item quantity="zero">Sūta %d video</item>
+        <item quantity="one">Sūta %d video</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Jūsu WhatsApp pakalpojuma lietošanas termiņš beigsies pēc %d dienām. Iegādāties pagarinājumu tūlīt?</item>
+        <item quantity="zero">Jūsu WhatsApp pakalpojuma lietošanas termiņš beigsies pēc %d dienām. Iegādāties pagarinājumu tūlīt?</item>
+        <item quantity="one">Jūsu WhatsApp pakalpojuma lietošanas termiņš beigsies pēc %d dienas. Iegādāties pagarinājumu tūlīt?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Šai WhatsApp versijai ir nepieciešams atjauninājums pēc %d dienām. Vai atjaunināt uz jaunāko versiju?</item>
+        <item quantity="zero">Šai WhatsApp versijai ir nepieciešams atjauninājums pēc %d dienām. Vai atjaunināt uz jaunāko versiju?</item>
+        <item quantity="one">Šai WhatsApp versijai ir nepieciešams atjauninājums pēc %d dienas. Vai atjaunināt uz jaunāko versiju?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d jaunas ziņas</item>
+        <item quantity="zero">%d jaunu ziņu</item>
+        <item quantity="one">%d jauna ziņa</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d gadi</item>
+        <item quantity="zero">%d gadu</item>
+        <item quantity="one">%d gads</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Baudiet pakalpojuma
+%d gadus
+"</item>
+        <item quantity="zero">"Baudiet pakalpojuma
+%d gadus
+"</item>
+        <item quantity="one">"Baudiet pakalpojuma
+%d gadu
+"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d gadi
+no pakalpojuma
+atlikuši"</item>
+        <item quantity="zero">"%d gadi
+no pakalpojuma
+atlikuši"</item>
+        <item quantity="one">"%d gads
+no pakalpojuma
+atlicis"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Jūs izveidojāt apraides sarakstu “%1$s” ar %2$d saņēmējiem</item>
+        <item quantity="zero">Jūs izveidojāt apraides sarakstu “%1$s” ar %2$d saņēmējiem</item>
+        <item quantity="one">Jūs izveidojāt apraides sarakstu “%1$s” ar %2$d saņēmēju</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Jūs izveidojāt apraides sarakstu ar %d saņēmējiem</item>
+        <item quantity="zero">Jūs izveidojāt apraides sarakstu ar %d saņēmējiem</item>
+        <item quantity="one">Jūs izveidojāt apraides sarakstu ar %d saņēmēju</item>
+    </plurals>
+</resources>

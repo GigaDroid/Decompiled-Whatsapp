@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:id="0x7f1000aa" android:layout_width="-2" android:layout_height="?unknown_attr_ref: 7f0100c6">
+    <ImageView android:background="0x7f0e000c" android:layout_width="1dp" android:layout_height="-1" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" />
+    <LinearLayout android:id="0x7f1000ab" android:layout_width="-2" android:layout_height="-1" style="0x7f0c00c7">
+        <ImageView android:src="0x7f0207b8" style="0x7f0c00c8" />
+        <TextView android:id="0x7f1000ac" style="0x7f0c0012" />
+    </LinearLayout>
+</LinearLayout>

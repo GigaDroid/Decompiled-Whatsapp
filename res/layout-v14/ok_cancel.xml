@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <View android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="1dp" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false">
+        <Button android:textColor="?unknown_attr_ref: 101003b" android:ellipsize="3" android:id="0x7f10026d" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0800a4" android:layout_weight="1.0" style="0x7f0c0086" />
+        <View android:background="0x7f0e004a" android:layout_width="1dp" android:layout_height="-1" />
+        <Button android:textColor="?unknown_attr_ref: 101003b" android:ellipsize="3" android:id="0x7f10026c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f08035c" android:layout_weight="1.0" style="0x7f0c0086" />
+    </LinearLayout>
+</LinearLayout>

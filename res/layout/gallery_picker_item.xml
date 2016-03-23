@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="96dp">
+    <com.whatsapp.gallerypicker.SquareImageView android:id="0x7f10020b" android:layout_width="-1" android:layout_height="96dp" android:scaleType="6" />
+    <ImageView android:layout_gravity="11" android:id="0x7f100296" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="24dp" android:src="0x7f0207cd" android:scaleType="5" />
+    <View android:layout_gravity="50" android:background="0x7f020771" android:layout_width="-1" android:layout_height="70dp" />
+    <LinearLayout android:gravity="10" android:layout_gravity="50" android:orientation="0" android:paddingTop="2dp" android:paddingRight="2dp" android:paddingBottom="2dp" android:layout_width="-1" android:layout_height="-2">
+        <ImageView android:layout_gravity="10" android:id="@id/icon" android:layout_width="24dp" android:layout_height="24dp" android:scaleType="6" />
+        <com.whatsapp.TextEmojiLabel android:textSize="13sp" android:textColor="#ffffffff" android:ellipsize="4" android:gravity="3" android:id="@id/title" android:layout_width="0dp" android:layout_height="-2" android:singleLine="true" android:layout_weight="1.0" />
+        <TextView android:textSize="11sp" android:textColor="#ffeeeeee" android:ellipsize="4" android:id="0x7f100179" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+    </LinearLayout>
+</FrameLayout>

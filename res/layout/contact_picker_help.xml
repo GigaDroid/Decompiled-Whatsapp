@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:id="0x7f100193" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:paddingLeft="0x7f0b00ac" android:paddingTop="6dp" android:paddingRight="0x7f0b00ac" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:layout_width="-1" android:layout_height="-2" android:text="0x7f0800fb" android:lineSpacingMultiplier="1.0" style="0x7f0c00e2" />
+            <TableLayout android:paddingTop="8dp" android:layout_width="-1" android:layout_height="-2" android:stretchColumns="0" android:shrinkColumns="1">
+                <TableRow>
+                    <TextView android:textStyle="1" android:paddingRight="2dp" android:text="0x7f0800f5" style="0x7f0c00e6" />
+                    <TextView android:layout_width="-2" android:text="0x7f0800fd" style="0x7f0c00e6" />
+                </TableRow>
+                <TableRow>
+                    <TextView android:textStyle="1" android:text="0x7f0800f5" style="0x7f0c00e6" />
+                    <TextView android:layout_width="-2" android:text="0x7f0800fe" style="0x7f0c00e6" />
+                </TableRow>
+                <TableRow>
+                    <TextView android:textStyle="1" android:text="0x7f0800f5" style="0x7f0c00e6" />
+                    <TextView android:layout_width="-2" android:text="0x7f0800ff" style="0x7f0c00e6" />
+                </TableRow>
+                <TableRow>
+                    <TextView android:textStyle="1" android:text="0x7f0800f5" style="0x7f0c00e6" />
+                    <TextView android:layout_width="-2" android:text="0x7f080100" style="0x7f0c00e6" />
+                </TableRow>
+                <TableRow>
+                    <TextView android:textStyle="1" android:text="0x7f0800f5" style="0x7f0c00e6" />
+                    <TextView android:layout_width="-2" android:text="0x7f080101" style="0x7f0c00e6" />
+                </TableRow>
+            </TableLayout>
+            <TextView android:textStyle="1" android:id="0x7f1001c3" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="8dp" android:text="0x7f0800f8" android:lineSpacingMultiplier="1.0" style="0x7f0c00e2" />
+            <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginBottom="10dp">
+                <Button android:layout_gravity="11" android:id="0x7f1001c4" android:paddingLeft="15dp" android:paddingRight="15dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0800f7" />
+            </LinearLayout>
+            <ImageView android:layout_gravity="11" android:id="0x7f1001c5" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="10dp" android:src="0x7f0200fb" android:scaleType="1" />
+            <LinearLayout android:orientation="0" android:id="0x7f1001c6" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textStyle="1" android:gravity="13" android:layout_gravity="13" android:layout_width="0dp" android:layout_height="-2" android:layout_marginRight="10dp" android:text="0x7f080102" android:layout_weight="1.0" android:lineSpacingMultiplier="1.0" style="0x7f0c00e2" />
+                <LinearLayout android:gravity="15" android:layout_gravity="15" android:layout_width="-2" android:layout_height="-1">
+                    <CheckBox android:textColor="0x7f0e0016" android:gravity="15" android:layout_gravity="15" android:id="0x7f1001c7" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                </LinearLayout>
+            </LinearLayout>
+            <ImageView android:layout_gravity="11" android:id="0x7f1001c8" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginBottom="20dp" android:src="0x7f0200fb" android:scaleType="1" />
+            <TextView android:id="0x7f1001c9" style="0x7f0c001b" />
+            <ListView android:id="0x102000a" android:layout_width="-1" android:layout_height="0dp" android:cacheColorHint="0x106000d" android:divider="0x7f0e004a" android:dividerHeight="0px" android:choiceMode="0" android:layout_weight="1.0" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

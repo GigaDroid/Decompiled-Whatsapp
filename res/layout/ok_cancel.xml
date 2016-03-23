@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="0x7f02077c" android:paddingLeft="2dp" android:paddingTop="3dp" android:paddingRight="2dp" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false">
+    <Button android:ellipsize="3" android:id="0x7f10026d" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0800a4" android:layout_weight="0.5" />
+    <Button android:id="0x7f10026c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f08035c" android:layout_weight="0.5" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#ebebeb" android:padding="8dp" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="1" android:background="0x7f020889" android:paddingLeft="0x7f0b005f" android:paddingTop="0x7f0b0061" android:paddingRight="0x7f0b005f" android:paddingBottom="0x7f0b0061" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:layout_gravity="11" android:paddingTop="0x7f0b0061" android:paddingBottom="0x7f0b0062" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0208f2" />
+            <TextView android:textSize="18sp" android:textColor="0x106000c" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080288" />
+            <TextView android:textSize="18sp" android:textColor="#ff707070" android:id="0x7f1000de" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:fontFamily="sans-serif-light" />
+            <Button android:textColor="0x106000b" android:id="0x7f1000c5" android:background="0x7f020093" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="24dp" android:text="0x7f08008d" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

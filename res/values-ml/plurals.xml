@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">%d കോണ്ടാക്ടുകൾക്കു വേണ്ടി സേവനം വാങ്ങി</item>
+        <item quantity="one">%d കോണ്ടാക്ടിനു വേണ്ടി സേവനം വാങ്ങി.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%2$s നു വേണ്ടി %1$d വർഷത്തെ സേവനം വാങ്ങി.</item>
+        <item quantity="one">%2$s നു വേണ്ടി %1$d വർഷത്തെ സേവനം വാങ്ങി.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">താങ്കൾക്ക് %1$d വർഷത്തിലധികം സർവ്വീസ് ബാക്കിയുണ്ട്..</item>
+        <item quantity="one">താങ്കൾക്ക് %1$d വർഷത്തിലധികം സർവ്വീസ് ബാക്കിയുണ്ട്.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">നിങ്ങൾക്ക് %1$d വർഷത്തെ സേവനം ശേഷിക്കുന്നു.</item>
+        <item quantity="one">നിങ്ങൾക്ക് %1$d വർഷത്തെ സേവനം ശേഷിക്കുന്നു.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s എന്നയാള്‍ നിങ്ങള്‍ക്കായി %2$d വർഷത്തെ സേവനം വാങ്ങിയിട്ടുണ്ട്.</item>
+        <item quantity="one">%1$s എന്നയാള്‍ നിങ്ങള്‍ക്കായി %2$d വർഷത്തെ സേവനം വാങ്ങിയിട്ടുണ്ട്.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">ഒരു സുഹൃത്ത് നിങ്ങള്‍ക്കായി %1$d വര്‍ഷത്തെ സേവനം വാങ്ങിയിരിക്കുന്നു.</item>
+        <item quantity="one">ഒരു സുഹൃത്ത് നിങ്ങള്‍ക്കായി %1$d വര്‍ഷത്തെ സേവനം വാങ്ങിയിരിക്കുന്നു.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d സ്വീകര്‍ത്താക്കൾ</item>
+        <item quantity="one">%d സ്വീകര്‍ത്താവ്</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s ഉം %2$d ഉം മറ്റുള്ളവരും</item>
+        <item quantity="one">%1$s ഉം %2$d ഉം മറ്റുള്ളവരും</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">%d കോണ്ടാക്ടുകളിൽ ബ്രോഡ്കാസ്റ്റ് ചെയ്യുക</item>
+        <item quantity="one">%d കോണ്ടാക്ടിൽ ബ്രോഡ്കാസ്റ്റ് ചെയ്യുക</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">%2$s ഉം മറ്റു %3$d പേരും പ്രമാണങ്ങൾ പിന്തുണക്കാത്ത WhatsApp പതിപ്പിലായതിനാൽ “%1$s“ ലേക്ക് പ്രമാണങ്ങളയക്കാനാവില്ല.</item>
+        <item quantity="one">%2$s ഉം മറ്റു %3$d ആളും പ്രമാണങ്ങൾ പിന്തുണക്കാത്ത WhatsApp പതിപ്പിലായതിനാൽ “%1$s“ ലേക്ക് പ്രമാണങ്ങളയക്കാനാവില്ല.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">%1$d പ്രമാണങ്ങൾ %2$s ന് അയക്കണോ?</item>
+        <item quantity="one">%1$d പ്രമാണം %2$s ന് അയക്കണോ?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">%1$d ഇവ %2$s ഇവര്‍ക്ക് പങ്കിടണോ?</item>
+        <item quantity="one">%1$d ഇത് %2$s നു പങ്കിടണോ?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d ദിവസങ്ങൾ</item>
+        <item quantity="one">%d ദിവസം</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"നിങ്ങളുടെ 
+%d ദിവസത്തേക്കുള്ള സേവനം 
+ ആസ്വദിക്കൂ"</item>
+        <item quantity="one">"നിങ്ങളുടെ 
+%d ദിവസത്തേക്കുള്ള സേവനം 
+ ആസ്വദിക്കൂ"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d ദിവസങ്ങള്‍ 
+സേവനം
+ബാക്കിയുണ്ട്"</item>
+        <item quantity="one">"%d ദിവസ 
+സേവനം
+ബാക്കിയുണ്ട്"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">%d സന്ദേശങ്ങൾ ഇല്ലാതാക്കണോ?</item>
+        <item quantity="one">%d സന്ദേശം ഇല്ലാതാക്കണോ?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"%1$s മായുള്ള ചാറ്റ് ഇല്ലാതാക്കണോ?
+ ഈ ചാറ്റിൽ വായിക്കാത്ത %2$d സന്ദേശങ്ങളുണ്ട്."</item>
+        <item quantity="one">"%1$s മായുള്ള ചാറ്റ് ഇല്ലാതാക്കണോ?
+ ഈ ചാറ്റിൽ വായിക്കാത്ത %2$d സന്ദേശമുണ്ട്."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">ഈ ചിത്രങ്ങൾ വളരെ ചെറുതാണ്. ദയവായി %d പിക്സൽ പൊക്കവും വീതിയും ഉള്ള ചിത്രങ്ങൾ തിരഞ്ഞെടുക്കുക.</item>
+        <item quantity="one">ഈ ചിത്രം വളരെ ചെറുതാണ്. ദയവായി %d പിക്സൽ പൊക്കവും വീതിയും ഉള്ള ചിത്രം തിരഞ്ഞെടുക്കുക.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"\"%1$s\" എന്ന ഗ്രൂപ്പിൽ നിന്ന് പുറത്തുകടക്കണോ?
+ഈ ചാറ്റിൽ അയക്കാത്ത %2$d സന്ദേശങ്ങളുണ്ട്."</item>
+        <item quantity="one">"\"%1$s\" എന്ന ഗ്രൂപ്പിൽ നിന്ന് പുറത്തുകടക്കണോ?
+ഈ ചാറ്റിൽ അയക്കാത്ത %2$d സന്ദേശമുണ്ട്."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d സന്ദേശങ്ങൾ റീസ്റ്റോർ ചെയ്തു. മീഡിയകൾ പശ്ചാത്തലത്തിൽ റീസ്റ്റോർ ആവും.</item>
+        <item quantity="one">%d സന്ദേശം റീസ്റ്റോർ ചെയ്തു. മീഡിയകൾ പശ്ചാത്തലത്തിൽ റീസ്റ്റോർ ആവും.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d സന്ദേശങ്ങൾ റീസ്റ്റോർ ചെയ്തു</item>
+        <item quantity="one">%d സന്ദേശം റീസ്റ്റോർ ചെയ്തു</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">%1$d പ്രമാണം “%2$s” ന് അയക്കണോ?</item>
+        <item quantity="one">%1$d പ്രമാണം “%2$s” ന് അയക്കണോ?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">%1$d, “%2$s” മായി പങ്കിടണോ?</item>
+        <item quantity="one">%1$d, “%2$s” മായി പങ്കിടണോ?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s ഇനിമുതല്‍ അഡ്മിനുകളല്ല</item>
+        <item quantity="one">%s ഇനിമുതല്‍ അഡ്മിനല്ല</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s ഇപ്പോൾ അഡ്മിനുകളാണ്</item>
+        <item quantity="one">%s ഇപ്പോൾ അഡ്മിനാണ്</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d മണിക്കൂറുകൾ</item>
+        <item quantity="one">%d മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d മണിക്കൂറുകൾ മുമ്പ്</item>
+        <item quantity="one">%d മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">കൃത്യം %d മീറ്ററുകൾ</item>
+        <item quantity="one">കൃത്യം %d മീറ്റർ</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d സന്ദേശങ്ങൾ പകർത്തി</item>
+        <item quantity="one">%d സന്ദേശം പകർത്തി</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d സന്ദേശങ്ങൾ ഇല്ലാതാക്കി</item>
+        <item quantity="one">%d സന്ദേശം ഇല്ലാതാക്കി</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d മിനുട്ട്സ്</item>
+        <item quantity="one">%d മിനുട്ട്</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d മിനുട്ടുകൾ മുമ്പ്</item>
+        <item quantity="one">%d മിനുട്ട് മുമ്പ്</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d മിസ്സ്ഡ് കാളുകൾ</item>
+        <item quantity="one">%d മിസ്സ്ഡ് കാൾ</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d മാസങ്ങള്‍</item>
+        <item quantity="one">%d മാസം</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"നിങ്ങളുടെ 
+%d മാസത്തേക്കുള്ള സേവനം 
+ ആസ്വദിക്കൂ"</item>
+        <item quantity="one">"നിങ്ങളുടെ 
+%d മാസത്തേക്കുള്ള സേവനം 
+ ആസ്വദിക്കൂ"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d മാസ
+സേവനം
+ശേഷിക്കുന്നു"</item>
+        <item quantity="one">"%d മാസത്തെ
+സേവനം
+ശേഷിക്കുന്നു"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d കോണ്ടാക്ടുകൾ</item>
+        <item quantity="one">%d കോണ്ടാക്ട്</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">കുറഞ്ഞത് %d കോണ്ടാക്ടുകളെങ്കിലും തിരഞ്ഞെടുക്കണം</item>
+        <item quantity="one">കുറഞ്ഞത് %d കോണ്ടാക്ടെങ്കിലും തിരഞ്ഞെടുക്കണം</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s ഉം മറ്റു %2$d ആളുകളും</item>
+        <item quantity="one">%1$s ഉം മറ്റു %2$d ആളും</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d ബൈറ്റുകൾ</item>
+        <item quantity="one">%1$d ബൈറ്റ്</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d സന്ദേശങ്ങൾ</item>
+        <item quantity="one">%1$d സന്ദേശം</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d വിളികൾ</item>
+        <item quantity="one">%1$d വിളി</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d പുതിയ സന്ദേശങ്ങൾ</item>
+        <item quantity="one">%d പുതിയ സന്ദേശം</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d സന്ദേശങ്ങള്‍</item>
+        <item quantity="one">%d സന്ദേശം</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%2$d ചാറ്റുകളിൽ നിന്നും %1$s സന്ദേശങ്ങൾ</item>
+        <item quantity="one">%2$d ചാറ്റില്‍ നിന്നും %1$s സന്ദേശങ്ങൾ</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d പേജുകള്‍</item>
+        <item quantity="one">%d പേജ്</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d ഷീറ്റുകൾ</item>
+        <item quantity="one">%d ഷീറ്റ്</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d സ്ലൈഡ്</item>
+        <item quantity="one">%d സ്ലൈഡ്</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d ശേഷിക്കുന്നു</item>
+        <item quantity="one">%d ശേഷിക്കുന്നു</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d സന്ദേശങ്ങൾ റീസ്റ്റോർ ചെയ്തു. നിങ്ങൾക്ക് മുന്നോട്ട് പോകാം.</item>
+        <item quantity="one">%,d സന്ദേശം റീസ്റ്റോർ ചെയ്തു. നിങ്ങൾക്ക് മുന്നോട്ട് പോകാം.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">%2$s ലെ %1$d സന്ദേശങ്ങൾ വീണ്ടുമയക്കുക</item>
+        <item quantity="one">%2$s ലെ %1$d സന്ദേശം വീണ്ടുമയക്കുക</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">ഇന്നലത്തെ %1$d സന്ദേശങ്ങൾ വീണ്ടുമയക്കുക</item>
+        <item quantity="one">ഇന്നലത്തെ %1$d സന്ദേശം വീണ്ടുമയക്കുക</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d സെക്കന്റുകൾ</item>
+        <item quantity="one">%d സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">%1$d ഓഡിയോകൾ %2$s നു അയക്കുന്നു</item>
+        <item quantity="one">%1$d ഓഡിയോ %2$s നു അയക്കുന്നു</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">%d ഓഡിയോകൾ അയക്കുന്നു</item>
+        <item quantity="one">%d ഓഡിയോ അയക്കുന്നു</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">%1$d ഫയലുകൾ %2$s നു അയക്കുന്നു</item>
+        <item quantity="one">%1$d ഫയൽ %2$s നു അയക്കുന്നു</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">%d ഫയലുകൾ അയക്കുന്നു</item>
+        <item quantity="one">%d ഫയൽ അയക്കുന്നു</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">%1$d വീഡിയോകൾ %2$s ന് അയക്കുന്നു.</item>
+        <item quantity="one">%1$d വീഡിയോ %2$s ന് അയക്കുന്നു.</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">%d വീഡിയോകൾ അയക്കുന്നു.</item>
+        <item quantity="one">%d വീഡിയോ അയക്കുന്നു.</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">നിങ്ങളുടെ WhatsApp സേവനം %d ദിവസങ്ങൾക്കകം അവസാനിക്കും. ഇപ്പോൾ കാലാവധി നീട്ടിവാങ്ങുന്നോ?</item>
+        <item quantity="one">നിങ്ങളുടെ WhatsApp സേവനം %d ദിവസത്തിനകം അവസാനിക്കും. ഇപ്പോൾ കാലാവധി നീട്ടിവാങ്ങുന്നോ?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">WhatsApp ന്റെ ഈ പതിപ്പ് %d ദിവസങ്ങൾക്കകം പുതുക്കേണ്ടതുണ്ട്. പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യട്ടേ?</item>
+        <item quantity="one">WhatsApp ന്റെ ഈ പതിപ്പ് %d ദിവസത്തിനകം പുതുക്കേണ്ടതുണ്ട്. പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യട്ടേ?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d വായിക്കാത്ത സന്ദേശങ്ങൾ</item>
+        <item quantity="one">%d വായിക്കാത്ത സന്ദേശം</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d വർഷങ്ങൾ</item>
+        <item quantity="one">%d വർഷം</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"നിങ്ങളുടെ 
+%d വർഷങ്ങളുടെ
+ സേവനം ആസ്വദിക്കൂ"</item>
+        <item quantity="one">"നിങ്ങളുടെ 
+%d വർഷത്തെ
+ സേവനം ആസ്വദിക്കൂ"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d വര്‍ഷ 
+സേവനം
+ബാക്കിയുണ്ട്"</item>
+        <item quantity="one">"%d വര്‍ഷ 
+സേവനം
+ബാക്കിയുണ്ട്"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">നിങ്ങൾ %2$d പേരുള്ള \"%1$s\" എന്ന ബ്രോഡ്കാസ്റ്റ് ലിസ്റ്റുണ്ടാക്കി</item>
+        <item quantity="one">നിങ്ങൾ %2$d പേരുള്ള \"%1$s\" എന്ന ബ്രോഡ്കാസ്റ്റ് ലിസ്റ്റുണ്ടാക്കി</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">%d സ്വീകർത്താക്കളുള്ള ബ്രോഡ്കാസ്റ്റ് ലിസ്റ്റ് നിങ്ങൾ നിർമ്മിച്ചു</item>
+        <item quantity="one">%d സ്വീകർത്താവുള്ള ബ്രോഡ്കാസ്റ്റ് ലിസ്റ്റ് നിങ്ങൾ നിർമ്മിച്ചു</item>
+    </plurals>
+</resources>

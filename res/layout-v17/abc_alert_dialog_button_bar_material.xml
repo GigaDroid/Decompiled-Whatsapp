@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.ButtonBarLayout app:gravity="50" app:orientation="0" app:id="@id/buttonPanel" app:paddingLeft="12dp" app:paddingTop="4dp" app:paddingRight="12dp" app:paddingBottom="4dp" app:layout_width="-1" app:layout_height="-2" app:layoutDirection="3" app:allowStacking="@bool/abc_allow_stacked_button_bar" style="?unknown_attr_ref: 7f0100e2">
+    <Button app:id="0x102001b" app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 7f010112" />
+    <android.support.v4.widget.Space app:id="@id/spacer" app:visibility="1" app:layout_width="0dp" app:layout_height="0dp" app:layout_weight="1.0" />
+    <Button app:id="0x102001a" app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 7f010111" />
+    <Button app:id="0x1020019" app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 7f010110" />
+</android.support.v7.widget.ButtonBarLayout>

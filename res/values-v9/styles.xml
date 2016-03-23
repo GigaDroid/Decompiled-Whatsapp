@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EmojiList">
+        <item name="android:scrollbarStyle">outsideInset</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:persistentDrawingCache">scrolling</item>
+        <item name="android:alwaysDrawnWithCache">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:fadeScrollbars">false</item>
+        <item name="android:overScrollFooter">@null</item>
+    </style>
+</resources>

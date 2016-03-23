@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <TextView android:textSize="0x7f0b009d" android:textColor="#848484" android:gravity="3" android:id="0x7f10036e" android:background="0x7f0208d7" android:padding="20dp" android:layout_width="-1" android:layout_height="-2" />
+</LinearLayout>

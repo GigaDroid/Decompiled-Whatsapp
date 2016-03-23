@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView android:id="@id/action_mode_close_button" android:focusable="true" android:clickable="true" android:layout_width="-2" android:layout_height="-1" android:src="?unknown_attr_ref: 7f0100cf" android:contentDescription="@string/abc_action_mode_done" style="?unknown_attr_ref: 7f0100cc" />

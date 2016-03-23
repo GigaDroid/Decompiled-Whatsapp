@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f0804ed" android:key="network_usage">
+    <com.whatsapp.preference.WaPreference android:title="0x7f08032c" android:key="network_usage_messages_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f08032b" android:key="network_usage_messages_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080328" android:key="network_usage_media_bytes_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080327" android:key="network_usage_media_bytes_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f08032a" android:key="network_usage_message_bytes_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080329" android:key="network_usage_message_bytes_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080335" android:key="network_usage_voip_calls_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080334" android:key="network_usage_voip_calls_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080333" android:key="network_usage_voip_call_bytes_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080332" android:key="network_usage_voip_call_bytes_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080325" android:key="google_drive_total_bytes_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080324" android:key="google_drive_total_bytes_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f08032f" android:key="network_usage_roaming_bytes_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f08032e" android:key="network_usage_roaming_bytes_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080331" android:key="network_usage_total_bytes_sent" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080330" android:key="network_usage_total_bytes_received" android:summary="0x7f0805b6" />
+    <com.whatsapp.preference.WaDialogPreference android:title="0x7f08032d" android:key="network_usage_reset" android:dialogMessage="0x7f08031f" android:positiveButtonText="0x7f08045c" android:negativeButtonText="0x7f0800a4" />
+</PreferenceScreen>

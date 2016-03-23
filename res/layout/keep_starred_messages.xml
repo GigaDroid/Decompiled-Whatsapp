@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="@dimen/abc_dialog_padding_material" android:paddingTop="@dimen/abc_dialog_padding_top_material" android:paddingRight="@dimen/abc_dialog_padding_material" android:layout_width="-1" android:layout_height="-2">
+    <com.whatsapp.util.RtlCheckBox android:textSize="14sp" android:id="@id/checkbox" android:layout_width="-2" android:layout_height="-2" android:checked="true" android:text="0x7f0800c7" />
+</FrameLayout>

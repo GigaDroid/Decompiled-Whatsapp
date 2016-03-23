@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Usluga kupljena za %d kontakata.</item>
+        <item quantity="one">Usluga kupljena za %d kontakt.</item>
+        <item quantity="few">Usluga kupljena za %d kontakta.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d godina usluge plaćeno za %2$s.</item>
+        <item quantity="one">%1$d godina usluge plaćena za %2$s.</item>
+        <item quantity="few">%1$d godine usluge plaćene za %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Ostalo Vam je više od %1$d godina pretplate.</item>
+        <item quantity="one">Ostalo Vam je više od %1$d godine pretplate.</item>
+        <item quantity="few">Ostalo Vam je više od %1$d godine pretplate.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Preostaje Vam još %1$d godina pretplate.</item>
+        <item quantity="one">Preostaje Vam još %1$d godina pretplate.</item>
+        <item quantity="few">Preostaje Vam još %1$d godine pretplate.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s je platio %2$d godina usluge za Vas.</item>
+        <item quantity="one">%1$s je platio %2$d godinu usluge za Vas.</item>
+        <item quantity="few">%1$s je platio %2$d godine usluge za Vas.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Prijatelj je platio %1$d godina usluge za Vas.</item>
+        <item quantity="one">Prijatelj je platio %1$d godinu usluge za Vas.</item>
+        <item quantity="few">Prijatelj je platio %1$d godine usluge za Vas.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d primatelja</item>
+        <item quantity="one">%d primatelj</item>
+        <item quantity="few">%d primatelja</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, i još %2$d</item>
+        <item quantity="one">%1$s, i još %2$d</item>
+        <item quantity="few">%1$s, i još %2$d</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Odaslano prema %d kontakata</item>
+        <item quantity="one">Odaslano prema %d kontaktu</item>
+        <item quantity="few">Odaslano prema %d kontakta</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Nije moguće slati dokumente na “%1$s” iz razloga što su %2$s i %3$d drugih na verziji WhatsApp-a koja ne podržava dokumente.</item>
+        <item quantity="one">Nije moguće slati dokumente na “%1$s” iz razloga što su %2$s i %3$d drugi na verziji WhatsApp-a koja ne podržava dokumente.</item>
+        <item quantity="few">Nije moguće slati dokumente na “%1$s” iz razloga što su %2$s i %3$d drugih na verziji WhatsApp-a koja ne podržava dokumente.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Poslati %1$d dokumenata kontaktu %2$s?</item>
+        <item quantity="one">Poslati %1$d dokument kontaktu %2$s?</item>
+        <item quantity="few">Poslati %1$d dokumenta kontaktu %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Podijeliti %1$d stavki sa %2$s?</item>
+        <item quantity="one">Podijeliti %1$d stavku sa %2$s?</item>
+        <item quantity="few">Podijeliti %1$d stavke sa %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d dana</item>
+        <item quantity="one">%d dan</item>
+        <item quantity="few">%d dana</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Uživajte u
+%d dana
+usluge"</item>
+        <item quantity="one">"Uživajte u
+%d danu
+usluge"</item>
+        <item quantity="few">"Uživajte u
+%d dana
+usluge"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d dana
+usluge
+preostalo"</item>
+        <item quantity="one">"%d dan
+usluge
+preostao"</item>
+        <item quantity="few">"%d dana
+usluge
+preostalo"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Izbrisati %d poruka?</item>
+        <item quantity="one">Izbrisati %d poruku?</item>
+        <item quantity="few">Izbrisati %d poruke?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Izbrisati razgovor sa \"%1$s\"?
+Imate %2$d neposlanih poruka u ovom razgovoru."</item>
+        <item quantity="one">"Izbrisati razgovor sa \"%1$s\"?
+Imate %2$d neposlanu poruku u ovom razgovoru."</item>
+        <item quantity="few">"Izbrisati razgovor sa \"%1$s\"?
+Imate %2$d neposlane poruke u ovom razgovoru."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Slika je premala. Molim odaberite sliku visine i širine od barem %d piksela.</item>
+        <item quantity="one">Slika je premala. Molim odaberite sliku visine i širine od barem %d piksela.</item>
+        <item quantity="few">Slika je premala. Molim odaberite sliku visine i širine od barem %d piksela.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Napustiti grupu \"%1$s\"?
+Imate %2$d neposlanih poruka u ovom razgovoru."</item>
+        <item quantity="one">"Napustiti grupu \"%1$s\"?
+Imate %2$d neposlanu poruku u ovom razgovoru."</item>
+        <item quantity="few">"Napustiti grupu \"%1$s\"?
+Imate %2$d neposlane poruke u ovom razgovoru."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d poruka vraćeno. Povrat medijskih zapisa nastaviti će se u pozadini.</item>
+        <item quantity="one">%d poruka vraćena. Povrat medijskih zapisa nastaviti će se u pozadini.</item>
+        <item quantity="few">%d poruke vraćene. Povrat medijskih zapisa nastaviti će se u pozadini.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d poruka vraćeno</item>
+        <item quantity="one">%d poruka vraćena</item>
+        <item quantity="few">%d poruke vraćene</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Poslati %1$d dokumenata kontaktu “%2$s”?</item>
+        <item quantity="one">Poslati %1$d dokument kontaktu “%2$s”?</item>
+        <item quantity="few">Poslati %1$d dokumenta kontaktu “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Podijeliti %1$d stavki sa “%2$s”?</item>
+        <item quantity="one">Podijeliti %1$d stavku sa “%2$s”?</item>
+        <item quantity="few">Podijeliti %1$d stavke sa “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s više nisu administratori</item>
+        <item quantity="one">%s više nije administrator</item>
+        <item quantity="few">%s više nisu administratori</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s su sada administratori</item>
+        <item quantity="one">%s je sada administrator</item>
+        <item quantity="few">%s su sada administratori</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="few">%d sata</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">prije %d sati</item>
+        <item quantity="one">prije %d sat</item>
+        <item quantity="few">prije %d sata</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Točnost do %d metara</item>
+        <item quantity="one">Točnost do %d metra</item>
+        <item quantity="few">Točnost do %d metra</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d poruka kopirano</item>
+        <item quantity="one">%d poruka kopirana</item>
+        <item quantity="few">%d poruke kopirane</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d poruka izbrisano</item>
+        <item quantity="one">%d poruka izbrisana</item>
+        <item quantity="few">%d poruke izbrisane</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">prije %d minuta</item>
+        <item quantity="one">prije %d minutu</item>
+        <item quantity="few">prije %d minute</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d propuštenih poziva</item>
+        <item quantity="one">%d propušten poziv</item>
+        <item quantity="few">%d propuštena poziva</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d mjeseci</item>
+        <item quantity="one">%d mjesec</item>
+        <item quantity="few">%d mjeseca</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Uživajte u
+%d mjeseci
+usluge"</item>
+        <item quantity="one">"Uživajte u
+%d mjesecu
+usluge"</item>
+        <item quantity="few">"Uživajte u
+%d mjeseca
+usluge"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"Preostaje
+%d mjeseci
+usluge"</item>
+        <item quantity="one">"Preostaje
+%d mjesec
+usluge"</item>
+        <item quantity="few">"Preostaje
+%d mjeseca
+usluge"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d kontakata</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakta</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Najmanje %d kontakata mora biti odabrano</item>
+        <item quantity="one">Najmanje %d kontakt mora biti odabran</item>
+        <item quantity="few">Najmanje %d kontakta moraju biti odabrana</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d odabranih</item>
+        <item quantity="one">%d odabran</item>
+        <item quantity="few">%d odabrana</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d odabrano</item>
+        <item quantity="one">%d odabran</item>
+        <item quantity="few">%d odabrana</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s i %2$d drugih</item>
+        <item quantity="one">%1$s i %2$d drugi</item>
+        <item quantity="few">%1$s i %2$d drugih</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bajtova</item>
+        <item quantity="one">%1$d bajt</item>
+        <item quantity="few">%1$d bajta</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d poruka</item>
+        <item quantity="one">%1$d poruka</item>
+        <item quantity="few">%1$d poruke</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d poziva</item>
+        <item quantity="one">%1$d poziv</item>
+        <item quantity="few">%1$d poziva</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d novih poruka</item>
+        <item quantity="one">%d nova poruka</item>
+        <item quantity="few">%d nove poruke</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d poruka</item>
+        <item quantity="one">%d poruka</item>
+        <item quantity="few">%d poruke</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s od %2$d razgovora</item>
+        <item quantity="one">%1$s od %2$d razgovora</item>
+        <item quantity="few">%1$s od %2$d razgovora</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d stranica</item>
+        <item quantity="one">%d stranica</item>
+        <item quantity="few">%d stranice</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d listova</item>
+        <item quantity="one">%d list</item>
+        <item quantity="few">%d lista</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d slajdova</item>
+        <item quantity="one">%d slajd</item>
+        <item quantity="few">%d slajda</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d preostalo</item>
+        <item quantity="one">%d preostala</item>
+        <item quantity="few">%d preostale</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d poruka vraćeno. Možete nastaviti.</item>
+        <item quantity="one">%,d poruka vraćena. Možete nastaviti.</item>
+        <item quantity="few">%,d poruke vraćene. Možete nastaviti.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Ponovno pošalji %1$d poruka od %2$s</item>
+        <item quantity="one">Ponovno pošalji %1$d poruku od %2$s</item>
+        <item quantity="few">Ponovno pošalji %1$d poruke od %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Ponovno pošalji %1$d poruka od jučer</item>
+        <item quantity="one">Ponovno pošalji %1$d poruku od jučer</item>
+        <item quantity="few">Ponovno pošalji %1$d poruke od jučer</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Šaljem %1$d zvučnih zapisa kontaktu %2$s</item>
+        <item quantity="one">Šaljem %1$d zvučni zapis kontaktu %2$s</item>
+        <item quantity="few">Šaljem %1$d zvučna zapisa kontaktu %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Šaljem %d zvučnih zapisa</item>
+        <item quantity="one">Šaljem %d zvučni zapis</item>
+        <item quantity="few">Šaljem %d zvučna zapisa</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Šaljem %1$d datoteka kontaktu %2$s</item>
+        <item quantity="one">Šaljem %1$d datoteku kontaktu %2$s</item>
+        <item quantity="few">Šaljem %1$d datoteke kontaktu %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Šaljem %d datoteka</item>
+        <item quantity="one">Šaljem %d datoteku</item>
+        <item quantity="few">Šaljem %d datoteke</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Šaljem %1$d videa za %2$s</item>
+        <item quantity="one">Šaljem %1$d video za %2$s</item>
+        <item quantity="few">Šaljem %1$d videa za %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Šaljem %d videa</item>
+        <item quantity="one">Šaljem %d video</item>
+        <item quantity="few">Šaljem %d videa</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Vaša WhatsApp usluga će isteći za %d dana. Kupiti produljenje sada?</item>
+        <item quantity="one">Vaša WhatsApp usluga će isteći za %d dan. Kupiti produljenje sada?</item>
+        <item quantity="few">Vaša WhatsApp usluga će isteći za %d dana. Kupiti produljenje sada?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Ova verzija WhatsApp-a mora biti ažurirana za %d dana. Ažurirati na najnoviju verziju?</item>
+        <item quantity="one">Ova verzija WhatsApp-a mora biti ažurirana za %d dan. Ažurirati na najnoviju verziju?</item>
+        <item quantity="few">Ova verzija WhatsApp-a mora biti ažurirana za %d dana. Ažurirati na najnoviju verziju?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d nepročitanih poruka</item>
+        <item quantity="one">%d nepročitana poruka</item>
+        <item quantity="few">%d nepročitane poruke</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d godina</item>
+        <item quantity="one">%d godinu</item>
+        <item quantity="few">%d godine</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Uživajte u vaših
+%d godina
+usluge"</item>
+        <item quantity="one">"Uživajte u vašoj
+%d godini
+usluge"</item>
+        <item quantity="few">"Uživajte u vaših
+%d godine
+usluge"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d godina
+usluge
+preostalo"</item>
+        <item quantity="one">"%d godina
+usluge
+preostalo"</item>
+        <item quantity="few">"%d godine
+usluge
+preostalo"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Stvorili ste distribucijsku listu “%1$s” s %2$d primatelja</item>
+        <item quantity="one">Stvorili ste distribucijsku listu “%1$s” s %2$d primateljem</item>
+        <item quantity="few">Stvorili ste distribucijsku listu “%1$s” s %2$d primatelja</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Stvorili ste distribucijsku listu s %d primatelja</item>
+        <item quantity="one">Stvorili ste distribucijsku listu s %d primateljem</item>
+        <item quantity="few">Stvorili ste distribucijsku listu s %d primatelja</item>
+    </plurals>
+</resources>

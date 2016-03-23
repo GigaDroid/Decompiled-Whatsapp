@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_enabled="true" android:state_pressed="true">
+        <objectAnimator android:duration="0x10e0000" />
+    </item>
+    <item>
+        <objectAnimator android:duration="0x10e0000" />
+    </item>
+</selector>

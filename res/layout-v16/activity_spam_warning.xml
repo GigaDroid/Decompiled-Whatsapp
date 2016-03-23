@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#ebebeb" android:padding="8dp" android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:background="0x7f020889" android:paddingLeft="0x7f0b005f" android:paddingTop="0x7f0b0061" android:paddingRight="0x7f0b005f" android:paddingBottom="0x7f0b0061" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="18sp" android:textColor="#ff707070" android:id="0x7f100102" android:layout_width="-1" android:layout_height="-2" android:fontFamily="sans-serif-light" />
+        <com.whatsapp.CircularProgressBar android:layout_gravity="11" android:id="0x7f1000a9" android:visibility="2" android:layout_width="225dp" android:layout_height="225dp" android:layout_marginBottom="0dp" android:indeterminateOnly="false" />
+        <Button android:textSize="20sp" android:textColor="0x106000b" android:id="0x7f100103" android:background="0x7f020093" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="12dp" android:text="0x7f080537" />
+        <TextView android:textSize="14sp" android:textColor="#99707070" android:id="0x7f100104" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="12dp" android:text="0x7f080535" android:fontFamily="sans-serif-light" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="0x7f100157" android:layout_width="0x7f0b00e1" android:layout_height="0x7f0b00e1" android:scaleType="3" />
+    <FrameLayout android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+        <com.whatsapp.TextEmojiLabel android:textSize="18sp" android:textColor="0x7f0e0016" android:ellipsize="3" android:layout_gravity="13" android:id="0x7f100159" android:paddingLeft="0x7f0b00e0" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+    </FrameLayout>
+    <ImageView android:id="0x7f100319" android:background="0x7f0208d7" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020080" />
+</LinearLayout>

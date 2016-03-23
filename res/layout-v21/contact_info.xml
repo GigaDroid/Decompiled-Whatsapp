@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.ChatInfoLayout app:id="0x7f10012e" app:layout_width="-1" app:layout_height="-1">
+    <ListView app:id="0x102000a" app:scrollbars="0" app:layout_width="-1" app:layout_height="-1" app:layout_marginLeft="0x7f0b005e" app:layout_marginRight="0x7f0b005e" app:listSelector="0x7f0208d7" app:drawSelectorOnTop="true" app:cacheColorHint="0x106000d" app:divider="@v/m" app:dividerHeight="0dp" app:choiceMode="0" app:headerDividersEnabled="false" app:footerDividersEnabled="false" app:transitionGroup="true" />
+    <FrameLayout app:gravity="10" app:id="0x7f100142" app:background="0x106000b" app:layout_width="-1" app:layout_height="-2" app:transitionGroup="true" app:elevation="2dp">
+        <ImageView app:id="0x7f1001aa" app:layout_width="-1" app:layout_height="-1" app:scaleType="6" app:contentDescription="0x7f0803df" />
+        <View app:layout_gravity="50" app:id="0x7f1001ab" app:layout_width="-2" app:layout_height="96dp" />
+        <View app:layout_gravity="30" app:id="0x7f1001ac" app:layout_width="-2" app:layout_height="48dp" />
+        <View app:id="0x7f1001ad" app:layout_width="-1" app:layout_height="-1" />
+        <com.whatsapp.BidiToolbar app:id="0x7f1001ae" app:background="0x106000d" app:layout_width="-1" app:layout_height="-2" app:minHeight="?unknown_attr_ref: 7f0100c6" app:popupTheme="@style/ThemeOverlay_AppCompat_Light" app:theme="@style/ThemeOverlay_AppCompat_Dark_ActionBar" />
+        <ProgressBar app:layout_gravity="11" app:id="0x7f1001a1" app:visibility="2" app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 1010288" />
+        <FrameLayout app:layout_gravity="50" app:id="0x7f1001af" app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="16dp" app:layout_marginRight="0dp" app:minHeight="@dimen/abc_action_bar_default_height_material">
+            <LinearLayout app:layout_gravity="10" app:orientation="1" app:paddingTop="2dp" app:paddingRight="16dp" app:paddingBottom="2dp" app:layout_width="-1" app:layout_height="-2">
+                <com.whatsapp.ScalingTextView app:textSize="30sp" app:textColor="0x106000b" app:ellipsize="3" app:gravity="3" app:layout_gravity="53" app:id="0x7f1001a4" app:layout_width="-1" app:layout_height="-2" app:maxLines="2" app:singleLine="false" app:shadowColor="#666666" app:shadowDx="1.0" app:shadowDy="1.0" app:shadowRadius="1.0" style="0x7f0c0122" />
+                <TextView app:textColor="0x106000b" app:ellipsize="3" app:gravity="3" app:layout_gravity="53" app:id="0x7f1001a5" app:paddingBottom="4dp" app:visibility="2" app:layout_width="-1" app:layout_height="-2" app:maxLines="2" app:singleLine="false" app:shadowColor="#666666" app:shadowDx="1.0" app:shadowDy="1.0" app:shadowRadius="1.0" style="0x7f0c0120" />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+</com.whatsapp.ChatInfoLayout>

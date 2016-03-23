@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f0804a2" android:key="settings_chat">
+    <com.whatsapp.preference.WaLanguageListPreference android:title="0x7f0804e6" android:key="settings_language" android:defaultValue="0" />
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f0804a3" android:key="chat_settings">
+        <com.whatsapp.preference.WaCheckBoxPreference android:title="0x7f0804e3" android:key="input_enter_send" android:defaultValue="true" android:summaryOn="0x7f0804e5" android:summaryOff="0x7f0804e4" />
+        <com.whatsapp.preference.WaFontListPreference android:entries="0x7f0f0009" android:title="0x7f0804af" android:key="interface_font_size" android:summary="0x7f0804b0" android:defaultValue="0" android:entryValues="0x7f0f000a" />
+        <com.whatsapp.preference.WaPreference android:title="0x7f08060e" android:key="settings_wallpaper" />
+        <com.whatsapp.preference.WaPreference android:title="0x7f080496" android:key="settings_backup" />
+        <com.whatsapp.preference.WaPreference android:title="0x7f0804a4" android:key="settings_chat_history" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+</PreferenceScreen>

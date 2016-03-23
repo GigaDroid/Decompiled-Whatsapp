@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f1003d1" android:layout_width="-1" android:layout_height="-2" android:foreground="0x7f020072">
+    <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f1003d2" android:background="0x7f02083f" android:layout_width="-1" android:layout_height="-2" android:minWidth="280dp">
+        <ImageView android:id="0x7f1001be" android:layout_width="0x7f0b00b4" android:layout_height="0x7f0b00b3" android:scaleType="6" />
+        <LinearLayout android:orientation="1" android:paddingLeft="8dp" android:paddingTop="2dp" android:paddingRight="4dp" android:paddingBottom="2dp" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <TextView android:textColor="0x106000c" android:ellipsize="3" android:gravity="3" android:layout_gravity="3" android:id="@id/title" android:layout_width="-2" android:layout_height="-2" android:maxLines="3" android:lineSpacingMultiplier="1.08" />
+            <TextView android:textColor="#aa000000" android:ellipsize="3" android:gravity="3" android:layout_gravity="3" android:id="0x7f1003d3" android:paddingBottom="1dp" android:layout_width="-2" android:layout_height="-2" android:maxLines="1" android:singleLine="true" android:includeFontPadding="false" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:layout_gravity="35" android:id="0x7f100169" android:visibility="2" android:layout_width="24dp" android:layout_height="24dp" android:src="0x7f02081d" />
+</FrameLayout>

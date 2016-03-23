@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:layout_width="-1" android:layout_height="-2">
+        <TextView android:gravity="50" android:id="0x7f100393" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:text="Series Name:" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <EditText android:id="0x7f100394" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="4dp" android:layout_marginTop="16dp" android:layout_marginRight="4dp" android:layout_marginBottom="4dp" android:ems="10" android:layout_toRightOf="0x7f100393" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:inputType="1" />
+    </RelativeLayout>
+    <CheckBox android:id="0x7f100395" android:layout_width="-2" android:layout_height="-2" android:text="Portrait?" />
+    <CheckBox android:id="0x7f100396" android:layout_width="-2" android:layout_height="-2" android:text="Visual SS Indicator?" />
+</LinearLayout>

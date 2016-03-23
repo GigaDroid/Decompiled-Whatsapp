@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:id="0x7f100237" android:background="?unknown_attr_ref: 7f0100e4" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0b0081">
+        <ImageView android:layout_gravity="11" android:id="0x7f100238" android:background="0x7f0200f2" android:layout_width="0x7f0b00a7" android:layout_height="0x7f0b00a7" android:layout_marginLeft="0x7f0b00ac" android:src="0x7f0207d0" android:scaleType="5" android:cropToPadding="false" />
+        <LinearLayout android:orientation="1" android:paddingLeft="20dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginRight="0x7f0b00ac" android:layout_marginBottom="10dp" android:layout_weight="1.0">
+            <TextView android:layout_gravity="50" android:id="0x7f100239" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0801f6" style="0x7f0c00d8" />
+            <ProgressBar android:layout_gravity="10" android:id="0x7f1000d9" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0" android:progressTint="0x7f0e006e" android:indeterminateTint="0x7f0e006e" android:indeterminateTintMode="9" style="?unknown_attr_ref: 1010078" />
+            <TextView android:layout_gravity="13" android:id="0x7f10023a" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0801f1" style="0x7f0c00d6" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

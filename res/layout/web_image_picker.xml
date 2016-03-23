@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:layout_width="-1" android:layout_height="-1">
+        <ListView android:id="0x102000a" android:persistentDrawingCache="2" android:alwaysDrawnWithCache="true" android:layout_width="-1" android:layout_height="-1" android:cacheColorHint="#00000000" />
+        <TextView android:textSize="20sp" android:textStyle="1" android:gravity="1" android:id="0x1020004" android:padding="8dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

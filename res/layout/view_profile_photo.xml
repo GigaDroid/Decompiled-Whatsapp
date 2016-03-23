@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <ImageView android:layout_gravity="11" android:id="0x7f1003af" android:visibility="2" android:layout_width="0dp" android:layout_height="0dp" android:scaleType="3" android:adjustViewBounds="true" />
+    <ImageView android:layout_gravity="11" android:id="0x7f1001aa" android:layout_width="-1" android:layout_height="-2" android:scaleType="3" android:adjustViewBounds="true" />
+    <ProgressBar android:layout_gravity="11" android:id="0x7f1000a9" android:visibility="2" android:layout_width="-2" android:layout_height="-2" />
+    <TextView android:layout_gravity="11" android:id="0x7f100256" android:visibility="2" android:layout_width="-2" android:layout_height="-2" />
+</FrameLayout>

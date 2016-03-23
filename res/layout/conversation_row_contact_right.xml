@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.whatsapp.DividerView whatsapp:id="0x7f100200" style="0x7f0c00c9" />
+    <RelativeLayout whatsapp:layout_width="0x7f0b007d" whatsapp:layout_height="-2" whatsapp:layout_below="0x7f100200" whatsapp:layout_alignParentRight="true">
+        <LinearLayout whatsapp:orientation="0" whatsapp:id="0x7f100212" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:layout_below="0x7f100201">
+            <com.whatsapp.ThumbnailButton whatsapp:gravity="13" whatsapp:layout_gravity="13" whatsapp:id="0x7f1001aa" whatsapp:layout_width="48dp" whatsapp:layout_height="48dp" whatsapp:layout_margin="8dp" whatsapp:scaleType="3" whatsapp:tbtnRadius="-1dp" whatsapp:tbtnForegroundOnly="false" />
+            <LinearLayout whatsapp:gravity="10" whatsapp:orientation="1" whatsapp:layout_width="0dp" whatsapp:layout_height="-1" whatsapp:layout_weight="1.0">
+                <com.whatsapp.TextEmojiLabel whatsapp:textColor="0x7f02076c" whatsapp:ellipsize="1" whatsapp:layout_gravity="13" whatsapp:id="0x7f100213" whatsapp:paddingRight="8dp" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:maxLines="2" style="0x7f0c00c5" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout whatsapp:orientation="0" whatsapp:id="0x7f100209" whatsapp:paddingTop="4dp" whatsapp:paddingRight="7dp" whatsapp:paddingBottom="4dp" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:layout_alignRight="0x7f100212" whatsapp:layout_alignBottom="0x7f100212">
+            <TextView whatsapp:layout_gravity="55" whatsapp:id="0x7f10020a" whatsapp:layout_width="-2" whatsapp:layout_height="-2" style="0x7f0c00c2" />
+            <ImageView whatsapp:layout_gravity="55" whatsapp:id="0x7f100158" whatsapp:paddingLeft="4dp" whatsapp:paddingBottom="3dp" whatsapp:layout_width="-2" whatsapp:layout_height="-2" />
+        </LinearLayout>
+        <View whatsapp:id="0x7f100214" whatsapp:background="0x7f0e004a" whatsapp:layout_width="-1" whatsapp:layout_height="1dp" whatsapp:layout_below="0x7f100209" />
+        <LinearLayout whatsapp:orientation="0" whatsapp:id="0x7f100215" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:layout_below="0x7f100214">
+            <com.whatsapp.TextEmojiLabel whatsapp:textColor="0x7f02076c" whatsapp:layout_gravity="11" whatsapp:id="0x7f100216" whatsapp:padding="8dp" whatsapp:layout_width="0dp" whatsapp:layout_height="-2" whatsapp:text="0x7f08047a" whatsapp:layout_weight="1.0" style="0x7f0c00c6" />
+            <View whatsapp:id="0x7f100217" whatsapp:background="0x7f0e004a" whatsapp:layout_width="1dp" whatsapp:layout_height="-1" />
+            <com.whatsapp.TextEmojiLabel whatsapp:textColor="0x7f02076c" whatsapp:layout_gravity="11" whatsapp:id="0x7f100218" whatsapp:padding="8dp" whatsapp:layout_width="0dp" whatsapp:layout_height="-2" whatsapp:text="0x7f080044" whatsapp:layout_weight="1.0" style="0x7f0c00c6" />
+        </LinearLayout>
+    </RelativeLayout>
+</merge>

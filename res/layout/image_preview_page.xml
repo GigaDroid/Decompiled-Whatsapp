@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.whatsapp.PhotoView android:id="0x7f100182" android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="8dp" />
+    <include layout="0x7f0300b0" />
+</FrameLayout>

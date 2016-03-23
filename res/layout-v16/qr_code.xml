@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <com.whatsapp.qrcode.QrCodeView android:layout_gravity="11" android:id="0x7f10017d" android:layout_width="-1" android:layout_height="-1" />
+    <TextView android:textSize="20dp" android:textColor="#80000000" android:gravity="11" android:id="0x7f10035a" android:background="0x7f0e0056" android:padding="16dp" android:layout_width="-1" android:layout_height="-2" android:fontFamily="sans-serif-light" />
+    <FrameLayout android:layout_width="-1" android:layout_height="-1" android:layout_below="0x7f10035a">
+        <View android:id="0x7f10035b" android:background="#80000000" android:layout_width="-1" android:layout_height="-1" />
+        <com.whatsapp.qrcode.QrCodeOverlay android:id="0x7f1002b7" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+        <FrameLayout android:padding="32dp" android:layout_width="-1" android:layout_height="-1">
+            <LinearLayout android:layout_gravity="11" android:orientation="1" android:id="0x7f10035c" android:background="0x7f020889" android:layout_width="-1" android:layout_height="-2">
+                <com.whatsapp.qrcode.QrEducationView android:layout_gravity="1" android:layout_width="-2" android:layout_height="0dp" android:layout_weight="1.0" />
+                <TextView android:textSize="20sp" android:textColor="0x7f02076c" android:gravity="5" android:id="0x7f10018c" android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="-4dp" android:text="0x7f08035d" android:fontFamily="sans-serif-medium" />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+</RelativeLayout>

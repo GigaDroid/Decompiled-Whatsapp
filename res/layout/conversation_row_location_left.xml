@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-2" android:layout_height="-2">
+    <com.whatsapp.DividerView android:id="0x7f100200" style="0x7f0c00c9" />
+    <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="40dp" android:layout_below="0x7f100200" android:layout_alignParentLeft="true"
+        <LinearLayout android:gravity="30" android:layout_gravity="13" android:orientation="0" android:layout_width="-2" android:layout_height="0x7f0b00bf"
+            <LinearLayout android:orientation="1" android:layout_width="0dp" android:layout_height="0x7f0b00bf" android:layout_weight="1.0"
+                <LinearLayout android:layout_gravity="3" android:id="0x7f100201" android:paddingLeft="8dp" android:paddingTop="3dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="-6dp">
+                    <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b0076" android:textColor="#000" android:id="0x7f100202" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" />
+                    <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b0076" android:textColor="#999999" android:id="0x7f100203" android:paddingLeft="12sp" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" />
+                </LinearLayout>
+                <Button android:id="0x7f100205" android:layout_width="-1" style="0x7f0c00c0" />
+                <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b0075" android:textColor="#000" android:ellipsize="3" android:gravity="10" android:id="0x7f100223" android:paddingLeft="8dp" android:paddingTop="4dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:maxLines="1" android:singleLine="true" />
+                <LinearLayout android:orientation="0" android:clipChildren="false" android:layout_width="-2" android:layout_height="0dp" android:layout_weight="1.0">
+                    <TextView android:textSize="0x7f0b0074" android:textColor="#99000000" android:ellipsize="3" android:id="0x7f100224" android:paddingLeft="8dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="0dp" android:layout_height="-2" android:maxLines="2" android:lines="2" android:layout_weight="1.0" />
+                </LinearLayout>
+                <View android:layout_width="0x7f0b006b" android:layout_height="0dp" />
+                <LinearLayout android:layout_gravity="5" android:orientation="0" android:id="0x7f100209" android:paddingRight="8dp" android:paddingBottom="3dp" android:layout_width="-2" android:layout_height="-2">
+                    <TextView android:id="0x7f10020a" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c2" />
+                </LinearLayout>
+            </LinearLayout>
+            <FrameLayout android:id="0x7f100225" android:padding="4dp" android:layout_width="0x7f0b00bf" android:layout_height="0x7f0b00bf" android:layout_centerVertical="true">
+                <ImageView android:id="0x7f1001be" android:layout_width="-1" android:layout_height="-1" android:scaleType="6" />
+                <Button android:id="0x7f100226" android:background="0x7f0208d7" android:layout_width="-1" android:layout_height="-1" />
+                <View android:background="0x7f020072" android:layout_width="-1" android:layout_height="-1" />
+                <ProgressBar android:layout_gravity="11" android:id="0x7f100227" android:visibility="2" android:layout_width="60dp" android:layout_height="60dp" />
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

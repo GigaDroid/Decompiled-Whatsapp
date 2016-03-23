@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:background="0x106000d" android:paddingLeft="24dp" android:paddingRight="12dp" android:layout_width="-1" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 7f0100f6"
+    <LinearLayout android:gravity="10" android:orientation="1" android:duplicateParentState="true" android:layout_width="-2" android:layout_height="-2" android:layout_weight="1.0">
+        <TextView android:textAppearance="?unknown_attr_ref: 7f0100fc" android:textColor="?unknown_attr_ref: 7f01010f" android:ellipsize="4" android:gravity="800013" android:id="0x1020014" android:duplicateParentState="true" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+        <TextView android:textAppearance="@style/TextAppearance_AppCompat_Body1" android:textColor="?unknown_attr_ref: 7f01010f" android:ellipsize="4" android:gravity="800013" android:id="0x1020015" android:duplicateParentState="true" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+    </LinearLayout>
+    <RadioButton android:gravity="30" android:id="@id/radio" android:paddingRight="12dp" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="35dp" android:layout_height="-2" />
+</LinearLayout>

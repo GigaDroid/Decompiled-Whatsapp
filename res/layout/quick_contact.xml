@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:id="0x7f10035d" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="1" android:layout_width="-1" android:layout_height="-1" class="com.whatsapp.util.FloatingChildLayout">
+    <FrameLayout android:layout_gravity="10" android:id="0x1020002" android:layout_width="-2" android:layout_height="-2">
+        <LinearLayout android:orientation="1" android:background="#ffffffff" android:layout_width="-2" android:layout_height="-2">
+            <FrameLayout android:layout_width="-2" android:layout_height="0dp" android:layout_weight="1.0">
+                <ImageView android:id="0x7f1001aa" android:layout_width="0x7f0b00cf" android:layout_height="0x7f0b00cf" android:src="0x7f02006d" android:scaleType="6" android:contentDescription="0x7f0803df" />
+                <com.whatsapp.TextEmojiLabel android:textSize="18dp" android:textColor="0x106000b" android:ellipsize="3" android:gravity="3" android:id="0x7f1001ca" android:background="#33000000" android:paddingLeft="8dp" android:paddingTop="4dp" android:paddingRight="8dp" android:paddingBottom="6dp" android:layout_width="0x7f0b00cf" android:layout_height="-2" android:singleLine="true" />
+            </FrameLayout>
+            <View android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="1dp" />
+            <TextView android:textColor="#707070" android:gravity="11" android:id="0x7f10035e" android:layout_width="-1" android:layout_height="48dp" android:text="0x7f080297" style="0x7f0c0086" />
+            <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f1001f0" android:layout_width="-1" android:layout_height="-2">
+                <ImageButton android:ellipsize="3" android:id="0x7f10035f" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f020791" android:layout_weight="0.5" android:contentDescription="0x7f0802d4" style="0x7f0c0086" />
+                <View android:id="0x7f100360" android:background="0x7f0e004a" android:layout_width="0dp" android:layout_height="24dp" />
+                <ImageButton android:ellipsize="3" android:id="0x7f100361" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f020784" android:layout_weight="0.5" android:contentDescription="0x7f08008f" style="0x7f0c0086" />
+                <View android:background="0x7f0e004a" android:layout_width="0dp" android:layout_height="24dp" />
+                <ImageButton android:ellipsize="3" android:id="0x7f100362" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f02078f" android:layout_weight="0.5" android:contentDescription="0x7f080289" style="0x7f0c0086" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+</view>

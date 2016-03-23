@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_focused="true" android:state_pressed="false" android:color="#4285f4" />
+    <item android:state_focused="true" android:state_pressed="true" android:color="#cc4a1a" />
+    <item android:state_focused="false" android:state_pressed="true" android:color="#cc4a1a" />
+    <item android:color="#4285f4" />
+</selector>

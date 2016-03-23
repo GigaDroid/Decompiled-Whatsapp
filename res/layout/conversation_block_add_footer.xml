@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:id="0x7f10012e" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:gravity="11" android:id="0x7f100142" android:paddingLeft="5dp" android:paddingTop="8dp" android:paddingRight="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f08047e" />
+        <Button android:textStyle="1" android:id="0x7f1001ea" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="6dp" android:layout_marginRight="5dp" android:text="0x7f08045a" android:layout_weight="1.0" />
+        <Button android:textStyle="1" android:id="0x7f1001eb" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="6dp" android:layout_marginRight="5dp" android:text="0x7f080077" android:layout_weight="1.0" />
+        <Button android:textStyle="1" android:id="0x7f1001ec" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="6dp" android:layout_marginRight="5dp" android:text="0x7f080042" android:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

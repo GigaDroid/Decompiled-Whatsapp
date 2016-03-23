@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f1003b3" android:paddingLeft="8dp" android:visibility="2" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f1001f0" android:layout_centerVertical="true">
+    <FrameLayout android:id="0x7f1003b4" android:paddingBottom="2dp" android:layout_width="48dp" android:layout_height="48dp">
+        <ImageView android:id="0x7f1003b5" android:layout_width="-1" android:layout_height="-1" android:src="0x7f0208b7" android:scaleType="5" />
+    </FrameLayout>
+    <TextView android:textSize="20dp" android:textColor="#61737b" android:gravity="13" android:id="0x7f1003b6" android:paddingBottom="4dp" android:layout_width="-2" android:layout_height="48dp" android:text="00:00" android:lines="1" android:singleLine="true" />
+    <FrameLayout android:clipChildren="true" android:layout_width="-2" android:layout_height="32dp" android:layout_weight="1.0"
+        <FrameLayout android:id="0x7f1003b7" android:paddingBottom="4dp" android:clipChildren="true" android:layout_width="-1" android:layout_height="32dp">
+            <TextView android:textSize="16dp" android:textColor="#61737b" android:ellipsize="0" android:gravity="11" android:layout_gravity="15" android:id="0x7f1003b8" android:paddingLeft="16dp" android:paddingRight="32dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080070" android:lines="1" android:scrollHorizontally="false" android:singleLine="true" android:drawableLeft="0x7f0208f5" android:drawablePadding="8dp" />
+        </FrameLayout>
+        <View android:id="0x7f1003b9" android:background="0x7f0208e0" android:paddingLeft="32dp" android:paddingRight="32dp" android:layout_width="96dp" android:layout_height="32dp" />
+        <View android:background="0x7f0208e1" android:layout_width="32dp" android:layout_height="32dp" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">%d ਸੰਪਰਕਾਂ ਲਈ ਸੇਵਾ ਖਰੀਦੀ ਗਈ।</item>
+        <item quantity="one">%d ਸੰਪਰਕ ਲਈ ਸੇਵਾ ਖਰੀਦੀ ਗਈ।</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%2$s ਲੲੀ %1$d ਸਾਲਾਂ ਦੀ ਸੇਵਾ ਖਰੀਦੀ</item>
+        <item quantity="one">%2$s ਲੲੀ %1$d ਸਾਲ ਦੀ ਸੇਵਾ ਖਰੀਦੀ</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s ਨੇ ਤੁਹਾਡੇ ਲਈ %2$d ਸਾਲਾਂ ਦੀ ਸੇਵਾ ਦਾ ਭੁਗਤਾਨ ਕਰ ਦਿੱਤਾ ਹੈ।</item>
+        <item quantity="one">%1$s ਨੇ ਤੁਹਾਡੇ ਲਈ %2$d ਸਾਲ ਦੀ ਸੇਵਾ ਦਾ ਭੁਗਤਾਨ ਕਰ ਦਿੱਤਾ ਹੈ।</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d ਪ੍ਰਾਪਤ ਕਰਤਾ</item>
+        <item quantity="one">%d ਪ੍ਰਾਪਤ ਕਰਤਾ</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, ਅਤੇ %2$d ਹੋਰ</item>
+        <item quantity="one">%1$s, ਅਤੇ %2$d ਹੋਰ</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">%d ਦੋਸਤਾਂ ਨੂੰ ਭੇਜੋ</item>
+        <item quantity="one">%d ਦੋਸਤ ਨੂੰ ਭੇਜੋ</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">“%1$s” ਨੂੰ ਦਸਤਾਵੇਜ਼ ਭੇਜੇ ਨਹੀਂ ਸਕੇ, ਕਿਉਂਕਿ %2$s ਅਤੇ %3$d ਹੋਰ WhatsApp ਦਾ ਵਰਜ਼ਨ ਰੱਖਦੇ ਹਨ, ਜੋ ਕਿ ਦਸਤਾਵੇਜ਼ਾਂ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।</item>
+        <item quantity="one">“%1$s” ਨੂੰ ਦਸਤਾਵੇਜ਼ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ, ਕਿਉਂਕਿ %2$s ਅਤੇ %3$d ਹੋਰ WhatsApp ਦਾ ਵਰਜ਼ਨ ਰੱਖਦੇ ਹਨ, ਜੋ ਕਿ ਦਸਤਾਵੇਜ਼ਾਂ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">%2$s ਨੂੰ %1$d ਦਸਤਾਵੇਜ਼ ਭੇਜਣੇ ਹਨ?</item>
+        <item quantity="one">%2$s ਨੂੰ %1$d ਦਸਤਾਵੇਜ਼ ਭੇਜਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">ਕੀ %2$s ਨਾਲ %1$d ਆਈਟਮਾਂ ਸਾਂਝੀਆਂ ਕਰਨੀਆਂ ਹਨ?</item>
+        <item quantity="one">ਕੀ %2$s ਨਾਲ %1$d ਆਈਟਮ ਸਾਂਝੀ ਕਰਨੀ ਹੈ?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d ਦਿਨ</item>
+        <item quantity="one">%d ਦਿਨ</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"%d ਦਿਨਾਂ
+ਦੀ ਸਰਵਿਸ
+ਦਾ ਆਨੰਦ ਮਾਣੋ"</item>
+        <item quantity="one">"%d ਦਿਨ
+ਦੀ ਸਰਵਿਸ
+ਦਾ ਆਨੰਦ ਮਾਣੋ"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d ਦਿਨਾਂ
+ਦੀ ਸਰਵਿਸ
+ਬਾਕੀ ਹੈ"</item>
+        <item quantity="one">"%d ਦਿਨ
+ਦੀ ਸਰਵਿਸ
+ਬਾਕੀ ਹੈ"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">%d ਸੁਨੇਹੇ ਹਟਾਉਣੇ ਹਨ?</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ ਹਟਾਉਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"“%1$s” ਨਾਲ ਗੱਲਬਾਤ ਹਟਾਉਣੀ ਹੈ?
+ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਗੱਲਬਾਤ ਵਿੱਚ %2$d ਨਾ ਭੇਜਿਆ ਸੁਨੇਹੇ ਹਨ।"</item>
+        <item quantity="one">"“%1$s” ਨਾਲ ਗੱਲਬਾਤ ਹਟਾਉਣੀ ਹੈ?
+ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਗੱਲਬਾਤ ਵਿੱਚ %2$d ਨਾ ਭੇਜਿਆ ਸੁਨੇਹਾ ਹੈ।"</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"“%1$s” ਗਰੁੱਪ ਛੱਡਣਾ ਹੈ?
+ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਗੱਲਬਾਤ ਵਿੱਚ %2$d ਨਾ-ਭੇਜੇ ਸੁਨੇਹੇ ਹਨ।"</item>
+        <item quantity="one">"“%1$s” ਗਰੁੱਪ ਛੱਡਣਾ ਹੈ?
+ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਗੱਲਬਾਤ ਵਿੱਚ %2$d ਨਾ-ਭੇਜਿਆ ਸੁਨੇਹਾ ਹੈ।"</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d ਸੁਨੇਹੇ ਮੁੜ-ਬਹਾਲ ਕੀਤੇ। ਤੁਹਾਡੇ ਮੀਡੀਆ ਨੂੰ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਮੁੜ-ਬਹਾਲ ਕੀਤਾ ਜਾਵੇਗਾ।</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ ਮੁੜ-ਬਹਾਲ ਕੀਤਾ। ਤੁਹਾਡੇ ਮੀਡੀਆ ਨੂੰ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਮੁੜ-ਬਹਾਲ ਕੀਤਾ ਜਾਵੇਗਾ।</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d ਸੁਨੇਹੇ ਮੁੜ-ਬਹਾਲ ਕੀਤੇ</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ ਮੁੜ-ਬਹਾਲ ਕੀਤਾ</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">“%2$s” ਨੂੰ %1$d ਦਸਤਾਵੇਜ਼ ਭੇਜਣੇ ਹਨ?</item>
+        <item quantity="one">“%2$s” ਨੂੰ %1$d ਦਸਤਾਵੇਜ਼ ਭੇਜਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">ਕੀ “%2$s” ਨਾਲ %1$d ਆਈਟਮਾਂ ਸਾਂਝੀਆਂ ਕਰਨੀਆਂ ਹਨ?</item>
+        <item quantity="one">ਕੀ “%2$s” ਨਾਲ %1$d ਆਈਟਮ ਸਾਂਝੀ ਕਰਨੀ ਹੈ?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s ਹੁਣ ਪ੍ਰਸ਼ਾਸ਼ਕ ਨਹੀਂ ਹੈ</item>
+        <item quantity="one">%s ਹੁਣ ਪ੍ਰਸ਼ਾਸਕ ਨਹੀਂ ਹੈ।</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s ਹੁਣ ਪ੍ਰਸ਼ਾਸ਼ਕ ਹਨ</item>
+        <item quantity="one">%s ਹੁਣ ਪ੍ਰਸ਼ਾਸ਼ਕ ਹੈ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d ਘੰਟੇ</item>
+        <item quantity="one">%d ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d ਘੰਟੇ ਪਹਿਲਾਂ</item>
+        <item quantity="one">%d ਘੰਟਾ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">%d ਮੀਟਰਾਂ ਤੱਕ ਠੀਕ</item>
+        <item quantity="one">%d ਮੀਟਰ ਤੱਕ ਠੀਕ</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d ਸੁਨੇਹੇ ਕਾਪੀ ਹੋਏ</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ ਕਾਪੀ ਹੋਇਆ</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d ਸੁਨੇਹੇ ਹਟਾਏ</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ ਹਟਾਇਆ।</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
+        <item quantity="one">%d ਮਿੰਟ ਪਹਿਲਾਂ</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d ਮਿਸਡ ਕਾਲਾਂ</item>
+        <item quantity="one">%d ਮਿਸਡ ਕਾਲ</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d ਮਹੀਨੇ</item>
+        <item quantity="one">%d ਮਹੀਨਾ</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d ਮਹੀਨਿਆਂ
+ਦੀ ਸਰਵਿਸ
+ਬਾਕੀ ਹੈ"</item>
+        <item quantity="one">"%d ਮਹੀਨੇ
+ਦੀ ਸਰਵਿਸ
+ਬਾਕੀ ਹੈ"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d ਸੰਪਰਕ</item>
+        <item quantity="one">%d ਸੰਪਰਕ</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d ਚੁਣੇ</item>
+        <item quantity="one">%d ਚੁਣਿਆ</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d ਚੁਣੇ</item>
+        <item quantity="one">%d ਚੁਣਿਆ</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s ਅਤੇ %2$d ਹੋਰ</item>
+        <item quantity="one">%1$s ਅਤੇ %2$d ਹੋਰ</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d ਬਾਈਟਾਂ</item>
+        <item quantity="one">%1$d ਬਾਈਟ</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d ਸੁਨੇਹੇ</item>
+        <item quantity="one">%1$d ਸੁਨੇਹਾ</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d ਕਾਲਾਂ</item>
+        <item quantity="one">%1$d ਕਾਲ</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d ਨਵੇਂ ਸੁਨੇਹੇ</item>
+        <item quantity="one">%d ਨਵਾਂ ਸੁਨੇਹਾ</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d ਸੁਨੇਹੇ</item>
+        <item quantity="one">%d ਸੁਨੇਹਾ</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%2$d ਗੱਲਾਂਬਾਤਾਂ ਤੋਂ %1$s</item>
+        <item quantity="one">%2$d ਗੱਲਬਾਤ ਤੋਂ %1$s</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d ਸਫ਼ੇ</item>
+        <item quantity="one">%d ਸਫ਼ਾ</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d ਸ਼ੀਟਾਂ</item>
+        <item quantity="one">%d ਸ਼ੀਟ</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d ਸਲਾਈਡਾਂ</item>
+        <item quantity="one">%d ਸਲਾਈਡ</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d ਬਾਕੀ</item>
+        <item quantity="one">%d ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d ਸੁਨੇਹੇ ਮੁੜ-ਬਹਾਲ ਕੀਤੇ। ਤੁਸੀਂ ਤਿਆਰ ਹੋ।</item>
+        <item quantity="one">%,d ਸੁਨੇਹਾ ਮੁੜ-ਬਹਾਲ ਕੀਤਾ। ਤੁਸੀਂ ਤਿਆਰ ਹੋ।</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">%2$s ਵਲੋਂ %1$d ਸੁਨੇਹੇ ਮੁੜ-ਭੇਜੋ</item>
+        <item quantity="one">%2$s ਵਲੋਂ %1$d ਸੁਨੇਹਾ ਮੁੜ-ਭੇਜੋ</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">ਕੱਲ੍ਹ ਤੋਂ %1$d ਸੁਨੇਹੇ ਮੁੜ-ਭੇਜੋ</item>
+        <item quantity="one">ਕੱਲ੍ਹ ਤੋਂ %1$d ਸੁਨੇਹਾ ਮੁੜ-ਭੇਜੋ</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d ਸਕਿੰਟ</item>
+        <item quantity="one">%d ਸਕਿੰਟ</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">%1$d ਆਡੀਓ %2$s ਨੂੰ ਭੇਜੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%1$d ਆਡੀਓ %2$s ਨੂੰ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">%d ਆਡੀਓ ਭੇਜੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ।</item>
+        <item quantity="one">%d ਆਡੀਓ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ।</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">%1$d ਫ਼ਾਈਲਾਂ %2$s ਨੂੰ ਭੇਜੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%1$d ਫ਼ਾਈਲਾਂ %2$s ਨੂੰ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">%d ਫ਼ਾਈਲਾਂ ਭੇਜੀ ਜਾਂਦੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਫ਼ਾਈਲ ਭੇਜੀ ਜਾਂਦੀ ਹੈ</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">%d ਵੀਡੀਓ ਭੇਜੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਵੀਡੀਓ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">ਤੁਹਾਡੀ WhatsApp ਦੀ ਸੇਵਾ %d ਦਿਨਾਂ ਵਿੱਚ ਖਤਮ ਹੋ ਜਾਵੇਗੀ। ਕੀ ਤੁਸੀਂ ਹੁਣ ਸੇਵਾ ਦੀ ਮਿਆਦ ਵਿੱਚ ਵਾਧਾ ਖਰੀਦਣਾ ਚਾਹੋਗੇ ?</item>
+        <item quantity="one">ਤੁਹਾਡੀ WhatsApp ਦੀ ਸੇਵਾ %d ਦਿਨ ਵਿੱਚ ਖਤਮ ਹੋ ਜਾਵੇਗੀ। ਕੀ ਤੁਸੀਂ ਹੁਣ ਸੇਵਾ ਦੀ ਮਿਆਦ ਵਿੱਚ ਵਾਧਾ ਖਰੀਦਣਾ ਚਾਹੋਗੇ ?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">WhatsApp ਦੇ ਇਸ ਵਰਜ਼ਨ ਨੂੰ %d ਦਿਨਾਂ ਵਿੱਚ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?</item>
+        <item quantity="one">WhatsApp ਦੇ ਇਸ ਵਰਜ਼ਨ ਨੂੰ %d ਦਿਨ ਵਿੱਚ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d ਨਾ-ਪੜ੍ਹੇ ਸੁਨੇਹੇ</item>
+        <item quantity="one">%d ਨਾ-ਪੜ੍ਹਿਆ ਸੁਨੇਹਾ</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d ਵਰ੍ਹੇ</item>
+        <item quantity="one">%d ਵਰ੍ਹਾ</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"%d ਸਾਲਾਂ
+ਦੀ ਸਰਵਿਸ
+ਦਾ ਆਨੰਦ ਮਾਣੋ"</item>
+        <item quantity="one">"%d ਸਾਲ
+ਦੀ ਸਰਵਿਸ
+ਦਾ ਆਨੰਦ ਮਾਣੋ"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d ਸਾਲਾਂ
+ਦੀ ਸਰਵਿਸ
+ਬਾਕੀ ਹੈ"</item>
+        <item quantity="one">"%d ਸਾਲ
+ਦੀ ਸਰਵਿਸ
+ਬਾਕੀ ਹੈ"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">ਤੁਸੀਂ %2$d ਪ੍ਰਾਪਤ ਕਰਤਾਵਾਂ ਦੀ ਪ੍ਰਸਾਰਨ ਸੂਚੀ %1$s ਤਿਆਰ ਕੀਤੀ</item>
+        <item quantity="one">ਤੁਸੀਂ %2$d ਪ੍ਰਾਪਤ ਕਰਤਾ ਦੀ ਪ੍ਰਸਾਰਨ ਸੂਚੀ %1$s ਤਿਆਰ ਕੀਤੀ</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">ਤੁਸੀਂ %d ਪ੍ਰਾਪਤ ਕਰਤਾਵਾਂ ਨਾਲ ਪ੍ਰਸਾਰਣ ਸੂਚੀ ਬਣਾਈ ਹੈ</item>
+        <item quantity="one">ਤੁਸੀਂ %d ਪ੍ਰਾਪਤ ਕਰਤਾ ਨਾਲ ਪ੍ਰਸਾਰਣ ਸੂਚੀ ਬਣਾਈ ਹੈ</item>
+    </plurals>
+</resources>

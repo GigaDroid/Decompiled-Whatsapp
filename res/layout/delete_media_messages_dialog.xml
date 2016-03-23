@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="3" android:orientation="1" android:paddingLeft="@dimen/abc_dialog_padding_material" android:paddingTop="@dimen/abc_dialog_padding_top_material" android:paddingRight="@dimen/abc_dialog_padding_material" android:layout_width="-1" android:layout_height="-1">
+    <TextView android:textSize="16sp" android:id="0x7f100256" android:paddingBottom="6dp" android:layout_width="-1" android:layout_height="-2" />
+    <com.whatsapp.util.RtlCheckBox android:textSize="14sp" android:id="0x7f100257" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080154" />
+</LinearLayout>

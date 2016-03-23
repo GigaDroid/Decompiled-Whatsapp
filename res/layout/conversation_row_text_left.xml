@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.whatsapp.DividerView android:id="0x7f100200" style="0x7f0c00c9" />
+    <LinearLayout android:gravity="13" android:orientation="1" android:id="0x7f10022a" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="40dp" android:minHeight="30dp" android:layout_below="0x7f100200" android:layout_alignParentLeft="true"
+        <LinearLayout android:layout_gravity="33" android:id="0x7f100201" android:paddingLeft="8dp" android:paddingTop="3dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b0076" android:textColor="#000" android:id="0x7f100202" android:paddingRight="4sp" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" />
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b0076" android:textColor="#999999" android:id="0x7f100203" android:paddingLeft="4sp" android:paddingRight="4sp" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" />
+        </LinearLayout>
+        <FrameLayout android:id="0x7f1001f2" android:paddingLeft="8dp" android:paddingTop="8dp" android:paddingRight="8dp" android:paddingBottom="4dp" android:layout_width="-2" android:layout_height="-2" />
+        <view android:layout_gravity="3" android:id="0x7f10022b" android:paddingBottom="2dp" android:layout_width="-2" android:layout_height="-2" class="com.whatsapp.TextAndDateLayout">
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f0b007e" android:textColor="#000" android:layout_gravity="3" android:id="0x7f10022c" android:paddingLeft="8dp" android:paddingTop="2dp" android:paddingRight="8dp" android:paddingBottom="3dp" android:layout_width="-2" android:layout_height="-2" />
+            <LinearLayout android:layout_gravity="55" android:orientation="0" android:id="0x7f100209" android:paddingLeft="6dp" android:paddingRight="6dp" android:layout_width="-2" android:layout_height="-2">
+                <TextView android:id="0x7f10020a" android:paddingBottom="1dp" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00c2" />
+            </LinearLayout>
+        </view>
+    </LinearLayout>
+</merge>

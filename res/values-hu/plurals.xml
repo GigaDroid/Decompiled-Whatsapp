@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Szolgáltatás megvásárolva %d kontaktnak.</item>
+        <item quantity="one">Szolgáltatás megvásárolva %d kontaktnak.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d évre kifizetted a szolgáltatást %2$s részére..</item>
+        <item quantity="one">%1$d évre kifizetted a szolgáltatást %2$s részére..</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Még több, mint %1$d év van hátra a szolgáltatásodból.</item>
+        <item quantity="one">Még több, mint %1$d év van hátra a szolgáltatásodból.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Még %1$d év van hátra a szolgáltatásodból.</item>
+        <item quantity="one">Még %1$d év van hátra a szolgáltatásodból.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s kifizetett neked %2$d év szolgáltatást.</item>
+        <item quantity="one">%1$s kifizetett neked %2$d év szolgáltatást.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Egy barátod kifizette neked %1$d évre a szolgáltatási díjat.</item>
+        <item quantity="one">Egy barátod kifizette neked %1$d évre a szolgáltatási díjat.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d címzett</item>
+        <item quantity="one">%d címzett</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s és még %2$d</item>
+        <item quantity="one">%1$s és még %2$d</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Körüzenet %d kontaktnak</item>
+        <item quantity="one">Körüzenet %d kontaktnak</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Nem sikerült a dokumentum elküldése “%1$s” számára, mivel “%2$s” és “%3$d” másik felhasználó a WhatsApp azon verziójával rendelkezik, amely nem támogatja a dokumentumok küldését.</item>
+        <item quantity="one">Nem sikerült a dokumentum elküldése “%1$s” számára, mivel “%2$s” és “%3$d” másik felhasználó a WhatsApp azon verziójával rendelkezik, amely nem támogatja a dokumentumok küldését.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">%1$d dokumentum küldése neki: %2$s?</item>
+        <item quantity="one">%1$d dokumentum küldése neki: %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Megosztasz %1$d elemet vele: %2$s?</item>
+        <item quantity="one">Megosztasz %1$d elemet vele: %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Leld örömödet a(z)
+%d day
+szolgáltatásban!"</item>
+        <item quantity="one">"Leld örömödet a(z)
+%d day
+szolgáltatásban!"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"A szolgáltatásból
+hátralévő napok száma:
+%d"</item>
+        <item quantity="one">"A szolgáltatásból
+hátralévő napok száma:
+%d"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">%d üzenet törlése?</item>
+        <item quantity="one">%d üzenet törlése?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Csevegés törlése vele: “%1$s”?
+%2$d elküldetlen üzenet van ebben a csevegésben."</item>
+        <item quantity="one">"Csevegés törlése vele: “%1$s”?
+%2$d elküldetlen üzenet van ebben a csevegésben."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Ez a kép túl kicsi. Kérjük, válassz egy másik képet, ami legalább %d pixel széles és magas.</item>
+        <item quantity="one">Ez a kép túl kicsi. Kérjük, válassz egy másik képet, ami legalább %d pixel széles és magas.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Kilépsz ebből a csoportból: “%1$s”?
+%2$d elküldetlen üzenet van ebben a csevegésben."</item>
+        <item quantity="one">"Kilépsz ebből a csoportból: “%1$s”?
+%2$d elküldetlen üzenet van ebben a csevegésben."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d üzenet visszaállítva. A média fájljaid visszaállítása a hátterben fog zajlani.</item>
+        <item quantity="one">%d üzenet visszaállítva. A média fájljaid visszaállítása a hátterben fog zajlani.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d üzenet visszaállítva</item>
+        <item quantity="one">%d üzenet visszaállítva</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">%1$d dokumentum küldése neki: “%2$s”?</item>
+        <item quantity="one">%1$d dokumentum küldése neki: “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Megosztasz %1$d elemet vele: “%2$s”?</item>
+        <item quantity="one">Megosztasz %1$d elemet vele: “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s már nem admin</item>
+        <item quantity="one">%s már nem admin</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s mostantól adminok</item>
+        <item quantity="one">%s mostantól admin</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">%d méter pontos</item>
+        <item quantity="one">%d méter pontos</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d üzenet másolva</item>
+        <item quantity="one">%d üzenet másolva</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d üzenet törölve</item>
+        <item quantity="one">%d üzenet törölve</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d nem fogadott hívás</item>
+        <item quantity="one">%d nem fogadott hívás</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d hónap</item>
+        <item quantity="one">%d hónap</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Leld örömödet a(z)
+%d month
+szolgáltatásban!"</item>
+        <item quantity="one">"Leld örömödet a(z)
+%d month
+szolgáltatásban!"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d hónap
+van hátra a
+szolgáltatásból."</item>
+        <item quantity="one">"%d hónap
+van hátra a
+szolgáltatásból."</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d névjegy</item>
+        <item quantity="one">%d névjegy</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Legalább %d kontaktot ki kell választani</item>
+        <item quantity="one">Legalább %d kontaktot ki kell választani</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d kiválasztva</item>
+        <item quantity="one">%d kiválasztva</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d kiválasztva</item>
+        <item quantity="one">%d kiválasztva</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s és még %2$d másik</item>
+        <item quantity="one">%1$s és még %2$d másik</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bájt</item>
+        <item quantity="one">%1$d bájt</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d üzenet</item>
+        <item quantity="one">%1$d üzenet</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d hívás</item>
+        <item quantity="one">%1$d hívás</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d új üzenet</item>
+        <item quantity="one">%d új üzenet</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d üzenet</item>
+        <item quantity="one">%d üzenet</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s üzenet %2$d csevegésben</item>
+        <item quantity="one">%1$s üzenet %2$d csevegésben</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d oldal</item>
+        <item quantity="one">%d oldal</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d dokumentum</item>
+        <item quantity="one">%d dokumentum</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d dia</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">Hátralévő: %d</item>
+        <item quantity="one">Hátralévő: %d</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d üzenet visszaállítva. Készen állsz a folytatásra.</item>
+        <item quantity="one">%,d üzenet visszaállítva. Készen állsz a folytatásra.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">%1$d üzenet újraküldése ennyiből: %2$s</item>
+        <item quantity="one">%1$d üzenet újraküldése ennyiből: %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">%1$d üzenet újraküldése tegnapról</item>
+        <item quantity="one">%1$d üzenet újraküldése tegnapról</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">%1$d audió fájl küldése neki: %2$s</item>
+        <item quantity="one">%1$d audió fájl küldése neki: %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">%d audió fájl küldése</item>
+        <item quantity="one">%d audió fájl küldése</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">%1$d audió fájl küldése neki: %2$s</item>
+        <item quantity="one">%1$d audió fájl küldése neki: %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">%d fájl küldése</item>
+        <item quantity="one">%d fájl küldése</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">%1$d videó küldése %2$s részére</item>
+        <item quantity="one">%1$d videó küldése %2$s részére</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">%d video elküldése</item>
+        <item quantity="one">%d video elküldése</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">WhatsApp szolgáltatása lejár %d napon belül. Meghosszabbítod most?</item>
+        <item quantity="one">WhatsApp szolgáltatása lejár %d napon belül. Meghosszabbítod most?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">A WhatsApp ezen verzióját %d belül frissítened kell. Frissítesz most a legújabb verzióra?</item>
+        <item quantity="one">A WhatsApp ezen verzióját %d belül frissítened kell. Frissítesz most a legújabb verzióra?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d olvasatlan üzenet</item>
+        <item quantity="one">%d olvasatlan üzenet</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d év</item>
+        <item quantity="one">%d év</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Leld örömödet a(z)
+%d year
+szolgáltatásban!"</item>
+        <item quantity="one">"Leld örömödet a(z)
+%d year
+szolgáltatásban!"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"még %d évig
+érvényes
+az előfizetés"</item>
+        <item quantity="one">"még %d évig
+érvényes
+az előfizetés"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Létrehoztad a(z) “%1$s” körlistát %2$d címzettel.</item>
+        <item quantity="one">Létrehoztad a(z) “%1$s” körlistát %2$d címzettel.</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Létrehoztál egy körlistát %d címzettel.</item>
+        <item quantity="one">Létrehoztál egy körlistát %d címzettel.</item>
+    </plurals>
+</resources>

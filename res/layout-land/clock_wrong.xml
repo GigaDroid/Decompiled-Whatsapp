@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <TextView android:text="0x7f080632" style="0x7f0c00d2" />
+    <ScrollView android:background="#ffeaeaea" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <RelativeLayout android:orientation="0" android:paddingLeft="24dp" android:paddingRight="24dp" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:id="0x7f10019f" android:paddingTop="24dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02081b" android:layout_alignParentLeft="true" />
+            <LinearLayout android:gravity="1" android:orientation="1" android:paddingLeft="20dp" android:paddingTop="18dp" android:layout_width="-1" android:layout_height="-2" android:layout_toRightOf="0x7f10019f">
+                <TextView android:textStyle="1" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0800c9" style="0x7f0c00e3" />
+                <TextView android:id="0x7f10019d" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-2" style="0x7f0c00e3" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <View style="0x7f0c00d1" />
+    <LinearLayout android:gravity="11" android:layout_gravity="11" android:background="0x7f0e0050" android:layout_width="-1" android:layout_height="-2">
+        <Button android:gravity="11" android:layout_gravity="11" android:id="0x7f10019e" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="280dp" android:layout_height="-2" android:layout_margin="10dp" android:text="0x7f08004d" style="0x7f0c0019" />
+    </LinearLayout>
+</LinearLayout>

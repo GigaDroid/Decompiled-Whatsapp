@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:id="0x7f10022a" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:gravity="1" android:orientation="1" android:paddingLeft="16dp" android:paddingTop="24dp" android:paddingRight="16dp" android:paddingBottom="12dp" android:layout_width="-1" android:layout_height="-2">
+                <ImageView android:background="0x7f0208eb" android:layout_width="128dp" android:layout_height="128dp" android:src="0x7f020814" android:scaleType="5" />
+                <TextView android:textSize="16sp" android:textColor="?unknown_attr_ref: 1010036" android:gravity="3" android:paddingTop="24dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080505" />
+                <FrameLayout android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:textSize="14sp" android:textColor="?unknown_attr_ref: 7f010104" android:layout_gravity="3" android:id="0x7f100378" android:background="0x7f0208d7" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080506" />
+                </FrameLayout>
+            </LinearLayout>
+            <View android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="1dp" />
+            <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f100379" android:background="0x7f0208d7" android:paddingLeft="16dp" android:paddingTop="10dp" android:paddingRight="16dp" android:paddingBottom="16dp" android:layout_width="-1" android:layout_height="-2"
+                <LinearLayout android:orientation="1" android:paddingRight="16dp" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                    <TextView android:textSize="16sp" android:textColor="?unknown_attr_ref: 1010036" android:gravity="3" android:paddingTop="8dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080508" />
+                    <TextView android:textSize="14sp" android:textColor="?unknown_attr_ref: 1010038" android:gravity="3" android:paddingTop="8dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080507" />
+                </LinearLayout>
+                <android.support.v7.widget.SwitchCompat android:id="0x7f10037a" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+            <View android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="1dp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

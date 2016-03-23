@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f0804a4" android:key="settings_chat_history">
+    <com.whatsapp.preference.WaPreference android:title="0x7f0804ad" android:key="email_chat_history" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080060" android:key="msgstore_archive_all_chats" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f0800c1" android:key="msgstore_clear_all_chats" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f080145" android:key="msgstore_delete_all_chats" />
+</PreferenceScreen>

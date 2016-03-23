@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">تم شراء الخدمة لـ %d جهة اتصال.</item>
+        <item quantity="zero">لم يتم شراء الخدمة لأحد (%d).</item>
+        <item quantity="one">تم شراء الخدمة لجهة اتصال %d.</item>
+        <item quantity="two">تم شراء الخدمة لجهتي اتصال %d.</item>
+        <item quantity="few">تم شراء الخدمة لـ %d جهات اتصال.</item>
+        <item quantity="many">تم شراء الخدمة لـ %d جهة اتصال.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">تم شراء %1$d من سنين الخدمة لـ %2$s.</item>
+        <item quantity="zero">تم شراء %1$d من سنين الخدمة لـ %2$s.</item>
+        <item quantity="one">تم شراء %1$d من سنين الخدمة لـ %2$s.</item>
+        <item quantity="two">تم شراء %1$d من سنين الخدمة لـ %2$s.</item>
+        <item quantity="few">تم شراء %1$d من سنين الخدمة لـ %2$s.</item>
+        <item quantity="many">تم شراء %1$d من سنين الخدمة لـ %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">لا يزال لديك أكثر من %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="zero">لا يزال لديك أكثر من %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="one">لا يزال لديك أكثر من %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="two">لا يزال لديك أكثر من %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="few">لا يزال لديك أكثر من %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="many">لا يزال لديك أكثر من %1$d من سنين الخدمة المتبقية.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">لا يزال لديك %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="zero">لا يزال لديك %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="one">لا يزال لديك %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="two">لا يزال لديك %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="few">لا يزال لديك %1$d من سنين الخدمة المتبقية.</item>
+        <item quantity="many">لا يزال لديك %1$d من سنين الخدمة المتبقية.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">اشترى لك %1$s %2$d من سنين الخدمة.</item>
+        <item quantity="zero">اشترى لك %1$s %2$d من سنين الخدمة.</item>
+        <item quantity="one">اشترى لك %1$s %2$d من سنين الخدمة.</item>
+        <item quantity="two">اشترى لك %1$s %2$d من سنين الخدمة.</item>
+        <item quantity="few">اشترى لك %1$s %2$d من سنين الخدمة.</item>
+        <item quantity="many">اشترى لك %1$s %2$d من سنين الخدمة.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">اشترى لك أحد أصدقائك %1$d من سنين الخدمة.</item>
+        <item quantity="zero">اشترى لك أحد أصدقائك %1$d من سنين الخدمة.</item>
+        <item quantity="one">اشترى لك أحد أصدقائك %1$d من سنين الخدمة.</item>
+        <item quantity="two">اشترى لك أحد أصدقائك %1$d من سنين الخدمة.</item>
+        <item quantity="few">اشترى لك أحد أصدقائك %1$d من سنين الخدمة.</item>
+        <item quantity="many">اشترى لك أحد أصدقائك %1$d من سنين الخدمة.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d مستلم</item>
+        <item quantity="zero">%d من المستلمين</item>
+        <item quantity="one">مستلم %d</item>
+        <item quantity="two">مستلمان %d</item>
+        <item quantity="few">%d مستلمين</item>
+        <item quantity="many">%d مستلماً</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s، و %2$d آخرِينَ.</item>
+        <item quantity="zero">%1$s، و %2$d آخرِينَ.</item>
+        <item quantity="one">%1$s، و %2$d آخرٌ.</item>
+        <item quantity="two">%1$s، و %2$d آخرَينِ</item>
+        <item quantity="few">%1$s، و %2$d آخرِينَ.</item>
+        <item quantity="many">%1$s، و %2$d آخرِينَ.</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">رسالة جماعية إلى %d من جهات الاتصال</item>
+        <item quantity="zero">رسالة جماعية إلى %d من جهات الاتصال</item>
+        <item quantity="one">رسالة جماعية إلى %d من جهات الاتصال</item>
+        <item quantity="two">رسالة جماعية إلى %d من جهات الاتصال</item>
+        <item quantity="few">رسالة جماعية إلى %d من جهات الاتصال</item>
+        <item quantity="many">رسالة جماعية إلى %d من جهات الاتصال</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">لا يمكن إرسال المستندات إلى \"%1$s\" لأن المشاركين التالية أسماؤهم %2$s بالإضافة إلى %3$d مشاركاً لا يستخدمون حالياً إصدار واتساب الذي يدعم إرسال المستندات.</item>
+        <item quantity="zero">لا يمكن إرسال المستندات إلى \"%1$s\" لأن المشاركين التالية أسماؤهم %2$s بالإضافة إلى %3$d من المشاركين لا يستخدمون حالياً إصدار واتساب الذي يدعم إرسال المستندات.</item>
+        <item quantity="one">لا يمكن إرسال المستندات إلى \"%1$s\" لأن المشاركين التالية أسماؤهم %2$s بالإضافة إلى مشارك %3$d إضافي لا يستخدمون حالياً إصدار واتساب الذي يدعم إرسال المستندات.</item>
+        <item quantity="two">لا يمكن إرسال المستندات إلى \"%1$s\" لأن المشاركين التالية أسماؤهم %2$s بالإضافة إلى مشاركين %3$d لا يستخدمون حالياً إصدار واتساب الذي يدعم إرسال المستندات.</item>
+        <item quantity="few">لا يمكن إرسال المستندات إلى \"%1$s\" لأن المشاركين التالية أسماؤهم %2$s بالإضافة إلى %3$d مشاركين لا يستخدمون حالياً إصدار واتساب الذي يدعم إرسال المستندات.</item>
+        <item quantity="many">لا يمكن إرسال المستندات إلى \"%1$s\" لأن المشاركين التالية أسماؤهم %2$s بالإضافة إلى %3$d مشاركاً لا يستخدمون حالياً إصدار واتساب الذي يدعم إرسال المستندات.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">إرسال %1$d مستند إلى %2$s؟</item>
+        <item quantity="zero">إرسال %1$d من المستندات إلى %2$s؟</item>
+        <item quantity="one">إرسال مستند %1$d إلى %2$s؟</item>
+        <item quantity="two">إرسال مستندين %1$d إلى %2$s؟</item>
+        <item quantity="few">إرسال %1$d مستندات إلى %2$s؟</item>
+        <item quantity="many">إرسال %1$d مستنداً إلى %2$s؟</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">مشاركة %1$d ملف مع %2$s؟</item>
+        <item quantity="zero">لم تشارك أي ملف %1$d مع %2$s؟</item>
+        <item quantity="one">مشاركة ملف %1$d مع %2$s؟</item>
+        <item quantity="two">مشاركة ملفان %1$d مع %2$s؟</item>
+        <item quantity="few">مشاركة %1$d ملفات مع %2$s؟</item>
+        <item quantity="many">مشاركة %1$d ملفاً مع %2$s؟</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d من الأيام</item>
+        <item quantity="one">يوم %d</item>
+        <item quantity="two">يومان %d</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوماً</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"
+استمتع بخدمة واتساب
+ ومدتها %d يوم"</item>
+        <item quantity="zero">"
+استمتع بخدمة واتساب
+ ومدتها %d أقل من يوم"</item>
+        <item quantity="one">"
+استمتع بخدمة واتساب
+ ومدتها يوم %d"</item>
+        <item quantity="two">"
+استمتع بخدمة واتساب
+ ومدتها يومان %d"</item>
+        <item quantity="few">"
+استمتع بخدمة واتساب
+ ومدتها %d أيام"</item>
+        <item quantity="many">"
+استمتع بخدمة واتساب
+ ومدتها %d يوماً"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"
+تبقى
+من خدمتك %d يوم"</item>
+        <item quantity="zero">"
+تبقى
+من خدمتك %d أقل من يوم"</item>
+        <item quantity="one">"
+تبقى
+من خدمتك يوم %d"</item>
+        <item quantity="two">"
+تبقى
+من خدمتك يومان %d"</item>
+        <item quantity="few">"
+تبقى
+من خدمتك %d أيام"</item>
+        <item quantity="many">"
+تبقى
+من خدمتك %d يوماً"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">حذف %d رسالة</item>
+        <item quantity="zero">حذف %d من الرسائل</item>
+        <item quantity="one">حذف رسالة %d</item>
+        <item quantity="two">حذف رسالتان %d</item>
+        <item quantity="few">حذف %d رسائل</item>
+        <item quantity="many">حذف %d رسالة</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"حذف الدردشة مع \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="zero">"حذف الدردشة مع \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="one">"حذف الدردشة مع \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="two">"حذف الدردشة مع \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="few">"حذف الدردشة مع \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="many">"حذف الدردشة مع \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">الصورة صغيرة جداً، الرجاء اختيار صورة لا تقل مقاساتها في الارتفاع والعرض عن %d بكسل.</item>
+        <item quantity="zero">الصورة صغيرة جداً، الرجاء اختيار صورة لا تقل مقاساتها في الارتفاع والعرض عن %d بكسل.</item>
+        <item quantity="one">الصورة صغيرة جداً، الرجاء اختيار صورة لا تقل مقاساتها في الارتفاع والعرض عن %d بكسل.</item>
+        <item quantity="two">الصورة صغيرة جداً، الرجاء اختيار صورة لا تقل مقاساتها في الارتفاع والعرض عن %d بكسل.</item>
+        <item quantity="few">الصورة صغيرة جداً، الرجاء اختيار صورة لا تقل مقاساتها في الارتفاع والعرض عن %d بكسل.</item>
+        <item quantity="many">الصورة صغيرة جداً، الرجاء اختيار صورة لا تقل مقاساتها في الارتفاع والعرض عن %d بكسل.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"الخروج من مجموعة \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="zero">"الخروج من مجموعة \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="one">"الخروج من مجموعة \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="two">"الخروج من مجموعة \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="few">"الخروج من مجموعة \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+        <item quantity="many">"الخروج من مجموعة \"%1$s\"؟
+لديك %2$d من الرسائل غير المرسلة في هذه الدردشة."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">تمت استعادة %d رسالة. سيتم استعادة الوسائط في الخلفية.</item>
+        <item quantity="zero">%d لم تتم استعادة أي من الرسائل. سيتم استعادة الوسائط في الخلفية.</item>
+        <item quantity="one">تمت استعادة رسالة %d. سيتم استعادة الوسائط في الخلفية.</item>
+        <item quantity="two">تمت استعادة رسالتين %d. سيتم استعادة الوسائط في الخلفية.</item>
+        <item quantity="few">تمت استعادة %d رسائل. سيتم استعادة الوسائط في الخلفية.</item>
+        <item quantity="many">تمت استعادة %d رسالة. سيتم استعادة الوسائط في الخلفية.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">تمت استعادة %d رسالة</item>
+        <item quantity="zero">%d لم تتم استعادة أي رسائل</item>
+        <item quantity="one">تمت استعادة رسالة %d</item>
+        <item quantity="two">تمت استعادة رسالتين %d</item>
+        <item quantity="few">تمت استعادة %d رسائل</item>
+        <item quantity="many">تمت استعادة %d رسالة</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">إرسال %1$d مستند إلى \"%2$s\"؟</item>
+        <item quantity="zero">إرسال %1$d من المستندات إلى \"%2$s\"؟</item>
+        <item quantity="one">إرسال مستند %1$d إلى \"%2$s\"؟</item>
+        <item quantity="two">إرسال مستندين %1$d إلى \"%2$s\"؟</item>
+        <item quantity="few">إرسال %1$d مستندات إلى \"%2$s\"؟</item>
+        <item quantity="many">إرسال %1$d مستنداً إلى \"%2$s\"؟</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">مشاركة %1$d ملف مع \"%2$s\"؟</item>
+        <item quantity="zero">لم تشارك أي ملف %1$d مع \"%2$s\"؟</item>
+        <item quantity="one">مشاركة ملف %1$d مع \"%2$s\"؟</item>
+        <item quantity="two">مشاركة ملفان %1$d مع \"%2$s\"؟</item>
+        <item quantity="few">مشاركة %1$d ملفات مع \"%2$s\"؟</item>
+        <item quantity="many">مشاركة %1$d ملفاً مع \"%2$s\"؟</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s لم يعودوا مشرفين</item>
+        <item quantity="zero">%s لم يعد مشرفاً</item>
+        <item quantity="one">%s لم يعد مشرفاً</item>
+        <item quantity="two">%s لم يعودا مشرفين</item>
+        <item quantity="few">%s لم يعودوا مشرفين</item>
+        <item quantity="many">%s لم يعودوا مشرفين</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s أصبحوا الآن مشرفين</item>
+        <item quantity="zero">%s أصبح الآن مشرفاً</item>
+        <item quantity="one">%s أصبح الآن مشرفاً</item>
+        <item quantity="two">%s أصبحا الآن مشرفين</item>
+        <item quantity="few">%s أصبحوا الآن مشرفين</item>
+        <item quantity="many">%s أصبحوا الآن مشرفين</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d من الساعات</item>
+        <item quantity="one">ساعة %d</item>
+        <item quantity="two">ساعتان %d</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">منذ %d ساعة</item>
+        <item quantity="zero">منذ %d من الساعات</item>
+        <item quantity="one">منذ ساعة %d</item>
+        <item quantity="two">منذ ساعتين %d</item>
+        <item quantity="few">منذ %d ساعات</item>
+        <item quantity="many">منذ %d ساعة</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">بدقة تصل إلى %d من الأمتار</item>
+        <item quantity="zero">بدقة تصل إلى %d من الأمتار</item>
+        <item quantity="one">بدقة تصل إلى %d من الأمتار</item>
+        <item quantity="two">بدقة تصل إلى %d من الأمتار</item>
+        <item quantity="few">بدقة تصل إلى %d من الأمتار</item>
+        <item quantity="many">بدقة تصل إلى %d من الأمتار</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">تم نسخ %d من الرسائل</item>
+        <item quantity="zero">تم نسخ %d من الرسائل</item>
+        <item quantity="one">تم نسخ %d من الرسائل</item>
+        <item quantity="two">تم نسخ %d من الرسائل</item>
+        <item quantity="few">تم نسخ %d من الرسائل</item>
+        <item quantity="many">تم نسخ %d من الرسائل</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">تم حذف %d من الرسائل</item>
+        <item quantity="zero">تم حذف %d من الرسائل</item>
+        <item quantity="one">تم حذف %d من الرسائل</item>
+        <item quantity="two">تم حذف %d من الرسائل</item>
+        <item quantity="few">تم حذف %d من الرسائل</item>
+        <item quantity="many">تم حذف %d من الرسائل</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقائق</item>
+        <item quantity="one">دقيقة %d</item>
+        <item quantity="two">دقيقتان %d</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d من الدقائق</item>
+        <item quantity="one">منذ دقيقة %d</item>
+        <item quantity="two">منذ دقيقتين %d</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d من المكالمات الفائتة</item>
+        <item quantity="zero">%d من المكالمات الفائتة</item>
+        <item quantity="one">%d من المكالمات الفائتة</item>
+        <item quantity="two">%d من المكالمات الفائتة</item>
+        <item quantity="few">%d من المكالمات الفائتة</item>
+        <item quantity="many">%d من المكالمات الفائتة</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d شهر</item>
+        <item quantity="zero">%d من الأشهر</item>
+        <item quantity="one">شهر %d</item>
+        <item quantity="two">شهران %d</item>
+        <item quantity="few">%d أشهر</item>
+        <item quantity="many">%d شهراً</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"
+استمتع بخدمة واتساب
+ ومدتها %d شهر"</item>
+        <item quantity="zero">"
+استمتع بخدمة واتساب
+ ومدتها %d أقل من شهر"</item>
+        <item quantity="one">"
+استمتع بخدمة واتساب
+ ومدتها شهر %d"</item>
+        <item quantity="two">"
+استمتع بخدمة واتساب
+ ومدتها شهران %d"</item>
+        <item quantity="few">"
+استمتع بخدمة واتساب
+ ومدتها %d أشهر"</item>
+        <item quantity="many">"
+استمتع بخدمة واتساب
+ ومدتها %d شهراً"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"
+تبقى
+من خدمتك %d شهر"</item>
+        <item quantity="zero">"
+تبقى
+من خدمتك %d أقل من شهر"</item>
+        <item quantity="one">"
+تبقى
+من خدمتك شهر %d"</item>
+        <item quantity="two">"
+تبقى
+من خدمتك شهران %d"</item>
+        <item quantity="few">"
+تبقى
+من خدمتك %d أشهر"</item>
+        <item quantity="many">"
+تبقى
+من خدمتك %d شهراً"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d من جهات الاتصال</item>
+        <item quantity="zero">%d من جهات الاتصال</item>
+        <item quantity="one">%d من جهات الاتصال</item>
+        <item quantity="two">%d من جهات الاتصال</item>
+        <item quantity="few">%d من جهات الاتصال</item>
+        <item quantity="many">%d من جهات الاتصال</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">يجب تحديد %d من جهات الاتصال على الأقل</item>
+        <item quantity="zero">يجب تحديد %d من جهات الاتصال على الأقل</item>
+        <item quantity="one">يجب تحديد %d من جهات الاتصال على الأقل</item>
+        <item quantity="two">يجب تحديد %d من جهات الاتصال على الأقل</item>
+        <item quantity="few">يجب تحديد %d من جهات الاتصال على الأقل</item>
+        <item quantity="many">يجب تحديد %d من جهات الاتصال على الأقل</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d من العناصر المحددة</item>
+        <item quantity="zero">%d من العناصر المحددة</item>
+        <item quantity="one">%d من العناصر المحددة</item>
+        <item quantity="two">%d من العناصر المحددة</item>
+        <item quantity="few">%d من العناصر المحددة</item>
+        <item quantity="many">%d من العناصر المحددة</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">تم تحديد %d</item>
+        <item quantity="zero">تم تحديد %d</item>
+        <item quantity="one">تم تحديد %d</item>
+        <item quantity="two">تم تحديد %d</item>
+        <item quantity="few">تم تحديد %d</item>
+        <item quantity="many">تم تحديد %d</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s و %2$d آخرون</item>
+        <item quantity="zero">%1$s و %2$d آخر</item>
+        <item quantity="one">%1$s و %2$d آخر</item>
+        <item quantity="two">%1$s و %2$d آخران</item>
+        <item quantity="few">%1$s و %2$d آخرون</item>
+        <item quantity="many">%1$s و %2$d آخرون</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d بايت</item>
+        <item quantity="zero">%1$d بايت</item>
+        <item quantity="one">بايت %1$d</item>
+        <item quantity="two">%1$d بايت</item>
+        <item quantity="few">%1$d بايت</item>
+        <item quantity="many">%1$d بايت</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d رسالة</item>
+        <item quantity="zero">%1$d لا توجد رسائل</item>
+        <item quantity="one">رسالة %1$d</item>
+        <item quantity="two">رسالتان %1$d</item>
+        <item quantity="few">%1$d رسائل</item>
+        <item quantity="many">%1$d رسالة</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d من المكالمات</item>
+        <item quantity="zero">%1$d من المكالمات</item>
+        <item quantity="one">%1$d من المكالمات</item>
+        <item quantity="two">%1$d من المكالمات</item>
+        <item quantity="few">%1$d من المكالمات</item>
+        <item quantity="many">%1$d من المكالمات</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d رسالة جديدة</item>
+        <item quantity="zero">%d من الرسائل الجديدة</item>
+        <item quantity="one">رسالة جديدة %d</item>
+        <item quantity="two">رسالتان %d جديدتان</item>
+        <item quantity="few">%d رسائل جديدة</item>
+        <item quantity="many">%d رسالة جديدة</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d رسالة</item>
+        <item quantity="zero">%d لا توجد رسائل</item>
+        <item quantity="one">رسالة %d</item>
+        <item quantity="two">رسالتان %d</item>
+        <item quantity="few">%d رسائل</item>
+        <item quantity="many">%d رسالة</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s من %2$d دردشة</item>
+        <item quantity="zero">%1$s من %2$d من الدردشات</item>
+        <item quantity="one">%1$s من دردشة %2$d</item>
+        <item quantity="two">%1$s من دردشتين %2$d</item>
+        <item quantity="few">%1$s من %2$d دردشات</item>
+        <item quantity="many">%1$s من %2$d دردشة</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d صفحة</item>
+        <item quantity="zero">%d من الصفحات</item>
+        <item quantity="one">صفحة %d</item>
+        <item quantity="two">صفحتان %d</item>
+        <item quantity="few">%d صفحات</item>
+        <item quantity="many">%d صفحة</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d ورقة</item>
+        <item quantity="zero">%d من الأوراق</item>
+        <item quantity="one">ورقة %d</item>
+        <item quantity="two">ورقتان %d</item>
+        <item quantity="few">%d أوراق</item>
+        <item quantity="many">%d ورقة</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d شريحة</item>
+        <item quantity="zero">%d من الشرائح</item>
+        <item quantity="one">شريحة %d</item>
+        <item quantity="two">شريحتان %d</item>
+        <item quantity="few">%d شرائح</item>
+        <item quantity="many">%d شريحة</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">مُتَبقي %d</item>
+        <item quantity="zero">مُتَبقي %d</item>
+        <item quantity="one">مُتَبقي %d</item>
+        <item quantity="two">مُتَبقي %d</item>
+        <item quantity="few">مُتَبقي %d</item>
+        <item quantity="many">مُتَبقي %d</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">تمت استعادة %,d من الرسائل. يمكنك استعمال التطبيق الآن.</item>
+        <item quantity="zero">تمت استعادة %,d من الرسائل. يمكنك استعمال التطبيق الآن.</item>
+        <item quantity="one">تمت استعادة %,d من الرسائل. يمكنك استعمال التطبيق الآن.</item>
+        <item quantity="two">تمت استعادة %,d من الرسائل. يمكنك استعمال التطبيق الآن.</item>
+        <item quantity="few">تمت استعادة %,d من الرسائل. يمكنك استعمال التطبيق الآن.</item>
+        <item quantity="many">تمت استعادة %,d من الرسائل. يمكنك استعمال التطبيق الآن.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">إعادة إرسال %1$d من الرسائل من %2$s</item>
+        <item quantity="zero">إعادة إرسال %1$d من الرسائل من %2$s</item>
+        <item quantity="one">إعادة إرسال %1$d من الرسائل من %2$s</item>
+        <item quantity="two">إعادة إرسال %1$d من الرسائل من %2$s</item>
+        <item quantity="few">إعادة إرسال %1$d من الرسائل من %2$s</item>
+        <item quantity="many">إعادة إرسال %1$d من الرسائل من %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">إعادة إرسال %1$d من رسائل الأمس</item>
+        <item quantity="zero">إعادة إرسال %1$d من رسائل الأمس</item>
+        <item quantity="one">إعادة إرسال %1$d من رسائل الأمس</item>
+        <item quantity="two">إعادة إرسال %1$d من رسائل الأمس</item>
+        <item quantity="few">إعادة إرسال %1$d من رسائل الأمس</item>
+        <item quantity="many">إعادة إرسال %1$d من رسائل الأمس</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d من الثواني</item>
+        <item quantity="one">ثانية %d</item>
+        <item quantity="two">ثانيتان %d</item>
+        <item quantity="few">%d ثوانٍ</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">جاري إرسال %1$d مقطع صوتي إلى %2$s</item>
+        <item quantity="zero">جاري إرسال %1$d من المقاطع الصوتية إلى %2$s</item>
+        <item quantity="one">جاري إرسال مقطع صوتي %1$d إلى %2$s</item>
+        <item quantity="two">جاري إرسال مقطعين صوتيين %1$d إلى %2$s</item>
+        <item quantity="few">جاري إرسال %1$d مقاطع صوتية إلى %2$s</item>
+        <item quantity="many">جاري إرسال %1$d مقطعاً صوتياً إلى %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">جاري إرسال %d مقطع صوتي</item>
+        <item quantity="zero">جاري إرسال %d من المقاطع الصوتية</item>
+        <item quantity="one">جاري إرسال مقطع صوتي %d</item>
+        <item quantity="two">جاري إرسال مقطعيين صوتيين %d</item>
+        <item quantity="few">جاري إرسال %d مقاطع صوتية</item>
+        <item quantity="many">جاري إرسال %d مقطعاً صوتياً</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">جاري إرسال %1$d ملف إلى %2$s</item>
+        <item quantity="zero">جاري إرسال %1$d من الملفات إلى %2$s</item>
+        <item quantity="one">جاري إرسال ملف %1$d إلى %2$s</item>
+        <item quantity="two">جاري إرسال ملفين %1$d إلى %2$s</item>
+        <item quantity="few">جاري إرسال %1$d ملفات إلى %2$s</item>
+        <item quantity="many">جاري إرسال %1$d ملفاً إلى %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">جاري إرسال %d ملف</item>
+        <item quantity="zero">جاري إرسال %d من الملفات</item>
+        <item quantity="one">جاري إرسال ملف %d</item>
+        <item quantity="two">جاري إرسال ملفين %d</item>
+        <item quantity="few">جاري إرسال %d ملفات</item>
+        <item quantity="many">جاري إرسال %d ملفاً</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">يتم إرسال %1$d فيديو إلى %2$s</item>
+        <item quantity="zero">يتم إرسال %1$d فيديو إلى %2$s</item>
+        <item quantity="one">يتم إرسال فيديو %1$d إلى %2$s</item>
+        <item quantity="two">يتم إرسال فيديوهين %1$d إلى %2$s</item>
+        <item quantity="few">يتم إرسال %1$d فيديوهات إلى %2$s</item>
+        <item quantity="many">يتم إرسال %1$d فيديو إلى %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">جاري إرسال %d مقطع فيديو</item>
+        <item quantity="zero">جاري إرسال %d من مقاطع الفيديو</item>
+        <item quantity="one">جاري إرسال مقطع فيديو %d</item>
+        <item quantity="two">جاري إرسال مقطعي فيديو %d</item>
+        <item quantity="few">جاري إرسال %d مقاطع فيديو</item>
+        <item quantity="many">جاري إرسال %d مقطع فيديو</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">سوف تنتهي خدمة واتساب ضمن %d يوم. هل تود الدفع لتجديد الخدمة؟</item>
+        <item quantity="zero">سوف تنتهي خدمة واتساب في أقل من يوم %d. هل تود الدفع لتجديد الخدمة؟</item>
+        <item quantity="one">سوف تنتهي خدمة واتساب ضمن يوم %d. هل تود الدفع لتجديد الخدمة؟</item>
+        <item quantity="two">سوف تنتهي خدمة واتساب ضمن يومين %d. هل تود الدفع لتجديد الخدمة؟</item>
+        <item quantity="few">سوف تنتهي خدمة واتساب ضمن %d أيام. هل تود الدفع لتجديد الخدمة؟</item>
+        <item quantity="many">سوف تنتهي خدمة واتساب ضمن %d يوماً . هل تود الدفع لتجديد الخدمة؟</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">سيتوجب عليك تحديث هذا الإصدار من واتساب بعد %d يوم. هل تريد التحديث إلى الإصدار الأخير؟</item>
+        <item quantity="zero">سيتوجب عليك تحديث هذا الإصدار من واتساب بعد %d من الأيام. هل تريد التحديث إلى الإصدار الأخير؟</item>
+        <item quantity="one">سيتوجب عليك تحديث هذا الإصدار من واتساب بعد يوم %d. هل تريد التحديث إلى الإصدار الأخير؟</item>
+        <item quantity="two">سيتوجب عليك تحديث هذا الإصدار من واتساب بعد يومين %d. هل تريد التحديث إلى الإصدار الأخير؟</item>
+        <item quantity="few">سيتوجب عليك تحديث هذا الإصدار من واتساب بعد %d أيام. هل تريد التحديث إلى الإصدار الأخير؟</item>
+        <item quantity="many">سيتوجب عليك تحديث هذا الإصدار من واتساب بعد %d يوماً. هل تريد التحديث إلى الإصدار الأخير؟</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d من الرسائل غير المقروءة</item>
+        <item quantity="zero">%d من الرسائل غير المقروءة</item>
+        <item quantity="one">%d من الرسائل غير المقروءة</item>
+        <item quantity="two">%d من الرسائل غير المقروءة</item>
+        <item quantity="few">%d من الرسائل غير المقروءة</item>
+        <item quantity="many">%d من الرسائل غير المقروءة</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d سنة</item>
+        <item quantity="zero">%d من السنين</item>
+        <item quantity="one">سنة %d</item>
+        <item quantity="two">سنتان %d</item>
+        <item quantity="few">%d سنوات</item>
+        <item quantity="many">%d سنة</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"
+استمتع بخدمة واتساب
+ ومدتها %d سنة"</item>
+        <item quantity="zero">"
+استمتع بخدمة واتساب
+ ومدتها %d أقل من سنة"</item>
+        <item quantity="one">"
+استمتع بخدمة واتساب
+ ومدتها سنة %d"</item>
+        <item quantity="two">"
+استمتع بخدمة واتساب
+ ومدتها سنتان %d"</item>
+        <item quantity="few">"
+استمتع بخدمة واتساب
+ ومدتها %d سنوات"</item>
+        <item quantity="many">"
+استمتع بخدمة واتساب
+ ومدتها %d سنة"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"
+تبقى
+من خدمتك %d سنة"</item>
+        <item quantity="zero">"
+تبقى
+من خدمتك %d أقل من سنة"</item>
+        <item quantity="one">"
+تبقى
+من خدمتك سنة %d"</item>
+        <item quantity="two">"
+تبقى
+من خدمتك سنتان %d"</item>
+        <item quantity="few">"
+تبقى
+من خدمتك %d سنوات"</item>
+        <item quantity="many">"
+تبقى
+من خدمتك %d سنة"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">أنت أنشأت قائمة رسائل جماعية \"%1$s\" فيها %2$d مستلم</item>
+        <item quantity="zero">أنت أنشأت قائمة رسائل جماعية \"%1$s\" من دون مستلمين %2$d</item>
+        <item quantity="one">أنت أنشأت قائمة رسائل جماعية \"%1$s\" فيها مستلم %2$d</item>
+        <item quantity="two">أنت أنشأت قائمة رسائل جماعية \"%1$s\" فيها مستلمين %2$d</item>
+        <item quantity="few">أنت أنشأت قائمة رسائل جماعية \"%1$s\" فيها %2$d مستلمين</item>
+        <item quantity="many">أنت أنشأت قائمة رسائل جماعية \"%1$s\" فيها %2$d مستلماً</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">أنت أنشأت قائمة رسائل جماعية فيها %d مستلم</item>
+        <item quantity="zero">أنت أنشأت قائمة رسائل جماعية من دون مستلمين %d</item>
+        <item quantity="one">أنت أنشأت قائمة رسائل جماعية فيها مستلم %d</item>
+        <item quantity="two">أنت أنشأت قائمة رسائل جماعية فيها مستلمين %d</item>
+        <item quantity="few">أنت أنشأت قائمة رسائل جماعية فيها %d مستلمين</item>
+        <item quantity="many">أنت أنشأت قائمة رسائل جماعية فيها %d مستلماً</item>
+    </plurals>
+</resources>

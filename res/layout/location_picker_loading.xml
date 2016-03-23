@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2">
+    <ProgressBar android:layout_gravity="11" android:id="0x7f1002e1" android:layout_width="0x7f0b00b8" android:layout_height="0x7f0b00b8" android:layout_margin="0x7f0b00b7" />
+</FrameLayout>

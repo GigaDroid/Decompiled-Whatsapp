@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="0x7f1000aa" android:clipChildren="false" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f0100c6">
+    <LinearLayout android:enabled="false" android:orientation="0" android:id="0x7f1001e1" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@string/abc_action_bar_up_description" style="0x7f0c0086">
+        <ImageView android:layout_gravity="13" android:id="@id/up" android:layout_width="-2" android:layout_height="-2" android:src="?unknown_attr_ref: 7f0100e0" android:scaleType="5" />
+        <FrameLayout android:layout_gravity="13" android:id="0x7f1001e2" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0dp">
+            <ImageView android:id="0x7f1001e3" android:layout_width="35dp" android:layout_height="35dp" android:scaleType="3" />
+            <View android:id="0x7f1001e4" android:layout_width="35dp" android:layout_height="35dp" />
+            <ViewStub android:layout_gravity="11" android:id="0x7f1001e5" android:layout="0x7f030049" android:layout_width="35dp" android:layout_height="35dp" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f1001e6" android:paddingLeft="4dp" android:paddingTop="0dp" android:paddingRight="0dp" android:paddingBottom="2dp" android:clickable="true" android:clipChildren="false" android:layout_width="-1" android:layout_height="-2" android:layout_toRightOf="0x7f1001e1" android:layout_centerVertical="true" android:animateLayoutChanges="true" style="0x7f0c0086">
+        <com.whatsapp.TextEmojiLabel android:ellipsize="3" android:gravity="3" android:layout_gravity="3" android:id="0x7f1001a4" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:scrollHorizontally="true" android:singleLine="true" style="0x7f0c0122" />
+        <LinearLayout android:layout_gravity="3" android:orientation="0" android:id="0x7f1001e7" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:animateLayoutChanges="false">
+            <TextView android:layout_gravity="3" android:id="0x7f1001e8" android:paddingRight="3.5sp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:text="0x7f08010c" android:lines="1" android:singleLine="true" style="0x7f0c0120" />
+            <TextView android:ellipsize="3" android:layout_gravity="3" android:id="0x7f1001a5" android:layout_width="-2" android:layout_height="-2" android:lines="1" android:singleLine="true" style="0x7f0c0120" />
+            <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

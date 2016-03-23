@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.ConversationContentLayout android:id="0x7f1001d6" android:layout_width="-1" android:layout_height="-1">
+    <View android:id="0x7f1001d7" android:layout_width="0dp" android:layout_height="0dp" android:layout_alignParentRight="true" />
+    <com.whatsapp.wallpaper.WallPaperView android:id="0x7f1001d8" android:background="@v/m" android:layout_width="-1" android:layout_height="-1" android:scaleType="6" />
+    <com.whatsapp.ConversationListView android:id="0x102000a" android:background="@v/m" android:layout_width="-1" android:layout_height="-1" android:listSelector="#00000000" android:transcriptMode="0" android:cacheColorHint="#00000000" android:layout_above="0x7f1001d9" android:fastScrollEnabled="false" style="0x7f0c00d5" />
+    <com.whatsapp.DividerView android:id="0x7f1001da" android:visibility="2" android:layout_centerHorizontal="true" style="0x7f0c00c9" />
+    <FrameLayout android:id="0x7f1001db" android:background="#00000000" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+    <include layout="0x7f03004c" />
+    <ImageButton android:id="0x7f1001dc" android:background="#00000000" android:visibility="2" android:layout_width="0x7f0b00a7" android:layout_height="0x7f0b00a7" android:src="0x7f0200c4" android:layout_alignTop="0x102000a" android:layout_alignParentRight="true" />
+    <ImageButton android:id="0x7f1001dd" android:background="#00000000" android:visibility="2" android:layout_width="0x7f0b00a7" android:layout_height="0x7f0b00a7" android:src="0x7f0200c3" android:layout_alignBottom="0x102000a" android:layout_alignParentRight="true" />
+    <View android:id="0x7f1001de" android:background="#f0000000" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+    <RelativeLayout android:id="0x7f1001df" android:background="0x7f0200c6" android:paddingLeft="16dp" android:paddingTop="8dp" android:paddingRight="16dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="17sp" android:textColor="0x106000b" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080587" android:layout_toLeftOf="0x7f1001e0" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="16sp" android:textColor="0x106000b" android:gravity="10" android:id="0x7f1001e0" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</com.whatsapp.ConversationContentLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2"
+    <LinearLayout android:gravity="10" android:orientation="1" android:paddingLeft="8dp" android:paddingTop="4dp" android:paddingRight="8dp" android:paddingBottom="4dp" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp">
+        <TextView android:textSize="18dp" android:textColor="?unknown_attr_ref: 1010036" android:ellipsize="3" android:id="0x7f1001b2" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080623" android:singleLine="true" />
+        <TextView android:textSize="14dp" android:textColor="?unknown_attr_ref: 1010038" android:ellipsize="3" android:id="0x7f100363" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" />
+    </LinearLayout>
+    <View android:background="#484848" android:layout_width="-1" android:layout_height="2dp" />
+    <LinearLayout android:gravity="11" android:orientation="0" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-1" android:layout_height="96dp">
+        <ImageButton android:id="0x7f100364" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02087c" style="0x7f0c0086" />
+        <TextView android:textSize="18sp" android:id="0x7f100365" android:padding="6dp" android:visibility="0" android:layout_width="-2" android:layout_height="-2" android:text="0:00" android:singleLine="true" />
+        <RelativeLayout android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <ProgressBar android:id="0x7f100366" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_centerInParent="true" style="?unknown_attr_ref: 1010078" />
+            <SeekBar android:id="0x7f100207" android:paddingLeft="16dp" android:paddingRight="16dp" android:focusable="true" android:visibility="1" android:layout_width="-1" android:layout_height="-2" android:maxHeight="13dp" android:indeterminateOnly="false" android:indeterminateDrawable="0x7f020062" android:progressDrawable="0x7f020062" android:minHeight="13dp" android:thumb="0x7f020064" android:thumbOffset="16dp" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <TextView android:textSize="18sp" android:id="0x7f100367" android:padding="6dp" android:layout_width="-2" android:layout_height="-2" android:text="0:00" android:singleLine="true" />
+    </LinearLayout>
+    <View android:background="#484848" android:layout_width="-1" android:layout_height="1dp" />
+    <LinearLayout android:gravity="1" android:padding="0dp" android:layout_width="-1" android:layout_height="-2">
+        <Button android:textColor="?unknown_attr_ref: 1010036" android:id="0x7f100368" android:layout_width="0dp" android:layout_height="48dp" android:text="0x7f0800a4" android:layout_weight="1.0" style="0x7f0c0086" />
+        <View android:id="0x7f100369" android:background="#484848" android:layout_width="1dp" android:layout_height="-1" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" />
+        <Button android:textColor="?unknown_attr_ref: 1010036" android:id="0x7f10036a" android:layout_width="0dp" android:layout_height="48dp" android:text="0x7f0800a4" android:layout_weight="1.0" style="0x7f0c0086" />
+    </LinearLayout>
+</LinearLayout>

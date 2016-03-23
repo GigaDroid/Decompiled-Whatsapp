@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.whatsapp.DividerView android:id="0x7f100200" style="0x7f0c00c9" />
+    <com.whatsapp.DividerView android:textSize="0x7f0b006e" android:textColor="#99000000" android:gravity="11" android:id="@id/info" android:background="0x7f0200f5" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="3dp" android:layout_marginRight="3dp" android:layout_below="0x7f100200" android:layout_centerInParent="true" />
+</merge>

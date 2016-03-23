@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.whatsapp.DividerView android:id="0x7f100200" style="0x7f0c00c9" />
+    <LinearLayout android:gravity="13" android:id="0x7f100211" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0b0077" android:layout_marginRight="40dp" android:minHeight="30dp" android:layout_below="0x7f100200" android:layout_alignParentLeft="true">
+        <ImageView android:layout_width="-2" android:layout_height="-2" android:src="0x7f02081c" />
+        <TextView android:layout_gravity="53" android:id="0x7f10020a" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="4dp" android:layout_marginRight="4dp" style="0x7f0c00c2" />
+    </LinearLayout>
+</merge>

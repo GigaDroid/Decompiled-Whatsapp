@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="11" android:orientation="1" android:background="0x7f0200f1" android:layout_width="-1" android:layout_height="-2">
+    <Button android:textSize="13sp" android:textStyle="1" android:textColor="#ccffffff" android:id="0x7f1001ff" android:background="?unknown_attr_ref: 101039c" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0802a7" android:textAllCaps="true" />
+</LinearLayout>

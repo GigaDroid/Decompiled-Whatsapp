@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_gravity="11" android:id="@id/activity_chooser_view_content" android:layout_width="-2" android:layout_height="-1" class="android.support.v7.widget.ActivityChooserView$InnerLayout" style="?unknown_attr_ref: 7f0100e9">
+    <FrameLayout android:layout_gravity="11" android:id="@id/expand_activities_button" android:background="?unknown_attr_ref: 7f0100c8" android:focusable="true" android:addStatesFromChildren="true" android:layout_width="-2" android:layout_height="-1">
+        <ImageView android:layout_gravity="11" android:id="@id/image" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginLeft="12dp" android:layout_marginTop="2dp" android:layout_marginRight="12dp" android:layout_marginBottom="2dp" android:scaleType="3" android:adjustViewBounds="true" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="11" android:id="@id/default_activity_button" android:background="?unknown_attr_ref: 7f0100c8" android:focusable="true" android:addStatesFromChildren="true" android:layout_width="-2" android:layout_height="-1">
+        <ImageView android:layout_gravity="11" android:id="@id/image" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginLeft="12dp" android:layout_marginTop="2dp" android:layout_marginRight="12dp" android:layout_marginBottom="2dp" android:scaleType="3" android:adjustViewBounds="true" />
+    </FrameLayout>
+</view>

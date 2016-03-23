@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <View android:id="0x7f1003df" android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="1dp" />
+    <Button android:textColor="0x106000c" android:ellipsize="3" android:id="0x7f1003dc" android:background="0x7f0e0022" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0801b3" style="0x7f0c0086" />
+    <View android:background="0x7f0e004a" android:layout_width="-1" android:layout_height="1dp" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <Button android:textColor="0x106000c" android:ellipsize="3" android:id="0x7f1003dd" android:background="0x7f0e0022" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f08035c" android:layout_weight="1.0" style="0x7f0c0086" />
+        <View android:background="0x7f0e004a" android:layout_width="1dp" android:layout_height="-1" />
+        <Button android:textColor="0x106000c" android:ellipsize="3" android:id="0x7f1003de" android:background="0x7f0e0022" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f08015f" android:layout_weight="1.0" style="0x7f0c0086" />
+    </LinearLayout>
+</LinearLayout>

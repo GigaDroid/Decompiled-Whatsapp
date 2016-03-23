@@ -1,0 +1,62 @@
+package org.whispersystems.curve25519;
+
+public class al {
+    public static void a(int[] iArr, int[] iArr2) {
+        int i = iArr2[0];
+        int i2 = iArr2[1];
+        int i3 = iArr2[2];
+        int i4 = iArr2[3];
+        int i5 = iArr2[4];
+        int i6 = iArr2[5];
+        int i7 = iArr2[6];
+        int i8 = iArr2[7];
+        long j = ((long) i2) * 121666;
+        long j2 = ((long) i4) * 121666;
+        long j3 = (long) i5;
+        long j4 = ((long) i6) * 121666;
+        long j5 = (long) i7;
+        long j6 = ((long) i8) * 121666;
+        long j7 = (long) iArr2[8];
+        long j8 = ((long) iArr2[9]) * 121666;
+        long j9 = (16777216 + j8) >> 25;
+        long j10 = (((long) i) * 121666) + (19 * j9);
+        j8 -= j9 << 25;
+        j9 = (16777216 + j) >> 25;
+        long j11 = (((long) i3) * 121666) + j9;
+        j -= j9 << 25;
+        j9 = (16777216 + j2) >> 25;
+        j3 = (r0 * 121666) + j9;
+        j2 -= j9 << 25;
+        j9 = (16777216 + j4) >> 25;
+        j5 = (r0 * 121666) + j9;
+        j4 -= j9 << 25;
+        j9 = (16777216 + j6) >> 25;
+        j7 = (r0 * 121666) + j9;
+        j6 -= j9 << 25;
+        j9 = (33554432 + j10) >> 26;
+        j += j9;
+        j10 -= j9 << 26;
+        j9 = (33554432 + j11) >> 26;
+        j2 += j9;
+        j11 -= j9 << 26;
+        j9 = (33554432 + j3) >> 26;
+        j4 += j9;
+        j3 -= j9 << 26;
+        j9 = (33554432 + j5) >> 26;
+        j6 += j9;
+        j5 -= j9 << 26;
+        j9 = (33554432 + j7) >> 26;
+        j8 += j9;
+        j7 -= j9 << 26;
+        iArr[0] = (int) j10;
+        iArr[1] = (int) j;
+        iArr[2] = (int) j11;
+        iArr[3] = (int) j2;
+        iArr[4] = (int) j3;
+        iArr[5] = (int) j4;
+        iArr[6] = (int) j5;
+        iArr[7] = (int) j6;
+        iArr[8] = (int) j7;
+        iArr[9] = (int) j8;
+    }
+}

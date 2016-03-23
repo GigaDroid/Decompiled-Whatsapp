@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+    <ScrollView android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textSize="16sp" android:id="0x7f1002c9" android:padding="6dp" android:layout_width="-1" android:layout_height="-1" />
+    </ScrollView>
+</LinearLayout>

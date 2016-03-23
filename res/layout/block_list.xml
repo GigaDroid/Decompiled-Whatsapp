@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="0x102000a" android:layout_width="-1" android:layout_height="-1" android:cacheColorHint="0x106000d" android:divider="0x7f0200f3" android:dividerHeight="0.5dp" android:choiceMode="0" />
+    <ScrollView android:id="0x7f100152" android:padding="16dp" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textSize="16sp" android:id="0x7f100153" android:layout_width="-1" android:layout_height="-2" style="0x7f0c00e0" />
+    </ScrollView>
+</LinearLayout>

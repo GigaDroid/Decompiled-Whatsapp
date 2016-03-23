@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="0x7f100397" style="0x7f0c0150">
+    <TextView android:id="0x7f100398" style="0x7f0c0154" />
+    <View android:id="0x7f100399" android:background="0x7f0208f1" android:layout_width="0dp" android:layout_height="-1" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" />
+    <Button android:id="0x7f10039a" style="0x7f0c0151" />
+</LinearLayout>

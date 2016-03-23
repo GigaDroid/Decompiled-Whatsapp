@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:id="@id/search_bar" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:layout_gravity="10" android:orientation="0" android:id="@id/search_edit_frame" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginTop="4dp" android:layout_marginRight="8dp" android:layout_marginBottom="4dp" android:layout_weight="1.0"
+        <LinearLayout android:layout_gravity="10" android:orientation="0" android:id="@id/search_plate" android:layout_width="-2" android:layout_height="-2" android:layout_weight="1.0">
+            <EditText android:textColor="0x106000b" android:ellipsize="3" android:layout_gravity="50" android:id="@id/search_src_text" android:background="@drawable/abc_textfield_search_material" android:paddingLeft="@dimen/abc_dropdownitem_text_padding_left" android:paddingRight="@dimen/abc_dropdownitem_text_padding_right" android:layout_width="0dp" android:layout_height="36dp" android:minWidth="@dimen/abc_search_view_text_min_width" android:hint="0x7f080468" android:singleLine="true" android:layout_weight="1.0" android:inputType="90001" android:imeOptions="3" android:contentDescription="@string/abc_searchview_description_query" />
+            <ImageView android:layout_gravity="10" android:id="@id/search_close_btn" android:paddingLeft="8dp" android:paddingRight="8dp" android:focusable="true" android:visibility="2" android:layout_width="-2" android:layout_height="-1" android:src="@drawable/abc_ic_clear_mtrl_alpha" android:contentDescription="@string/abc_searchview_description_clear" style="0x7f0c0086" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:id="@id/submit_area" android:layout_width="-2" android:layout_height="-1">
+            <ImageView android:layout_gravity="10" android:id="0x7f10022e" android:paddingLeft="16dp" android:paddingRight="16dp" android:focusable="true" android:layout_width="-2" android:layout_height="-1" android:src="0x7f0200c5" android:contentDescription="0x7f080466" style="0x7f0c0086" />
+            <ImageView android:layout_gravity="10" android:id="0x7f10022f" android:paddingLeft="16dp" android:paddingRight="16dp" android:focusable="true" android:layout_width="-2" android:layout_height="-1" android:src="0x7f0200be" android:contentDescription="0x7f080469" style="0x7f0c0086" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

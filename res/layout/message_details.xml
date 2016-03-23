@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="0x102000a" android:scrollbars="0" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x106000d" android:cacheColorHint="0x106000d" android:divider="@v/m" android:dividerHeight="0dp" android:choiceMode="0" android:headerDividersEnabled="false" android:footerDividersEnabled="false" />
+</FrameLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <ListView android:scrollbarStyle="3000000" android:id="0x102000a" android:clickable="false" android:layout_width="-1" android:layout_height="-1" android:listSelector="@v/m" android:cacheColorHint="#00000000" android:divider="@v/m" android:dividerHeight="0dp" android:fadeScrollbars="false" />
+    <TextView android:gravity="11" android:id="0x1020004" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:text="0x7f08034d" />
+</RelativeLayout>

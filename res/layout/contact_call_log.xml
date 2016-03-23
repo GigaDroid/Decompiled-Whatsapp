@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout whatsapp:layout_width="-1" whatsapp:layout_height="-1">
+    <ListView whatsapp:id="0x102000a" whatsapp:scrollbars="0" whatsapp:layout_width="-1" whatsapp:layout_height="-1" whatsapp:layout_marginLeft="0x7f0b005e" whatsapp:layout_marginRight="0x7f0b005e" whatsapp:listSelector="0x106000d" whatsapp:cacheColorHint="#00000000" whatsapp:divider="@v/m" whatsapp:dividerHeight="0dp" whatsapp:choiceMode="0" whatsapp:headerDividersEnabled="false" whatsapp:footerDividersEnabled="false" />
+    <RelativeLayout whatsapp:gravity="10" whatsapp:orientation="0" whatsapp:id="0x7f100142" whatsapp:background="0x7f02088d" whatsapp:layout_width="-1" whatsapp:layout_height="0x7f0b00af">
+        <FrameLayout whatsapp:gravity="11" whatsapp:id="0x7f1001a0" whatsapp:paddingLeft="9dp" whatsapp:paddingTop="3dp" whatsapp:paddingBottom="5dp" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:layout_alignParentLeft="true" whatsapp:layout_centerVertical="true">
+            <ProgressBar whatsapp:layout_gravity="11" whatsapp:id="0x7f1001a1" whatsapp:visibility="2" whatsapp:layout_width="-2" whatsapp:layout_height="-2" style="?unknown_attr_ref: 1010288" />
+            <com.whatsapp.ThumbnailPickerButton whatsapp:id="0x7f1001a2" whatsapp:padding="2dp" whatsapp:layout_width="0x7f0b00c3" whatsapp:layout_height="0x7f0b00c3" whatsapp:src="0x7f02006b" whatsapp:scaleType="5" whatsapp:contentDescription="0x7f0803df" whatsapp:tbtnRadius="0x7f0b001d" />
+        </FrameLayout>
+        <FrameLayout whatsapp:gravity="11" whatsapp:layout_gravity="10" whatsapp:id="0x7f1001a3" whatsapp:layout_width="64dp" whatsapp:layout_height="-1" whatsapp:layout_alignParentRight="true">
+            <View whatsapp:layout_gravity="13" whatsapp:background="0x7f0e004a" whatsapp:layout_width="1dp" whatsapp:layout_height="32dp" />
+            <ImageButton whatsapp:layout_gravity="11" whatsapp:id="0x7f100178" whatsapp:layout_width="48dp" whatsapp:layout_height="48dp" whatsapp:src="0x7f020784" whatsapp:contentDescription="0x7f08008f" style="0x7f0c0086" />
+        </FrameLayout>
+        <LinearLayout whatsapp:orientation="1" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:layout_marginLeft="10dp" whatsapp:layout_marginRight="10dp" whatsapp:layout_toLeftOf="0x7f1001a3" whatsapp:layout_toRightOf="0x7f1001a0" whatsapp:layout_centerVertical="true">
+            <com.whatsapp.TextEmojiLabel whatsapp:textSize="22sp" whatsapp:textColor="0x7f0e0061" whatsapp:ellipsize="3" whatsapp:gravity="3" whatsapp:layout_gravity="3" whatsapp:id="0x7f1001a4" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:maxLines="2" whatsapp:singleLine="false" />
+            <TextView whatsapp:ellipsize="3" whatsapp:gravity="3" whatsapp:layout_gravity="3" whatsapp:id="0x7f1001a5" whatsapp:visibility="2" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:maxLines="2" whatsapp:singleLine="false" style="0x7f0c00d6" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

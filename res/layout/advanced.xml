@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <EditText android:id="0x7f100105" android:layout_width="0dp" android:layout_height="-2" android:hint="chat server" android:layout_weight="1.0" android:inputType="1" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Set" android:onClick="setChatHost" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Clear" android:onClick="clearChatHost" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <TextView android:layout_width="-2" android:layout_height="-2" android:text="JID: " />
+            <EditText android:id="0x7f100106" android:layout_width="0dp" android:layout_height="-2" android:text="14085551212" android:layout_weight="1.0" android:inputType="1" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <TextView android:layout_width="-2" android:layout_height="-2" android:text="Reconnects: " />
+            <TextView android:id="0x7f100107" android:layout_width="-2" android:layout_height="-2" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f100108" android:layout_width="-2" android:layout_height="-2" android:text="Register" android:layout_weight="1.0" />
+            <Button android:id="0x7f100109" android:layout_width="-2" android:layout_height="-2" android:text="Register Name" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f10010a" android:layout_width="-2" android:layout_height="-2" android:text="Delete Registration" android:layout_weight="1.0" />
+            <Button android:id="0x7f10010b" android:layout_width="-2" android:layout_height="-2" android:text="Delete Reg+Restore" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f10010c" android:layout_width="-2" android:layout_height="-2" android:text="Reconnect" android:layout_weight="1.0" />
+            <Button android:id="0x7f10010d" android:layout_width="-2" android:layout_height="-2" android:text="Logout" android:layout_weight="1.0" />
+            <Button android:id="0x7f10010e" android:layout_width="-2" android:layout_height="-2" android:text="Backup dbs" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f10010f" android:layout_width="-2" android:layout_height="-2" android:text="Kill Process" android:layout_weight="1.0" />
+            <Button android:id="0x7f100110" android:layout_width="-2" android:layout_height="-2" android:text="Throw Exception" android:layout_weight="1.0" />
+            <Button android:id="0x7f100111" android:layout_width="-2" android:layout_height="-2" android:text="Log to SD" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f100112" android:layout_width="-2" android:layout_height="-2" android:text="Eat Memory" android:layout_weight="1.0" />
+            <Button android:id="0x7f100113" android:layout_width="-2" android:layout_height="-2" android:text="Eat CPU" android:layout_weight="1.0" />
+            <Button android:id="0x7f100114" android:layout_width="-2" android:layout_height="-2" android:text="Eat GC" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <TextView android:layout_width="-2" android:layout_height="-2" android:text="IO Test: " />
+            <EditText android:id="0x7f100115" android:layout_width="100sp" android:layout_height="-2" android:text="100" android:layout_weight="1.0" />
+            <Button android:id="0x7f100116" android:layout_width="-2" android:layout_height="-2" android:text="Internal" android:layout_weight="1.0" />
+            <Button android:id="0x7f100117" android:layout_width="-2" android:layout_height="-2" android:text="External" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f100118" android:layout_width="-2" android:layout_height="-2" android:text="Phone" android:layout_weight="1.0" />
+            <Button android:id="0x7f100119" android:layout_width="-2" android:layout_height="-2" android:text="Contact" android:layout_weight="1.0" />
+            <Button android:id="0x7f10011a" android:layout_width="-2" android:layout_height="-2" android:text="Data" android:layout_weight="1.0" />
+            <Button android:id="0x7f10011b" android:layout_width="-2" android:layout_height="-2" android:text="Raw" android:layout_weight="1.0" />
+            <Button android:id="0x7f10011c" android:layout_width="-2" android:layout_height="-2" android:text="WA" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f10011d" android:layout_width="-2" android:layout_height="-2" android:text="DB Restore" android:layout_weight="1.0" />
+            <Button android:id="0x7f10011e" android:layout_width="-2" android:layout_height="-2" android:text="Contact Restore" android:layout_weight="1.0" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Test mistyped" android:onClick="testMistypedNumbers" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f10011f" android:layout_width="-2" android:layout_height="-2" android:text="Reset reg state" android:layout_weight="1.0" />
+            <Button android:id="0x7f100120" android:layout_width="-2" android:layout_height="-2" android:text="Login failed" android:layout_weight="1.0" />
+            <Button android:id="0x7f100121" android:layout_width="-2" android:layout_height="-2" android:text="ANR" android:layout_weight="1.0" />
+            <Button android:id="0x7f100122" android:layout_width="-2" android:layout_height="-2" android:text="Clear ANR ts" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f100123" android:layout_width="-2" android:layout_height="-2" android:text="dialog h" android:layout_weight="1.0" />
+            <Button android:id="0x7f100124" android:layout_width="-2" android:layout_height="-2" android:text="dialog v" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f100125" android:layout_width="0dp" android:layout_height="-2" android:text="Clear SSID Notification Map" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Reload Server Properties" android:layout_weight="1.0" android:onClick="reloadServerProperties" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="PRNG" android:layout_weight="1.0" android:onClick="testPrng" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Send FieldStats" android:layout_weight="1.0" android:onClick="sendFieldStats" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Rotate FieldStats" android:layout_weight="1.0" android:onClick="rotateFieldStats" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Play Newest Opus File" android:layout_weight="1.0" android:onClick="playNewestOpusFile" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="VoIP Delete All Call Recordings" android:layout_weight="1.0" android:onClick="cleanCallRecordingFiles" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <TextView android:layout_width="-2" android:layout_height="-2" android:text="AECM: " />
+            <EditText android:id="0x7f100126" android:layout_width="50sp" android:layout_height="-2" android:text="1" android:layout_weight="1.0" />
+            <EditText android:id="0x7f100127" android:layout_width="50sp" android:layout_height="-2" android:text="2" android:layout_weight="1.0" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Apply" android:layout_weight="1.0" android:onClick="adjustAECMSettings" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Send create cipher key" android:layout_weight="1.0" android:onClick="sendCreateCipherKey" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Send get cipher key" android:layout_weight="1.0" android:onClick="sendGetCipherKey" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Get keys for dbs" android:layout_weight="1.0" android:onClick="getKeysForBackups" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Delete cipher key file" android:layout_weight="1.0" android:onClick="deleteCipherKeyFile" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Log key file params" android:layout_weight="1.0" android:onClick="logBackupKey" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Log db params" android:layout_weight="1.0" android:onClick="logBackupParams" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Unarchive all chats" android:layout_weight="1.0" android:onClick="unarchiveAllChats" />
+            <Button android:layout_width="-2" android:layout_height="-2" android:text="Update FieldStats" android:layout_weight="1.0" android:onClick="updateFieldStats" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f100128" android:layout_width="0dp" android:layout_height="-2" android:text="View Corrupt Error Activity" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Delete Axolotl Store" android:layout_weight="1.0" android:onClick="deleteAxolotlStore" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Show insufficient storage activity" android:layout_weight="1.0" android:onClick="showInsufficientStorageSpaceActivity" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Start Google Drive Backup (automated)" android:layout_weight="1.0" android:onClick="startGoogleDriveAutomatedBackup" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Delete Google Drive Backup" android:layout_weight="1.0" android:onClick="deleteGoogleDriveBackup" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Toggle Google Drive Access" android:layout_weight="1.0" android:onClick="toggleGoogleDriveAccess" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Trigger Google Drive media restore" android:layout_weight="1.0" android:onClick="triggerGoogleDriveMediaRestore" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Trigger battery level is 10% (not plugged in)" android:layout_weight="1.0" android:onClick="triggerBatteryLevelLowNotPluggedIn" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Trigger battery level is 10% (plugged in)" android:layout_weight="1.0" android:onClick="triggerBatteryLevelLowPluggedIn" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Trigger battery level is 90%" android:layout_weight="1.0" android:onClick="triggerBatteryLevelHigh" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Trigger SD card unmounted" android:layout_weight="1.0" android:onClick="triggerSDcardUnmounted" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Trigger SD card read-only mounted " android:layout_weight="1.0" android:onClick="triggerSDcardReadOnlyMounted" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Trigger SD card mounted" android:layout_weight="1.0" android:onClick="triggerSDcardMounted" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Show Google Drive New User Setup" android:layout_weight="1.0" android:onClick="showGoogleDriveNewUserSetupActivity" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Show Google Drive restore" android:layout_weight="1.0" android:onClick="showGoogleDriveRestoreSetup" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Remove Google Drive backup account" android:layout_weight="1.0" android:onClick="removeGoogleDriveBackupAccount" />
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="List files on Google Drive" android:layout_weight="1.0" android:onClick="listAllFilesOnGoogleDrive" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Convert new -> old primary base folder (Google Drive)" android:layout_weight="1.0" android:onClick="convertNewPrimaryToOldPrimaryOnGoogleDrive" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-1" android:text="Convert old -> new primary base folder (Google Drive)" android:layout_weight="1.0" android:onClick="convertOldPrimaryToNewPrimaryOnGoogleDrive" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Send Pre Key Digest" android:layout_weight="1.0" android:onClick="sendPreKeyDigest" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-1" android:layout_height="-2" android:text="Test HTTPS Certificates" android:onClick="testHttpsCertificates" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="-1" android:layout_height="-2" android:text="Delete Job Queue" android:onClick="deleteJobQueue" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Create FTS" android:layout_weight="1.0" android:onClick="createFts" />
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Reset FTS" android:layout_weight="1.0" android:onClick="resetFts" />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f100129" android:layout_width="0dp" android:layout_height="-2" android:text="Chat from" android:minLines="2" android:layout_weight="1.0" android:onClick="selectChatFrom" />
+            <Button android:id="0x7f10012a" android:layout_width="0dp" android:layout_height="-2" android:text="Chat to" android:minLines="2" android:layout_weight="1.0" android:onClick="selectChatTo" />
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Move messages" android:minLines="2" android:layout_weight="1.0" android:onClick="moveMessages" />
+        </LinearLayout>
+        <Button android:layout_width="-1" android:layout_height="-2" android:text="Detect gender" android:onClick="detectGender" />
+        <Button android:id="0x7f10012b" android:layout_width="-1" android:layout_height="-2" android:text="Trigger Direct Share Contact Update" />
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Daily Cron" android:layout_weight="1.0" android:onClick="dailyCron" />
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Hourly Cron" android:layout_weight="1.0" android:onClick="hourlyCron" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Reset TOS" android:layout_weight="1.0" android:onClick="resetTos" />
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Stack Traces" android:layout_weight="1.0" android:onClick="logStackTraces" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Create Links table" android:layout_weight="1.0" android:onClick="createLinks" />
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Reset Links table" android:layout_weight="1.0" android:onClick="resetLinks" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+            <Button android:layout_width="0dp" android:layout_height="-2" android:text="Upload logs" android:layout_weight="1.0" android:onClick="uploadLogs" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

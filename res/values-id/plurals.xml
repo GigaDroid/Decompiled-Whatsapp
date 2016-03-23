@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Layanan dibeli untuk %d kontak.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d tahun masa layanan telah dibeli untuk %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Anda masih memiliki lebih dari %1$d tahun layanan tersisa.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Anda punya %1$d tahun layanan tersisa.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s telah membeli %2$d tahun masa layanan untuk Anda.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Seorang teman telah membeli %1$d tahun masa layanan untuk Anda.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d penerima</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, dan %2$d lagi</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Siarkan ke %d kontak</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Tidak dapat mengirimkan dokumen ke “%1$s” karena %2$s dan %3$d lainnya menggunakan versi WhatsApp yang belum mendukung dokumen.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Kirim %1$d dokumen ke %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Bagikan %1$d item dengan %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Nikmati layanan
+WhatsApp
+untuk %d hari"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d hari
+masa layanan
+tersisa"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Hapus %d pesan?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Hapus chat dengan “%1$s”?
+Anda masih memiliki %2$d pesan tak terkirim di chat ini."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Gambar ini terlalu kecil. Silakan pilih foto dengan panjang dan lebar setidaknya %d piksel.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Keluar dari grup “%1$s”?
+Anda masih memiliki %2$d pesan tak terkirim di chat ini."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d pesan dipulihkan. Media Anda akan dipulihkan di latar belakang.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d pesan dipulihkan</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Kirim %1$d dokumen ke “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Bagikan %1$d item dengan “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s bukan lagi seorang admin</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s adalah admin sekarang</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d jam yang lalu</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Akurat sampai %d meter</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d pesan disalin</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d pesan dihapus</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d menit yang lalu</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d panggilan tak terjawab</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Nikmati layanan
+WhatsApp
+untuk %d bulan"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d bulan
+masa layanan
+tersisa"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d kontak</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Setidaknya %d kontak harus dipilih</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d terpilih</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d terpilih</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s dan %2$d lainnya</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bita</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d pesan</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d panggilan</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d pesan baru</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d pesan</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s dari %2$d chat</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d halaman</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d lembar</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d halaman</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d tersisa</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d pesan telah dipulihkan. Silakan lanjutkan.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Kirim ulang %1$d pesan dari %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Kirim ulang %1$d pesan dari kemarin</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d detik</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Mengirimkan %1$d audio ke %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Mengirimkan %d audio</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Mengirimkan %1$d file ke %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Mengirimkan %d file</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Mengirimkan %1$d video ke %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Mengirimkan %d video</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Layanan WhatsApp Anda akan berakhir dalam %d hari. Beli perpanjangan sekarang?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Versi WhatsApp ini perlu diperbarui dalam %d hari. Perbarui ke versi terbaru?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d pesan belum terbaca</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d tahun</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Nikmati layanan
+WhatsApp
+untuk %d tahun"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d tahun
+masa layanan
+tersisa"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Anda membuat daftar siaran “%1$s” dengan %2$d penerima</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Anda telah membuat daftar siaran dengan %d penerima</item>
+    </plurals>
+</resources>

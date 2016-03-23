@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="led_support_green_only">On your device, only the colour Green is supported</string>
+    <string name="settings_notification_light_summary">Choose a colour to blink the notification light when a new message is received.</string>
+</resources>

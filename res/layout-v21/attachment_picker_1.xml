@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.CircularRevealView whatsapp:id="0x7f10012d" whatsapp:background="0x7f0e000e" whatsapp:paddingLeft="8dp" whatsapp:paddingTop="12dp" whatsapp:paddingRight="2dp" whatsapp:paddingBottom="16dp" whatsapp:visibility="2" whatsapp:clipChildren="false" whatsapp:clipToPadding="false" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:layout_marginBottom="8dp" whatsapp:elevation="4dp">
+    <LinearLayout whatsapp:gravity="11" whatsapp:orientation="1" whatsapp:id="0x7f10012e" whatsapp:clipChildren="false" whatsapp:layout_width="-1" whatsapp:layout_height="-2"
+        <LinearLayout whatsapp:gravity="10" whatsapp:orientation="0" whatsapp:paddingBottom="8dp" whatsapp:clipChildren="false" whatsapp:layout_width="-2" whatsapp:layout_height="-2"
+            <LinearLayout whatsapp:id="0x7f10013b" style="0x7f0c008c">
+                <com.whatsapp.ThumbnailButton whatsapp:id="0x7f10013c" whatsapp:src="0x7f02005b" whatsapp:contentDescription="0x7f08006a" whatsapp:tbtnRadius="-1dp" whatsapp:tbtnForegroundOnly="true" style="0x7f0c008b" />
+                <com.whatsapp.CondensedTextView whatsapp:text="0x7f08006a" style="0x7f0c008d" />
+            </LinearLayout>
+            <LinearLayout whatsapp:id="0x7f100131" style="0x7f0c008c">
+                <com.whatsapp.ThumbnailButton whatsapp:id="0x7f100132" whatsapp:src="0x7f020059" whatsapp:contentDescription="0x7f080068" whatsapp:tbtnRadius="-1dp" whatsapp:tbtnForegroundOnly="true" style="0x7f0c008b" />
+                <com.whatsapp.CondensedTextView whatsapp:text="0x7f080068" style="0x7f0c008d" />
+            </LinearLayout>
+            <LinearLayout whatsapp:id="0x7f10012f" style="0x7f0c008c">
+                <com.whatsapp.ThumbnailButton whatsapp:id="0x7f100130" whatsapp:src="0x7f02005c" whatsapp:contentDescription="0x7f08006e" whatsapp:tbtnRadius="-1dp" whatsapp:tbtnForegroundOnly="true" style="0x7f0c008b" />
+                <com.whatsapp.CondensedTextView whatsapp:text="0x7f08006e" style="0x7f0c008d" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout whatsapp:gravity="10" whatsapp:orientation="0" whatsapp:clipChildren="false" whatsapp:layout_width="-2" whatsapp:layout_height="-2"
+            <LinearLayout whatsapp:id="0x7f100135" style="0x7f0c008c">
+                <com.whatsapp.ThumbnailButton whatsapp:id="0x7f100136" whatsapp:src="0x7f020058" whatsapp:contentDescription="0x7f080067" whatsapp:tbtnRadius="-1dp" whatsapp:tbtnForegroundOnly="true" style="0x7f0c008b" />
+                <com.whatsapp.CondensedTextView whatsapp:text="0x7f080067" style="0x7f0c008d" />
+            </LinearLayout>
+            <LinearLayout whatsapp:id="0x7f100137" style="0x7f0c008c">
+                <com.whatsapp.ThumbnailButton whatsapp:id="0x7f100138" whatsapp:src="0x7f02005d" whatsapp:contentDescription="0x7f08006b" whatsapp:tbtnRadius="-1dp" whatsapp:tbtnForegroundOnly="true" style="0x7f0c008b" />
+                <com.whatsapp.CondensedTextView whatsapp:text="0x7f08006b" style="0x7f0c008d" />
+            </LinearLayout>
+            <LinearLayout whatsapp:id="0x7f100139" style="0x7f0c008c">
+                <com.whatsapp.ThumbnailButton whatsapp:id="0x7f10013a" whatsapp:src="0x7f02005a" whatsapp:contentDescription="0x7f080069" whatsapp:tbtnRadius="-1dp" whatsapp:tbtnForegroundOnly="true" style="0x7f0c008b" />
+                <com.whatsapp.CondensedTextView whatsapp:text="0x7f080069" style="0x7f0c008d" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</com.whatsapp.CircularRevealView>

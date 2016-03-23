@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContactsSource>
+    <ContactsDataKind android:icon="0x7f02080c" android:mimeType="vnd.android.cursor.item/vnd.com.whatsapp.profile" android:summaryColumn="data2" android:detailColumn="data3" android:detailSocialSummary="true" />
+    <ContactsDataKind android:icon="0x7f02080c" android:mimeType="vnd.android.cursor.item/vnd.com.whatsapp.voip.call" android:summaryColumn="data2" android:detailColumn="data3" />
+</ContactsSource>

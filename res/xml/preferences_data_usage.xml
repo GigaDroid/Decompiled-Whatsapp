@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f0804a9" android:key="account_info_screen">
+    <com.whatsapp.preference.WaPreference android:title="0x7f0804ed" android:key="network_usage" />
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f08048a" android:key="notification">
+        <com.whatsapp.preference.WaMultiSelectListPreference android:persistent="false" android:entries="0x7f0f0001" android:title="0x7f08048d" android:key="autodownload_cellular" android:defaultValue="0x7f0f0002" android:entryValues="0x7f0f0004" />
+        <com.whatsapp.preference.WaMultiSelectListPreference android:persistent="false" android:entries="0x7f0f0001" android:title="0x7f080495" android:key="autodownload_wifi" android:defaultValue="0x7f0f0005" android:entryValues="0x7f0f0004" />
+        <com.whatsapp.preference.WaMultiSelectListPreference android:persistent="false" android:entries="0x7f0f0001" android:title="0x7f080492" android:key="autodownload_roaming" android:defaultValue="0x7f0f0003" android:entryValues="0x7f0f0004" />
+        <Preference android:layout="0x7f0300e5" android:selectable="false" android:key="autodownload_message" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f08049d" android:key="notification">
+        <com.whatsapp.preference.WaCheckBoxPreference android:title="0x7f08050e" android:key="voip_low_data_usage" android:summary="0x7f08050d" android:defaultValue="false" />
+    </com.whatsapp.preference.WaPreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Купено сервис за %d контакти</item>
+        <item quantity="one">Купено сервис за %d контакт</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d години сервис купено за %2$s.</item>
+        <item quantity="one">%1$d година сервис купено за %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Имаш повеќе од %1$d години сервис преостанато.</item>
+        <item quantity="one">Имаш повеќе од %1$d година сервис преостанато.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Имаш уште %1$d години сервис преостанато.</item>
+        <item quantity="one">Имаш уште %1$d година сервис преостанато.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s ти купи %2$d години сервис за тебе.</item>
+        <item quantity="one">%1$s ти купи %2$d година сервис за тебе.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Пријател ти купи %1$d години сервис за тебе.</item>
+        <item quantity="one">Пријател ти купи %1$d година сервис за тебе.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d примачи</item>
+        <item quantity="one">%d примач</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, и уште %2$d</item>
+        <item quantity="one">%1$s, и уште %2$d</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Емитувај до %d контакти</item>
+        <item quantity="one">Емитувај до %d контакт</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Не може да се испрати документ до “%1$s” бидејќи %2$s и %3$d други учесници не користат верзија на WhatsApp што подржува документи.</item>
+        <item quantity="one">Не може да се испрати документ до “%1$s” бидејќи %2$s и %3$d друг учесник не користат верзија на WhatsApp што подржува документи.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Испрати %1$d документи до %2$s?</item>
+        <item quantity="one">Испрати %1$d документ до %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Сподели %1$d фајлови со %2$s?</item>
+        <item quantity="one">Сподели %1$d фајл со %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d дена</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Уживај во твоите
+%d дена
+сервис"</item>
+        <item quantity="one">"Уживај во твојот
+%d ден
+сервис"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d дена
+преостануваат
+од сервисот"</item>
+        <item quantity="one">"%d ден
+преостанува
+од сервисот"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Избриши %d пораки?</item>
+        <item quantity="one">Избриши %d порака?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Избриши разговор со“%1$s”?
+Имаш %2$d непратени пораки во овој разговор."</item>
+        <item quantity="one">"Избриши разговор со“%1$s”?
+Имаш %2$d непратена порака во овој разговор."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Оваа слика е премала. Молиме избери слика со висина и ширина од најмалку %d пиксели.</item>
+        <item quantity="one">Оваа слика е премала. Молиме избери слика со висина и ширина од најмалку %d пиксел.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Излези од “%1$s” групата?
+Имаш %2$d непратени пораки во овој разговор."</item>
+        <item quantity="one">"Излези од “%1$s” групата?
+Имаш %2$d непратена порака во овој разговор."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d пораки вратено. Твоите фајлови ќе продолжат да се враќаат во позадина.</item>
+        <item quantity="one">%d порака вратено. Твоите фајлови ќе продолжат да се враќаат во позадина.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d пораки вратено</item>
+        <item quantity="one">%d порака вратено</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Испрати %1$d документи до “%2$s”?</item>
+        <item quantity="one">Испрати %1$d документ до “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Сподели %1$d фајлови со “%2$s”?</item>
+        <item quantity="one">Сподели %1$d фајл со “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s не се повеќе администратори</item>
+        <item quantity="one">%s не е повеќе администратор</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s сега се администратори</item>
+        <item quantity="one">%s сега е администратор</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">пред %d часа</item>
+        <item quantity="one">пред %d час</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Со точност од %d метри</item>
+        <item quantity="one">Со точност од %d метар</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d копирани пораки</item>
+        <item quantity="one">%d копирана порака</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d пораки избришани</item>
+        <item quantity="one">%d порака избришана</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">пред %d минути</item>
+        <item quantity="one">пред %d минута</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d пропуштени повици</item>
+        <item quantity="one">%d пропуштен повик</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d месеци</item>
+        <item quantity="one">%d месец</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Уживај во твоите
+%d месеци
+сервис"</item>
+        <item quantity="one">"Уживај во твојот
+%d месец
+сервис"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d месеци
+од сервисот
+преостануваат"</item>
+        <item quantity="one">"%d месец
+од сервисот
+преостанува"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d контакти</item>
+        <item quantity="one">%d контакт</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Мора најмалку %d контакти</item>
+        <item quantity="one">Мора најмалку %d контакт</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d избрани</item>
+        <item quantity="one">%d избран</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d избрани</item>
+        <item quantity="one">%d избран</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s и %2$d други</item>
+        <item quantity="one">%1$s и %2$d друг</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d бајти</item>
+        <item quantity="one">%1$d бајт</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d пораки</item>
+        <item quantity="one">%1$d порака</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d повици</item>
+        <item quantity="one">%1$d повик</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d нови пораки</item>
+        <item quantity="one">%d нова порака</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d пораки</item>
+        <item quantity="one">%d порака</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s од %2$d разговори</item>
+        <item quantity="one">%1$s од %2$d разговор</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d страници</item>
+        <item quantity="one">%d страница</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d листови</item>
+        <item quantity="one">%d лист</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d слајдови</item>
+        <item quantity="one">%d слајд</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d преостанати</item>
+        <item quantity="one">%d преостаната</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d пораки вратени. Може да продолжиш.</item>
+        <item quantity="one">%,d порака вратена. Може да продолжиш.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Препрати %1$d пораки од %2$s</item>
+        <item quantity="one">Препрати %1$d порака од %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Препрати %1$d пораки од вчера</item>
+        <item quantity="one">Препрати %1$d порака од вчера</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Се испраќаат %1$d аудио фајлови до %2$s</item>
+        <item quantity="one">Се испраќа %1$d аудио фајл до %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Се испраќаат %d аудио фајлови</item>
+        <item quantity="one">Се испраќа %d аудио фајл</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Се испраќаат %1$d фајлови до %2$s</item>
+        <item quantity="one">Се испраќа %1$d фајл до %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Се испраќаат %d фајлови</item>
+        <item quantity="one">Се испраќа %d фајл</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Испраќа %1$d видеа на %2$s</item>
+        <item quantity="one">Испраќа %1$d видео на %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Испраќа %d видеа</item>
+        <item quantity="one">Испраќа %d видео</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Твојот WhatsApp сервис ќе истече за %d дена. Купи продолжување сега?</item>
+        <item quantity="one">Твојот WhatsApp сервис ќе истече за %d ден. Купи продолжување сега?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Оваа верзија на WhatsApp ќе треба да се ажурира за %d дена. Ажурирај сега на најновата верзија?</item>
+        <item quantity="one">Оваа верзија на WhatsApp ќе треба да се ажурира за %d ден. Ажурирај сега на најновата верзија?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d непрочитани пораки</item>
+        <item quantity="one">%d непрочитана порака</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d години</item>
+        <item quantity="one">%d година</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Уживај во
+твојот сервис
+од %d години"</item>
+        <item quantity="one">"Уживај во
+твојот сервис
+од %d година"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"Преостануваат
+уште %d години
+од сервисот"</item>
+        <item quantity="one">"Преостанува
+уште %d година
+од сервисот"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Ја креира емитувачката листа “%1$s” со %2$d примачи</item>
+        <item quantity="one">Ја креира емитувачката листа “%1$s” со %2$d примач</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Креира емитувачка листа со %d примачи</item>
+        <item quantity="one">Креира емитувачка листа со %d примач</item>
+    </plurals>
+</resources>

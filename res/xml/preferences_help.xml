@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="0x7f0804e2" android:key="settings_help">
+    <com.whatsapp.preference.WaPreference android:title="0x7f080488" android:key="about" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f0804ae" android:key="help" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f0804ec" android:key="system_status" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f08050a" android:key="terms_and_privacy_policy" />
+    <com.whatsapp.preference.WaPreference android:title="0x7f0800dd" android:key="contact_us" android:summary="0x7f0800de" />
+</PreferenceScreen>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2">
+    <View android:background="?unknown_attr_ref: 1010214" android:layout_width="-1" android:layout_height="1dp" />
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="0x7f0b0081">
+    <ImageView android:id="0x7f100157" android:layout_width="0x7f0b00d8" android:layout_height="0x7f0b00d8" android:layout_marginLeft="0x7f0b00b5" android:scaleType="3" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <CheckBox android:id="0x7f10030f" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0b00b5" android:scaleType="3" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <LinearLayout android:orientation="1" android:paddingLeft="0x7f0b00b5" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f10030f" android:layout_toRightOf="0x7f100157" android:layout_centerVertical="true">
+        <com.whatsapp.TextEmojiLabel android:layout_gravity="3" android:id="0x7f100310" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d8" />
+        <com.whatsapp.TextEmojiLabel android:layout_gravity="3" android:id="0x7f100311" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+    </LinearLayout>
+</RelativeLayout>

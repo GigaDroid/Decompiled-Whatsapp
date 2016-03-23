@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">%d kişi için hizmet satın alındı.</item>
+        <item quantity="one">%d kişi için hizmet satın alındı.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%2$s için %1$d yıllık hizmet satın alınmıştır.</item>
+        <item quantity="one">%2$s için %1$d yıllık hizmet satın alınmıştır.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">%1$d yıldan fazla kullanım süreniz var.</item>
+        <item quantity="one">%1$d yıldan fazla kullanım süreniz var.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">%1$d yıl kullanım süreniz var.</item>
+        <item quantity="one">%1$d yıl kullanım süreniz var.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s sizin için %2$d yıl hizmet satın aldı.</item>
+        <item quantity="one">%1$s sizin için %2$d yıl hizmet satın aldı.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Arkadaşınız sizin için %1$d yıl hizmet satın aldı.</item>
+        <item quantity="one">Arkadaşınız sizin için %1$d yıl hizmet satın aldı.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d alıcı</item>
+        <item quantity="one">%d alıcı</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, ve %2$d daha</item>
+        <item quantity="one">%1$s, ve %2$d daha</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">%d kişiye yayınla</item>
+        <item quantity="one">%d kişiye yayınla</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">“%1$s” grubuna belge gönderilemiyor çünkü %2$s ve %3$d kişi daha belge desteklemeyen bir WhatsApp sürümü kullanıyor.</item>
+        <item quantity="one">“%1$s” grubuna belge gönderilemiyor çünkü %2$s ve %3$d kişi daha belge desteklemeyen bir WhatsApp sürümü kullanıyor.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">%1$d belge %2$s kişisine gönderilsin mi?</item>
+        <item quantity="one">%1$d belge %2$s kişisine gönderilsin mi?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">%1$d öğesini %2$s aracılığıyla paylaş?</item>
+        <item quantity="one">%1$d öğesini %2$s aracılığıyla paylaş?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"
+%d günlük
+hizmetinizi güle güle kullanın"</item>
+        <item quantity="one">"
+%d günlük
+hizmetinizi güle güle kullanın"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"hizmetin
+ %d günü 
+kaldı"</item>
+        <item quantity="one">"hizmetin
+ %d günü 
+kaldı"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">%d mesaj silinsin mi?</item>
+        <item quantity="one">%d mesaj silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"“%1$s” ile sohbeti sil?
+Bu sohbette %2$d gönderilmemiş mesajınız var."</item>
+        <item quantity="one">"“%1$s” ile sohbeti sil?
+Bu sohbette %2$d gönderilmemiş mesajınız var."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Bu görüntü çok küçük. Lütfen yüksekliği ve genişliği en az %d piksel olan bir fotoğraf seçin.</item>
+        <item quantity="one">Bu görüntü çok küçük. Lütfen yüksekliği ve genişliği en az %d piksel olan bir fotoğraf seçin.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"“%1$s” grubundan çık?
+Bu sohbette %2$d gönderilmemiş mesajınız var."</item>
+        <item quantity="one">"“%1$s” grubundan çık?
+Bu sohbette %2$d gönderilmemiş mesajınız var."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d mesaj geri yüklendi. Medyanız arka planda geri yüklenecek.</item>
+        <item quantity="one">%d mesaj geri yüklendi. Medyanız arka planda geri yüklenecek.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d mesaj geri yüklendi</item>
+        <item quantity="one">%d mesaj geri yüklendi</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">%1$d belge %2$s kişisine gönderilsin mi?</item>
+        <item quantity="one">%1$d belge %2$s kişisine gönderilsin mi?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">%1$d öğesini “%2$s” aracılığıyla paylaş?</item>
+        <item quantity="one">%1$d öğesini “%2$s” aracılığıyla paylaş?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s artık yönetici değil</item>
+        <item quantity="one">%s artık yönetici değil</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s artık yönetici</item>
+        <item quantity="one">%s artık yönetici</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">%d metreye kadar doğru</item>
+        <item quantity="one">%d metreye kadar doğru</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d mesaj kopyalandı</item>
+        <item quantity="one">%d mesaj kopyalandı</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d mesaj silindi</item>
+        <item quantity="one">%d mesaj silindi</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d cevapsız arama</item>
+        <item quantity="one">%d cevapsız arama</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d ay</item>
+        <item quantity="one">%d ay</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"
+%d aylık
+hizmetinizi güle güle kullanın"</item>
+        <item quantity="one">"
+%d aylık
+hizmetinizi güle güle kullanın"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d aylık
+hizmet
+kaldı"</item>
+        <item quantity="one">"%d aylık
+hizmet
+kaldı"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d kişi</item>
+        <item quantity="one">%d kişi</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">En az %d kişi seçilmelidir</item>
+        <item quantity="one">En az %d kişi seçilmelidir</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s ve diğer %2$d kişi</item>
+        <item quantity="one">%1$s ve diğer %2$d kişi</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bayt</item>
+        <item quantity="one">%1$d bayt</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d mesaj</item>
+        <item quantity="one">%1$d mesaj</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d arama</item>
+        <item quantity="one">%1$d arama</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d yeni mesaj</item>
+        <item quantity="one">%d yeni mesaj</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d mesaj</item>
+        <item quantity="one">%d mesaj</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%2$d sohbetten %1$s</item>
+        <item quantity="one">%2$d sohbetten %1$s</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d sayfa</item>
+        <item quantity="one">%d sayfa</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d sayfa</item>
+        <item quantity="one">%d sayfa</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d slayt</item>
+        <item quantity="one">%d slayt</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d kaldı</item>
+        <item quantity="one">%d kaldı</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d mesaj geri yüklendi. Artık hazırsınız.</item>
+        <item quantity="one">%,d mesaj geri yüklendi. Artık hazırsınız.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">"%2$s'ten kalan %1$d mesajı tekrar gönder"</item>
+        <item quantity="one">"%2$s'ten kalan %1$d mesajı tekrar gönder"</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Dünkü %1$d mesajı tekrar gönder</item>
+        <item quantity="one">Dünkü %1$d mesajı tekrar gönder</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">%2$s kişisine %1$d ses gönderiliyor</item>
+        <item quantity="one">%2$s kişisine %1$d ses gönderiliyor</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">%d ses gönderiliyor</item>
+        <item quantity="one">%d ses gönderiliyor</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">%2$s kişisine %1$d dosya gönderiliyor</item>
+        <item quantity="one">%2$s kişisine %1$d dosya gönderiliyor</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">%d dosya gönderiliyor</item>
+        <item quantity="one">%d dosya gönderiliyor</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">%1$d video %2$s kişisine gönderiliyor</item>
+        <item quantity="one">%1$d video %2$s kişisine gönderiliyor</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">%d video gönderiliyor</item>
+        <item quantity="one">%d video gönderiliyor</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">WhatsApp servisinizin süresi %d gün içinde dolacaktır. Süre uzatmayı şimdi satın al?</item>
+        <item quantity="one">WhatsApp servisinizin süresi %d gün içinde dolacaktır. Süre uzatmayı şimdi satın al?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">"WhatsApp'ın bu versiyonu %d günde güncellenmeyi bekliyor. Son versiyona güncellensin mi?"</item>
+        <item quantity="one">"WhatsApp'ın bu versiyonu %d gün içinde güncellenmeyi bekliyor. Son versiyona güncellensin mi?"</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d okunmamış mesaj</item>
+        <item quantity="one">%d okunmamış mesaj</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d yıl</item>
+        <item quantity="one">%d yıl</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"
+%d yıllık
+hizmetinizi güle güle kullanın"</item>
+        <item quantity="one">"
+%d yıllık
+hizmetinizi güle güle kullanın"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d yıllık
+hizmet
+kaldı"</item>
+        <item quantity="one">"%d yıllık
+hizmet
+kaldı"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">%2$d alıcısı olan “%1$s” toplu mesaj listesi oluşturdunuz</item>
+        <item quantity="one">%2$d alıcısı olan “%1$s” toplu mesaj listesi oluşturdunuz</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">%d alıcısı olan bir toplu mesaj listesi oluşturdunuz</item>
+        <item quantity="one">%d alıcısı olan bir toplu mesaj listesi oluşturdunuz</item>
+    </plurals>
+</resources>

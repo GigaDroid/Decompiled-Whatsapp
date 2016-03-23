@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="1" android:paddingLeft="0x7f0b005e" android:paddingTop="0x7f0b0060" android:paddingRight="0x7f0b005e" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:background="0x7f020889" android:layout_width="-1" android:layout_height="-1">
+        <FrameLayout android:id="0x7f1002fd" android:paddingLeft="0x7f0b005e" android:paddingRight="0x7f0b005e" android:layout_width="-1" android:layout_height="0x7f0b00a6">
+            <LinearLayout android:gravity="3" android:layout_gravity="10" android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+                <LinearLayout android:gravity="10" android:layout_width="-2" android:layout_height="-2">
+                    <ImageView android:layout_width="22dp" android:layout_height="-2" android:src="0x7f020876" />
+                    <TextView android:paddingLeft="2dp" android:paddingRight="2dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0802dd" style="0x7f0c00d8" />
+                </LinearLayout>
+                <TextView android:layout_gravity="3" android:id="0x7f1002fe" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+            </LinearLayout>
+            <View style="0x7f0c00bd" />
+        </FrameLayout>
+        <FrameLayout android:paddingLeft="0x7f0b005e" android:paddingRight="0x7f0b005e" android:layout_width="-1" android:layout_height="0x7f0b00a6">
+            <LinearLayout android:gravity="3" android:layout_gravity="10" android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+                <LinearLayout android:gravity="10" android:layout_width="-2" android:layout_height="-2">
+                    <ImageView android:layout_width="22dp" android:layout_height="-2" android:src="0x7f020870" />
+                    <TextView android:id="0x7f1002ff" android:paddingLeft="2dp" android:paddingRight="2dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0802df" style="0x7f0c00d8" />
+                </LinearLayout>
+                <TextView android:layout_gravity="3" android:id="0x7f100300" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+            </LinearLayout>
+            <View style="0x7f0c00bd" />
+        </FrameLayout>
+        <FrameLayout android:paddingLeft="0x7f0b005e" android:paddingRight="0x7f0b005e" android:layout_width="-1" android:layout_height="0x7f0b00a6">
+            <LinearLayout android:gravity="3" android:layout_gravity="10" android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+                <LinearLayout android:gravity="10" android:layout_width="-2" android:layout_height="-2">
+                    <ImageView android:layout_width="22dp" android:layout_height="-2" android:src="0x7f020871" />
+                    <TextView android:paddingLeft="2dp" android:paddingRight="2dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0802d8" style="0x7f0c00d8" />
+                </LinearLayout>
+                <TextView android:layout_gravity="3" android:id="0x7f100301" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+            </LinearLayout>
+            <View android:visibility="2" style="0x7f0c00bd" />
+        </FrameLayout>
+        <FrameLayout android:paddingLeft="0x7f0b005e" android:paddingRight="0x7f0b005e" android:visibility="2" android:layout_width="-1" android:layout_height="0x7f0b00a6">
+            <LinearLayout android:gravity="3" android:layout_gravity="10" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:layout_width="-2" android:layout_height="-2" android:text="0x7f0802e3" style="0x7f0c00d8" />
+                <TextView android:layout_gravity="3" android:id="0x7f100302" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d6" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

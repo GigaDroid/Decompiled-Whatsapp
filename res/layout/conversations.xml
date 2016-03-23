@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <com.whatsapp.observablelistview.ObservableListView android:id="0x102000a" android:layout_width="-1" android:layout_height="-1" android:textFilterEnabled="true" android:cacheColorHint="0x106000d" android:divider="0x7f0200f3" android:dividerHeight="0.5dp" android:headerDividersEnabled="false" android:footerDividersEnabled="false" />
+    <FrameLayout android:gravity="11" android:id="0x7f100231" android:paddingLeft="32dp" android:paddingTop="?unknown_attr_ref: 7f0100c6" android:paddingRight="32dp" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textSize="17sp" android:textColor="#565656" android:gravity="11" android:layout_gravity="11" android:id="0x7f100232" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080621" style="0x7f0c00e0" />
+    </FrameLayout>
+    <TextView android:textSize="18sp" android:textColor="?unknown_attr_ref: 1010036" android:gravity="11" android:id="0x7f100173" android:paddingLeft="12dp" android:paddingTop="96dp" android:paddingRight="12dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:text="0x7f08046a" />
+    <include android:id="0x7f100233" android:visibility="2" layout="0x7f03008c" />
+    <include android:id="0x7f100234" android:visibility="2" layout="0x7f03008b" />
+</FrameLayout>

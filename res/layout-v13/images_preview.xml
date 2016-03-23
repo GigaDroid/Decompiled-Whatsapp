@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="0x7f1002c1" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <FrameLayout android:id="0x7f100181" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+            <android.support.v4.view.ViewPager android:id="0x7f1001c2" android:layout_width="-1" android:layout_height="-1" />
+        </FrameLayout>
+        <HorizontalScrollView android:id="0x7f1002c2" android:background="#99000000" android:visibility="2" android:scrollbars="0" android:fadingEdge="2000" android:layout_width="-1" android:layout_height="72dp" android:layout_marginTop="12dp" android:layout_marginBottom="12dp" android:requiresFadingEdge="2000">
+            <LinearLayout android:orientation="0" android:id="0x7f1002c3" android:layout_width="-2" android:layout_height="-1" android:animateLayoutChanges="true" android:dividerPadding="2dp" />
+        </HorizontalScrollView>
+        <FrameLayout android:id="0x7f1002c4" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="6dp" android:layout_marginBottom="10dp" />
+        <FrameLayout android:id="0x7f1001f0" android:background="#313131" android:layout_width="-1" android:layout_height="-2">
+            <View android:background="#4e4e4e" android:layout_width="-1" android:layout_height="1.5dp" />
+            <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false">
+                <Button android:textColor="?unknown_attr_ref: 1010036" android:ellipsize="3" android:id="0x7f10026d" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0800a4" android:layout_weight="1.0" style="0x7f0c0086" />
+                <View android:background="#5d5d5d" android:layout_width="1dp" android:layout_height="-1" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" />
+                <Button android:textColor="?unknown_attr_ref: 1010036" android:ellipsize="3" android:id="0x7f10026c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f08035c" android:layout_weight="1.0" style="0x7f0c0086" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+    <FrameLayout android:id="0x7f1002c5" android:visibility="1" android:layout_width="-1" android:layout_height="-1"
+        <FrameLayout android:id="0x7f1002c6" android:layout_width="-1" android:layout_height="-1">
+            <TextView android:textSize="22dp" android:textColor="#00ffffff" android:layout_gravity="11" android:id="0x7f1002c7" android:paddingTop="64dp" android:paddingBottom="64dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080449" android:drawableLeft="0x7f0207f9" android:drawablePadding="2dp" android:layout_centerInParent="true" android:textAllCaps="true" />
+        </FrameLayout>
+        <FrameLayout android:id="0x7f1002c8" android:layout_width="-1" android:layout_height="-1" /> />
+</RelativeLayout>

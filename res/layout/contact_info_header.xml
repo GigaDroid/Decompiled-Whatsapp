@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <View android:id="0x7f1001a6" android:layout_width="-1" android:layout_height="0x7f0b00af" />
+    <include layout="0x7f0300b1" />
+    <include layout="0x7f03001c" />
+    <LinearLayout android:orientation="1" android:id="0x7f1001b8" android:layout_width="-1" android:layout_height="-2">
+        <View android:background="0x7f020841" android:layout_width="-1" android:layout_height="0x7f0b00ae" />
+        <LinearLayout android:orientation="1" android:background="0x7f0e0097" android:layout_width="-1" android:layout_height="-2">
+            <FrameLayout style="0x7f0c00cb">
+                <TextView android:paddingLeft="0x7f0b00b0" android:text="0x7f0800eb" style="0x7f0c00ce" />
+            </FrameLayout>
+            <include layout="0x7f03003d" />
+            <View android:id="0x7f1001b9" style="0x7f0c00cd" />
+            <com.whatsapp.TextEmojiLabel android:ellipsize="0" android:layout_gravity="3" android:id="0x7f100158" android:paddingLeft="0x7f0b00b0" android:paddingTop="10dp" android:layout_width="-2" android:layout_height="-2" android:singleLine="false" style="0x7f0c00d8" />
+            <TextView android:layout_gravity="3" android:id="0x7f1001ba" android:paddingLeft="0x7f0b00b0" android:paddingBottom="12dp" android:layout_width="-2" android:layout_height="-2" style="0x7f0c00d7" />
+        </LinearLayout>
+        <View android:background="0x7f020842" android:layout_width="-1" android:layout_height="0x7f0b00ae" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f1001bb" android:visibility="1" android:layout_width="-1" android:layout_height="-2">
+        <View android:background="0x7f020841" android:layout_width="-1" android:layout_height="0x7f0b00ae" />
+        <FrameLayout android:background="0x7f0e0097" android:paddingLeft="0x7f0b00b0" style="0x7f0c00cb">
+            <TextView android:ellipsize="3" android:id="0x7f1001bc" android:paddingRight="32dp" android:text="0x7f080276" android:singleLine="true" style="0x7f0c00ce" />
+            <TextView android:id="0x7f1001bd" style="0x7f0c00cc" />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

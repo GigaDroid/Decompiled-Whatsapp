@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:id="0x7f1000aa" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f0100c6">
+    <View android:background="0x7f0e000c" android:layout_width="0dp" android:layout_height="-1" android:layout_marginTop="12dp" android:layout_marginBottom="12dp" />
+    <FrameLayout android:id="0x7f100291" android:layout_width="0dp" android:layout_height="?unknown_attr_ref: 7f0100c6" android:layout_weight="1.0" style="0x7f0c0086">
+        <com.whatsapp.CondensedTextView android:ellipsize="3" android:gravity="11" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080581" android:maxLines="1" android:singleLine="true" style="0x7f0c0122" />
+        <View android:layout_gravity="50" android:id="0x7f100292" android:background="0x7f0208ea" android:layout_width="-1" android:layout_height="4dp" />
+    </FrameLayout>
+    <View android:background="0x7f0e000c" android:layout_width="0dp" android:layout_height="-1" android:layout_marginTop="12dp" android:layout_marginBottom="12dp" />
+    <FrameLayout android:id="0x7f100293" android:layout_width="0dp" android:layout_height="?unknown_attr_ref: 7f0100c6" android:layout_weight="1.0" style="0x7f0c0086">
+        <com.whatsapp.CondensedTextView android:ellipsize="3" android:gravity="11" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080582" android:maxLines="1" android:singleLine="true" style="0x7f0c0122" />
+        <View android:layout_gravity="50" android:id="0x7f100294" android:background="0x7f0208ea" android:layout_width="-1" android:layout_height="4dp" />
+    </FrameLayout>
+    <View android:background="0x7f0e000c" android:layout_width="0dp" android:layout_height="-1" android:layout_marginTop="12dp" android:layout_marginBottom="12dp" />
+    <ProgressBar android:id="0x7f1000a9" android:visibility="2" android:layout_width="1dp" android:layout_height="24dp" />
+</LinearLayout>

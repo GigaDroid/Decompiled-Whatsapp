@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:paddingTop="6dp" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:layout_gravity="13" android:id="0x7f100315" android:paddingTop="2dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="-1dp" android:layout_weight="1.0" style="0x7f0c00e4" />
+            <TextView android:textSize="14sp" android:layout_gravity="15" android:id="0x7f100316" android:paddingLeft="3dp" android:paddingTop="2dp" android:paddingRight="16dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="-1dp" style="0x7f0c00e3" />
+        </LinearLayout>
+        <RelativeLayout android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="-2">
+            <AutoCompleteTextView android:textSize="0x7f0b0055" android:textColor="?unknown_attr_ref: 1010036" android:id="0x7f100317" android:paddingLeft="10dp" android:paddingRight="36dp" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f080085" android:autoText="false" android:popupBackground="0x7f020068" android:inputType="61" android:dropDownAnchor="0x7f100318" android:imeOptions="6" android:dropDownHeight="-2" android:dropDownVerticalOffset="-3dp" />
+            <ImageButton android:id="0x7f100218" android:background="0x7f0208d7" android:padding="4dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02077d" android:tint="0x7f0e0007" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <View android:id="0x7f100318" android:layout_width="-1" android:layout_height="1dp" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" />
+        <ListView android:id="0x102000a" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="0dp" android:listSelector="#00000000" android:cacheColorHint="#00000000" android:divider="0x7f0200fb" android:choiceMode="0" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout whatsapp:layout_width="-1" whatsapp:layout_height="0x7f0b0081">
+    <FrameLayout whatsapp:id="0x7f100177" whatsapp:paddingLeft="0x7f0b00b5" whatsapp:layout_width="-2" whatsapp:layout_height="0x7f0b0081" whatsapp:layout_alignParentLeft="true" whatsapp:layout_centerVertical="true">
+        <com.whatsapp.ThumbnailButton whatsapp:layout_gravity="13" whatsapp:id="0x7f100157" whatsapp:layout_width="0x7f0b00d8" whatsapp:layout_height="0x7f0b00d8" whatsapp:scaleType="3" whatsapp:tbtnRadius="0x7f0b001f" whatsapp:tbtnForegroundOnly="true" />
+    </FrameLayout>
+    <LinearLayout whatsapp:gravity="3" whatsapp:orientation="1" whatsapp:paddingLeft="0x7f0b00b5" whatsapp:paddingRight="0x7f0b00b5" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:layout_toLeftOf="0x7f100178" whatsapp:layout_toRightOf="0x7f100177" whatsapp:layout_centerVertical="true">
+        <com.whatsapp.TextEmojiLabel whatsapp:layout_gravity="3" whatsapp:id="0x7f10013f" whatsapp:layout_width="-2" whatsapp:layout_height="-2" style="0x7f0c00d8" />
+        <LinearLayout whatsapp:layout_gravity="3" whatsapp:orientation="0" whatsapp:layout_width="-2" whatsapp:layout_height="-2">
+            <ImageView whatsapp:layout_gravity="10" whatsapp:id="0x7f10016b" whatsapp:layout_width="-2" whatsapp:layout_height="-2" />
+            <TextView whatsapp:layout_gravity="10" whatsapp:id="0x7f100179" whatsapp:paddingLeft="3dp" whatsapp:layout_width="-2" whatsapp:layout_height="-2" style="0x7f0c00d6" />
+            <TextView whatsapp:ellipsize="3" whatsapp:layout_gravity="10" whatsapp:id="0x7f10017a" whatsapp:paddingLeft="6dp" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:singleLine="true" style="0x7f0c00d6" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout whatsapp:orientation="0" whatsapp:id="0x7f100178" whatsapp:background="0x7f0208d7" whatsapp:layout_width="-2" whatsapp:layout_height="0x7f0b0081" whatsapp:layout_alignParentRight="true" whatsapp:layout_centerVertical="true">
+        <ImageView whatsapp:gravity="11" whatsapp:layout_gravity="10" whatsapp:layout_width="64dp" whatsapp:layout_height="48dp" whatsapp:src="0x7f020784" whatsapp:scaleType="5" whatsapp:contentDescription="0x7f08008f" />
+    </LinearLayout>
+</RelativeLayout>

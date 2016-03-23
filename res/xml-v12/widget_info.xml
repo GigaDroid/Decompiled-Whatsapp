@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider android:minWidth="250dp" android:minHeight="110dp" android:updatePeriodMillis="86400000" android:initialLayout="0x7f030105" android:previewImage="0x7f0208f7" android:resizeMode="3" />

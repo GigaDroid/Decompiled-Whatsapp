@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Abonnement købt til kontakterne %d.</item>
+        <item quantity="one">Abonnement købt til kontakten %d.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d års abonnement købt til %2$s.</item>
+        <item quantity="one">%1$d års abonnement købt til %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Du har mere end %1$d år tilbage af abonnementet.</item>
+        <item quantity="one">Du har mere end %1$d år tilbage af abonnementet.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Du har %1$d år tilbage af abonnementet.</item>
+        <item quantity="one">Du har %1$d år tilbage af abonnementet.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s har købt %2$d års abonnement til dig.</item>
+        <item quantity="one">%1$s har købt %2$d års abonnement til dig.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">En ven har købt %1$d års abonnement til dig.</item>
+        <item quantity="one">En ven har købt %1$d års abonnement til dig.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d modtagere</item>
+        <item quantity="one">%d modtager</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s, og %2$d mere</item>
+        <item quantity="one">%1$s, og %2$d mere</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Udsendt til %d kontakter</item>
+        <item quantity="one">Udsendt til %d kontakt</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">Kan ikke sende dokumenterne “%1$s” fordi %2$s og %3$d andre, er på en version af WhatsApp, som ikke supporterer dokumenter</item>
+        <item quantity="one">Kan ikke sende dokument “%1$s” fordi %2$s og %3$d andre, er på en version af WhatsApp, som ikke supporterer dokumenter.</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">Send %1$d dokumenter til %2$s?</item>
+        <item quantity="one">Send %1$d dokument til %2$s?</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Del %1$d elementer med %2$s?</item>
+        <item quantity="one">Del %1$d element med %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d dage</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Nyd dine
+%d dage
+af abonnementet"</item>
+        <item quantity="one">"Nyd din
+%d dag
+af abonnementet"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d dage
+af abonnementet
+tilbage"</item>
+        <item quantity="one">"%d dag
+af abonnementet
+tilbage"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">slet %d beskeder?</item>
+        <item quantity="one">Slet %d besked?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Slet chat med “%1$s”?
+Du har %2$d usendte beskeder i denne chat."</item>
+        <item quantity="one">"Slet chat med “%1$s”?
+Du har %2$d usendt besked i denne chat."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Disse billeder er for små. Vælg venligst fotos med en højde og bredde på mindst %d pixel.</item>
+        <item quantity="one">Dette billede er for lille. Vælg venligst et foto med en højde og bredde på mindst %d pixel.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Forlad “%1$s” gruppen?
+Du har %2$d usendte beskeder i denne chat."</item>
+        <item quantity="one">"Forlad “%1$s” gruppen?
+Du har %2$d usendt besked i denne chat."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d beskeder gendannet. Dine mediefiler bliver gendannet i baggrunden.</item>
+        <item quantity="one">%d besked gendannet. Dine mediefiler bliver gendannet i baggrunden.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d beskeder gendannet</item>
+        <item quantity="one">%d besked gendannet</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">Send %1$d dokumenter til “%2$s”?</item>
+        <item quantity="one">Send %1$d dokument til “%2$s”?</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Del %1$d elementer med “%2$s”?</item>
+        <item quantity="one">Del %1$d element med “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s er ikke længere admins</item>
+        <item quantity="one">%s er ikke længere admin</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s er nu admins</item>
+        <item quantity="one">%s er nu admin</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d timer siden</item>
+        <item quantity="one">%d time siden</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">Nøjagtigt indenfor %d meter</item>
+        <item quantity="one">Nøjagtig indenfor %d meter</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d beskeder kopieret</item>
+        <item quantity="one">%d besked kopieret</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d beskeder slettet</item>
+        <item quantity="one">%d besked slettet</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">%d minut siden</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d mistede opkald</item>
+        <item quantity="one">%d mistet opkald</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">%d måned</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Nyd dine
+%d måneder
+af abonnementet"</item>
+        <item quantity="one">"Nyd 
+%d måned
+af abonnementet"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d måneder
+af abonnementet
+tilbage"</item>
+        <item quantity="one">"%d måned
+af abonnement
+tilbage"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d kontakter</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Mindst %d kontakter skal vælges</item>
+        <item quantity="one">Mindst %d kontakt skal vælges</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d valgte</item>
+        <item quantity="one">%d valgt</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d valgte</item>
+        <item quantity="one">%d valgt</item>
+    </plurals>
+    <plurals name="names_many">
+        <item quantity="other">%1$s og %2$d andet</item>
+        <item quantity="one">%1$s og %2$d andet</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bytes</item>
+        <item quantity="one">%1$d byte</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d beskeder</item>
+        <item quantity="one">%1$d besked</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d opkald</item>
+        <item quantity="one">%1$d opkald</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d nye beskeder</item>
+        <item quantity="one">%d ny besked</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d beskeder</item>
+        <item quantity="one">%d besked</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s fra %2$d chats</item>
+        <item quantity="one">%1$s fra %2$d chat</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d sider</item>
+        <item quantity="one">%d side</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d sider</item>
+        <item quantity="one">%d side</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d skub</item>
+        <item quantity="one">%d skub</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">%d mangler</item>
+        <item quantity="one">%d mangler</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d beskeder gendannet. Du kan nu fortsætte.</item>
+        <item quantity="one">%,d besked gendannet. Du kan nu fortsætte.</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Gensend %1$d beskeder fra %2$s</item>
+        <item quantity="one">Gensend %1$d besked fra %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Gensend %1$d beskeder fra i går</item>
+        <item quantity="one">Gensend %1$d besked fra i går</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="sending_audios_to_contact">
+        <item quantity="other">Sender %1$d lydfiler til %2$s</item>
+        <item quantity="one">Sender %1$d lydfil til %2$s</item>
+    </plurals>
+    <plurals name="sending_audios_to_contacts">
+        <item quantity="other">Sender %d lydfiler</item>
+        <item quantity="one">Sender %d lydfil</item>
+    </plurals>
+    <plurals name="sending_files_to_contact">
+        <item quantity="other">Sender %1$d filer til %2$s</item>
+        <item quantity="one">Sender %1$d fil til %2$s</item>
+    </plurals>
+    <plurals name="sending_files_to_contacts">
+        <item quantity="other">Sender %d filer</item>
+        <item quantity="one">Sender %d fil</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Sender %1$d videoer til %2$s</item>
+        <item quantity="one">Sender %1$d video til %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Sender %d videoer</item>
+        <item quantity="one">Sender %d video</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Dit WhatsApp abonnement udløber om %d dage. Køb forlængelse nu?</item>
+        <item quantity="one">Dit WhatsApp abonnement udløber om %d dag. Køb forlængelse nu?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Denne version af WhatsApp skal opdateres om %d dage. Opdater til nyeste version?</item>
+        <item quantity="one">Denne version af WhatsApp skal opdateres om %d dag. Opdater til nyeste version?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d ulæste beskeder</item>
+        <item quantity="one">%d ulæst besked</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Nyd dine
+%d år
+af abonnementet"</item>
+        <item quantity="one">"Nyd dit
+%d år
+af abonnementet"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d års
+af abonnementet
+tilbage"</item>
+        <item quantity="one">"%d år
+af abonnementet
+tilbage"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Du oprettede udsendelses liste “%1$s” med %2$d modtagere</item>
+        <item quantity="one">Du oprettede udsendelses liste “%1$s” med %2$d modtager</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Du oprettede en udsendelses liste med %d modtagere</item>
+        <item quantity="one">Du oprettede en udsendelses liste med %d modtager</item>
+    </plurals>
+</resources>

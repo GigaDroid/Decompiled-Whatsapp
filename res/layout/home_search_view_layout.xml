@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-1" android:layout_height="@dimen/abc_action_bar_default_height_material">
+    <ImageView android:layout_gravity="13" android:id="0x7f1002b3" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0207a1" style="?unknown_attr_ref: 7f0100e1" />
+    <android.support.v7.widget.SearchView android:layout_gravity="10" android:id="0x7f1002b4" android:layout_width="-1" android:layout_height="-2" style="@style/Widget_AppCompat_SearchView_ActionBar" />
+</merge>

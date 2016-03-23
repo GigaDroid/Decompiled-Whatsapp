@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_info_gave_n_contacts_service">
+        <item quantity="other">Shërbimi u ble për kontaktet e %d.</item>
+        <item quantity="one">Shërbimi u ble për kontaktin e %d.</item>
+    </plurals>
+    <plurals name="account_info_gave_n_years_of_service">
+        <item quantity="other">%1$d vite shërbimi u blenë për %2$s.</item>
+        <item quantity="one">%1$d vit shërbimi u ble për %2$s.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_more_than_n_years">
+        <item quantity="other">Ju keni më shume se %1$d vite shërbime të mbetura.</item>
+        <item quantity="one">Ju keni më shumë se %1$d vit shërbimi të mbetur.</item>
+    </plurals>
+    <plurals name="account_info_inform_have_n_years">
+        <item quantity="other">Ju keni%1$d vite shërbimi të mbetura.</item>
+        <item quantity="one">Ju keni %1$d vit shërbimi të mbetur.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_friend">
+        <item quantity="other">%1$s bleu %2$d vite shërbimi për ju.</item>
+        <item quantity="one">%1$s bleu %2$d vit shërbimi për ju.</item>
+    </plurals>
+    <plurals name="account_info_received_n_years_of_service_from_unknown">
+        <item quantity="other">Një mik bleu %1$d vite shërbimi për ty.</item>
+        <item quantity="one">Një mik bleu %1$d vit shërbimi për ty.</item>
+    </plurals>
+    <plurals name="broadcast_n_recipients">
+        <item quantity="other">%d marrës</item>
+        <item quantity="one">%d marrës</item>
+    </plurals>
+    <plurals name="broadcast_participants_overflow">
+        <item quantity="other">%1$s dhe %2$d më shumë</item>
+        <item quantity="one">%1$s dhe %2$d më shumë</item>
+    </plurals>
+    <plurals name="broadcast_to_n_contacts">
+        <item quantity="other">Transmeto tek %d kontaktet</item>
+        <item quantity="one">Transmeto tek %d kontakt</item>
+    </plurals>
+    <plurals name="cannot_send_document_to_group">
+        <item quantity="other">"Nuk mund t'u dërgohen dokumente “%1$s,” sepse %2$s dhe %3$d të tjerë kanë një version WhatsApp që nuk përballon dokumentet."</item>
+        <item quantity="one">"Nuk mund t'i dërgohen dokumente “%1$s,” sepse %2$s dhe %3$d të tjerë kanë një version WhatsApp që nuk përballon dokumentet."</item>
+    </plurals>
+    <plurals name="confirm_send_documents_title">
+        <item quantity="other">"T'i dërgohen %1$d dokumente %2$s?"</item>
+        <item quantity="one">"T'i dërgohet %1$d dokument %2$s?"</item>
+    </plurals>
+    <plurals name="confirm_sharing_multiple_title">
+        <item quantity="other">Të shpërndahen artikujt %1$d dhe %2$s?</item>
+        <item quantity="one">Të shpërndahet artikulli %1$d me %2$s?</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d ditë</item>
+        <item quantity="one">%d ditë</item>
+    </plurals>
+    <plurals name="days_of_service">
+        <item quantity="other">"Shijo 
+%d day
+ të shërbimit"</item>
+        <item quantity="one">"Shijo 
+%d day
+ e shërbimit"</item>
+    </plurals>
+    <plurals name="days_of_service_remaining">
+        <item quantity="other">"%d ditë
+shërbimi
+të mbetura"</item>
+        <item quantity="one">"%d ditë
+shërbimi
+e mbetur"</item>
+    </plurals>
+    <plurals name="delete_confirmation_multiple">
+        <item quantity="other">Të fshihen %d mesazhe?</item>
+        <item quantity="one">Të fshihet %d mesazh?</item>
+    </plurals>
+    <plurals name="delete_contact_with_unsent_dialog_title">
+        <item quantity="other">"Të fshihet biseda me “%1$s”?
+ Ke %2$d mesazhe të padërguara në këtë bisedë."</item>
+        <item quantity="one">"Të fshihet biseda me “%1$s”?
+ Ke %2$d mesazh të padërguar në këtë bisedë."</item>
+    </plurals>
+    <plurals name="error_image_dimensions_too_small">
+        <item quantity="other">Këto foto janë shumë të vogla. Të lutem, përzgjidh disa foto me gjatësi e gjerësi të paktën %d piksel.</item>
+        <item quantity="one">Kjo foto është shumë e vogël. Të lutem, përzgjidh një foto me gjatësi e gjerësi të paktën %d piksel.</item>
+    </plurals>
+    <plurals name="exit_group_with_unsent_dialog_title">
+        <item quantity="other">"Të dilet nga grupi “%1$s”?
+ Ke %2$d mesazhe të padërguara në këtë bisedë."</item>
+        <item quantity="one">"Të dilet nga grupi “%1$s”?
+ Ke %2$d mesazh të padërguar në këtë bisedë."</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_media_to_restore">
+        <item quantity="other">%d mesazhe u ruajtën. Materialet e tua do të rikthehen në sfond.</item>
+        <item quantity="one">%d mesazh u ruajt. Materialet e tua do të rikthehen në sfond.</item>
+    </plurals>
+    <plurals name="gdrive_messages_restored_with_no_media_to_restore">
+        <item quantity="other">%d mesazhe u rikthyen</item>
+        <item quantity="one">%d mesazh u rikthye</item>
+    </plurals>
+    <plurals name="group_confirm_send_documents_title">
+        <item quantity="other">"T'i dërgohen dokumentat %1$d “%2$s”?"</item>
+        <item quantity="one">"T'i dërgohet dokumenti %1$d “%2$s”?"</item>
+    </plurals>
+    <plurals name="group_confirm_sharing_multiple_title">
+        <item quantity="other">Të shpërndahen artikujt %1$d me “%2$s”?</item>
+        <item quantity="one">Të shpërndahet artikulli %1$d me “%2$s”?</item>
+    </plurals>
+    <plurals name="group_participant_demoted_names">
+        <item quantity="other">%s nuk janë më drejtuesa</item>
+        <item quantity="one">%s nuk është më drejtues</item>
+    </plurals>
+    <plurals name="group_participant_promoted_names">
+        <item quantity="other">%s janë drejtuesa tashmë</item>
+        <item quantity="one">%s është drejtues tashmë</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">%d orë</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d orë më parë</item>
+        <item quantity="one">%d orë më parë</item>
+    </plurals>
+    <plurals name="location_accuracy">
+        <item quantity="other">I saktë me %d metra</item>
+        <item quantity="one">I saktë me %d metër</item>
+    </plurals>
+    <plurals name="messages_copied">
+        <item quantity="other">%d mesazhe u kopjuan</item>
+        <item quantity="one">%d mesazhi u kopjua</item>
+    </plurals>
+    <plurals name="messages_deleted">
+        <item quantity="other">%d mesazhe u fshinë</item>
+        <item quantity="one">%d mesazh u fshi</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minutë</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">%d minutë më parë</item>
+    </plurals>
+    <plurals name="missed_calls">
+        <item quantity="other">%d thirrje të humbura</item>
+        <item quantity="one">%d thirrje e humbur</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="other">%d muaj</item>
+        <item quantity="one">%d muaj</item>
+    </plurals>
+    <plurals name="months_of_service">
+        <item quantity="other">"Shijoni
+%d muajt
+ tuaj të shërbimit"</item>
+        <item quantity="one">"Shijoni
+%d muajin
+ tuaj të shërbimit"</item>
+    </plurals>
+    <plurals name="months_of_service_remaining">
+        <item quantity="other">"%d muaj
+shërbimi 
+të mbetur"</item>
+        <item quantity="one">"%d muaj
+shërbimi 
+të mbetur"</item>
+    </plurals>
+    <plurals name="n_contacts">
+        <item quantity="other">%d kontakte</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="n_contacts_must_be_selected">
+        <item quantity="other">Të paktën %d kontakte duhet të përzgjidhen</item>
+        <item quantity="one">Të paktën %d kontakt duhet të përzgjidhet</item>
+    </plurals>
+    <plurals name="n_contacts_selected">
+        <item quantity="other">%d të përzgjedhur</item>
+        <item quantity="one">%d të përzgjedhur</item>
+    </plurals>
+    <plurals name="n_selected">
+        <item quantity="other">%d të zgjedhura</item>
+        <item quantity="one">%d e zgjedhur</item>
+    </plurals>
+    <plurals name="network_usage_byte_count_bytes">
+        <item quantity="other">%1$d bajte</item>
+        <item quantity="one">%1$d bajt</item>
+    </plurals>
+    <plurals name="network_usage_message_count">
+        <item quantity="other">%1$d mesazhe</item>
+        <item quantity="one">%1$d mesazh</item>
+    </plurals>
+    <plurals name="network_usage_voip_call_count">
+        <item quantity="other">%1$d telefonata</item>
+        <item quantity="one">%1$d telefonatë</item>
+    </plurals>
+    <plurals name="notification_new_message">
+        <item quantity="other">%d mesazhe të reja</item>
+        <item quantity="one">%d mesazh i ri</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_1">
+        <item quantity="other">%d mesazhe</item>
+        <item quantity="one">%d mesazh</item>
+    </plurals>
+    <plurals name="notification_new_message_from_multiple_contacts_2">
+        <item quantity="other">%1$s nga bisedat %2$d</item>
+        <item quantity="one">%1$s nga biseda %2$d</item>
+    </plurals>
+    <plurals name="number_of_pages">
+        <item quantity="other">%d faqe</item>
+        <item quantity="one">%d faqe</item>
+    </plurals>
+    <plurals name="number_of_sheets">
+        <item quantity="other">%d faqe</item>
+        <item quantity="one">%d faqe</item>
+    </plurals>
+    <plurals name="number_of_slides">
+        <item quantity="other">%d faqe</item>
+        <item quantity="one">%d faqe</item>
+    </plurals>
+    <plurals name="participants_remaining">
+        <item quantity="other">edhe %d</item>
+        <item quantity="one">edhe %d</item>
+    </plurals>
+    <plurals name="register_messages_restored">
+        <item quantity="other">%,d mesazhe të ruajtura. Gati!</item>
+        <item quantity="one">%,d mesazh i ruajtur. Gati!</item>
+    </plurals>
+    <plurals name="resend_messages_from_date">
+        <item quantity="other">Ridërgo %1$d mesazhe nga %2$s</item>
+        <item quantity="one">Ridërgo %1$d mesazh nga %2$s</item>
+    </plurals>
+    <plurals name="resend_messages_from_yesterday">
+        <item quantity="other">Ridërgo %1$d mesazhe nga dje</item>
+        <item quantity="one">Ridërgo %1$d mesazh nga dje</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekonda</item>
+        <item quantity="one">%d sekondë</item>
+    </plurals>
+    <plurals name="sending_videos_to_contact">
+        <item quantity="other">Duke dërguar videot %1$d tek %2$s</item>
+        <item quantity="one">Duke dërguar videon %1$d tek %2$s</item>
+    </plurals>
+    <plurals name="sending_videos_to_contacts">
+        <item quantity="other">Duke dërguar videot %d</item>
+        <item quantity="one">Duke dërguar videon %d</item>
+    </plurals>
+    <plurals name="service_expire_days">
+        <item quantity="other">Shërbimi juaj WhatsApp do të skadojë në ditët %d. Të blihet tani zgjatja e afatit?</item>
+        <item quantity="one">Shërbimi juaj WhatsApp do të skadojë në ditën %d. Të blihet tani zgjatja e afatit?</item>
+    </plurals>
+    <plurals name="software_about_to_expire">
+        <item quantity="other">Versioni i WhatsApp duhet të përditësohet në %d ditë. Do ta përditësosh tani?</item>
+        <item quantity="one">Versioni i WhatsApp duhet të përditësohet në %d ditë. Do ta përditësosh tani?</item>
+    </plurals>
+    <plurals name="unread_message_count">
+        <item quantity="other">%d mesazhe të palexuara</item>
+        <item quantity="one">%d mesazh i palexuar</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="other">%d vite</item>
+        <item quantity="one">%d vit</item>
+    </plurals>
+    <plurals name="years_of_service">
+        <item quantity="other">"Shijo
+%d vitet
+e shërbimit"</item>
+        <item quantity="one">"Shijo
+%d vitin
+e shërbimit"</item>
+    </plurals>
+    <plurals name="years_of_service_remaining">
+        <item quantity="other">"%d vite
+shërbime
+të mbetura"</item>
+        <item quantity="one">"%d vit
+shërbimi
+i mbetur"</item>
+    </plurals>
+    <plurals name="you_created_list">
+        <item quantity="other">Krijuat listën e transmetimeve “%1$s” me %2$d marrës.</item>
+        <item quantity="one">Krijuat listën e transmetimeve “%1$s” me %2$d marrës.</item>
+    </plurals>
+    <plurals name="you_created_list_unnamed">
+        <item quantity="other">Ju krijuat një listë transmetimi me %d marrës.</item>
+        <item quantity="one">Ju krijuat një listë transmetimi me %d marrës.</item>
+    </plurals>
+</resources>

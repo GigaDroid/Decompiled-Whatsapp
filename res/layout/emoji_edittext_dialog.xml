@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="#ffffff" android:layout_width="-1" android:layout_height="-1">
+    <TextView android:gravity="13" android:id="0x7f10026a" style="0x7f0c00d2" />
+    <LinearLayout android:orientation="1" android:id="0x7f1001af" android:paddingTop="16dp" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <RelativeLayout android:paddingLeft="13dp" android:paddingRight="2dp" android:layout_width="-1" android:layout_height="-2"
+            <RelativeLayout android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="0x7f10026e" android:layout_centerVertical="true">
+                <EditText android:textColor="#000000" android:textColorHint="#888888" android:ellipsize="3" android:id="0x7f10026f" android:paddingRight="0x7f0b0082" android:layout_width="-1" android:layout_height="-2" android:maxLines="1" android:lines="1" android:singleLine="true" android:inputType="4001" />
+                <TextView android:textSize="14sp" android:textColor="0x7f0e004b" android:id="0x7f100270" android:paddingBottom="4dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="10dp" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <ImageButton android:id="0x7f10026e" android:layout_width="48dp" android:layout_height="48dp" android:src="0x7f020834" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="0x7f0c0086" />
+        </RelativeLayout>
+    </LinearLayout>
+    <include layout="0x7f0300cd" />
+</LinearLayout>

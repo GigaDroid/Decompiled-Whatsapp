@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:paddingLeft="0x7f0b005e" android:paddingTop="0x7f0b0061" android:paddingRight="0x7f0b005e" android:paddingBottom="0x7f0b0061" android:layout_width="-1" android:layout_height="-2">
+        <View android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="1" android:padding="0dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0b005f" android:layout_marginRight="0x7f0b005f">
+            <ProgressBar android:layout_gravity="11" android:id="0x7f1000c7" android:visibility="0" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="0x7f0b0060" android:indeterminate="true" android:indeterminateOnly="true" style="?unknown_attr_ref: 101007a" />
+            <TextView android:textSize="18sp" android:textColor="#ff707070" android:layout_gravity="11" android:id="0x7f1000c8" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0801f7" android:fontFamily="sans-serif" />
+        </LinearLayout>
+        <View android:layout_width="-1" android:layout_height="-1" android:layout_weight="1.0" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout whatsapp:layout_width="-1" whatsapp:layout_height="-2"
+    <RelativeLayout whatsapp:id="0x7f1001cf" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:minHeight="0x7f0b0081">
+        <FrameLayout whatsapp:id="0x7f100177" whatsapp:paddingLeft="0x7f0b00b5" whatsapp:layout_width="-2" whatsapp:layout_height="0x7f0b0081" whatsapp:layout_alignParentLeft="true">
+            <com.whatsapp.ThumbnailButton whatsapp:enabled="false" whatsapp:layout_gravity="13" whatsapp:id="0x7f10013d" whatsapp:layout_width="0x7f0b00d8" whatsapp:layout_height="0x7f0b00d8" whatsapp:scaleType="3" whatsapp:tbtnRadius="0x7f0b001f" whatsapp:tbtnForegroundOnly="true" />
+        </FrameLayout>
+        <TextView whatsapp:textSize="13sp" whatsapp:textColor="0x106000b" whatsapp:gravity="11" whatsapp:layout_gravity="5" whatsapp:id="0x7f1001d2" whatsapp:background="0x7f02009d" whatsapp:visibility="2" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:layout_marginRight="0x7f0b00b5" whatsapp:text="0x7f080297" whatsapp:singleLine="true" whatsapp:layout_alignParentRight="true" whatsapp:layout_centerVertical="true" whatsapp:textAllCaps="true" />
+        <LinearLayout whatsapp:orientation="1" whatsapp:paddingLeft="0x7f0b00b5" whatsapp:paddingRight="0x7f0b00b5" whatsapp:layout_width="-1" whatsapp:layout_height="-2" whatsapp:layout_toLeftOf="0x7f1001d2" whatsapp:layout_toRightOf="0x7f100177" whatsapp:layout_centerVertical="true" whatsapp:layout_alignWithParentIfMissing="true"
+            <LinearLayout whatsapp:gravity="10" whatsapp:orientation="0" whatsapp:layout_width="-1" whatsapp:layout_height="-2">
+                <FrameLayout whatsapp:layout_width="0dp" whatsapp:layout_height="-2" whatsapp:layout_weight="1.0">
+                    <com.whatsapp.TextEmojiLabel whatsapp:layout_gravity="13" whatsapp:id="0x7f1001d3" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:lines="1" style="0x7f0c00d8" />
+                </FrameLayout>
+                <TextView whatsapp:textSize="12sp" whatsapp:textColor="0x7f0e0033" whatsapp:gravity="15" whatsapp:id="0x7f1001d4" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:maxWidth="0x7f0b0067" whatsapp:singleLine="true" whatsapp:layout_weight="0.0" whatsapp:layout_alignParentRight="true" whatsapp:textAllCaps="true" />
+            </LinearLayout>
+            <com.whatsapp.TextEmojiLabel whatsapp:textStyle="0" whatsapp:gravity="3" whatsapp:layout_gravity="3" whatsapp:id="0x7f1001d5" whatsapp:layout_width="-2" whatsapp:layout_height="-2" whatsapp:lines="1" style="0x7f0c00d6" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
